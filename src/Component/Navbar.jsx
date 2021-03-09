@@ -1,7 +1,9 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import SearchBar from "./SearchBar";
-import style from "./Styles/navbar.module.css"
+import style from "./Styles/navbar.module.css";
+import { RiArrowDropDownFill } from "react-icons/ri";
+import Dropdown from "./Dropdown";
 
 const linkLeft = [
   {
@@ -54,20 +56,34 @@ const linkMiddle = [
 ];
 
 export default function Navbar() {
+  const [moreDrop, setMoreDrop] = React.useState(false);
+  const showDropDown=()=>{
+    setMoreDrop(!moreDrop)
+  }
   return (
-    
-    <div className={style.navBar__wrap}>
-      <div>
-        {linkLeft?.map(({ to, title }, index) => (
-          <Link className={style.navBar__left} to={to}>{title}</Link>
-        ))}
+    <div>
+      <div className={style.navBar__wrap}>
+        <div>
+          {linkLeft?.map(({ to, title }, index) => (
+            <Link className={style.navBar__left} to={to}>
+              {title}
+            </Link>
+          ))}
+        </div>
+        <div>
+          {linkMiddle?.map(({ to, title }, index) => (
+            <Link className={style.navBar__right} to={to}>
+              {title}
+            </Link>
+          ))}
+        </div>
+        <div onClick={showDropDown} className={style.dropdown__icon}>
+          <RiArrowDropDownFill />
+        </div>
+        <SearchBar></SearchBar>
       </div>
-      <div>
-        {linkMiddle?.map(({ to, title }, index) => (
-          <Link className={style.navBar__right} to={to}>{title}</Link>
-        ))}
-      </div>
-      <SearchBar></SearchBar>
+      {moreDrop && <Dropdown></Dropdown> }
+      
     </div>
   );
 }
