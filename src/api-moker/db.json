@@ -1,0 +1,31 @@
+{
+  "news": [
+    {
+      "id": 222222,
+      "headline": "Article headline",
+      "description": "Random Description",
+      "published_at": "01/01/2020",
+      "category": "Asia",
+      "sub_category": "India",
+      "img": [{
+          "img_url": "xyz1.jpg",
+          "img_tag": "randon img tag1"
+        },
+        {
+          "img_url": "asdasdada2.jpg",
+          "img_tag": "randon img tag2"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "sub title 1",
+          "sub_description": "sub description 1"
+        },
+        {
+          "sub_title": "sub title 2",
+          "sub_description": "sub description 2"
+        }
+      ]
+    }
+  ]
+}
