@@ -1,7 +1,385 @@
 {
   "news": [
     {
-      "id": 222222,
+      "id": 100001,
+      "headline": "Article headline",
+      "description": "Random Description",
+      "published_at": "01/01/2020",
+      "category": "Asia",
+      "sub_category": "India",
+      "img": [{
+          "img_url": "xyz1.jpg",
+          "img_tag": "randon img tag1"
+        },
+        {
+          "img_url": "asdasdada2.jpg",
+          "img_tag": "randon img tag2"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "sub title 1",
+          "sub_description": "sub description 1"
+        },
+        {
+          "sub_title": "sub title 2",
+          "sub_description": "sub description 2"
+        }
+      ]
+    },
+    {
+      "id": 100002,
+      "headline": "Article headline",
+      "description": "Random Description",
+      "published_at": "01/01/2020",
+      "category": "Asia",
+      "sub_category": "India",
+      "img": [{
+          "img_url": "xyz1.jpg",
+          "img_tag": "randon img tag1"
+        },
+        {
+          "img_url": "asdasdada2.jpg",
+          "img_tag": "randon img tag2"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "sub title 1",
+          "sub_description": "sub description 1"
+        },
+        {
+          "sub_title": "sub title 2",
+          "sub_description": "sub description 2"
+        }
+      ]
+    },
+    {
+      "id": 100003,
+      "headline": "Article headline",
+      "description": "Random Description",
+      "published_at": "01/01/2020",
+      "category": "Asia",
+      "sub_category": "India",
+      "img": [{
+          "img_url": "xyz1.jpg",
+          "img_tag": "randon img tag1"
+        },
+        {
+          "img_url": "asdasdada2.jpg",
+          "img_tag": "randon img tag2"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "sub title 1",
+          "sub_description": "sub description 1"
+        },
+        {
+          "sub_title": "sub title 2",
+          "sub_description": "sub description 2"
+        }
+      ]
+    },
+    {
+      "id": 100004,
+      "headline": "Article headline",
+      "description": "Random Description",
+      "published_at": "01/01/2020",
+      "category": "Asia",
+      "sub_category": "India",
+      "img": [{
+          "img_url": "xyz1.jpg",
+          "img_tag": "randon img tag1"
+        },
+        {
+          "img_url": "asdasdada2.jpg",
+          "img_tag": "randon img tag2"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "sub title 1",
+          "sub_description": "sub description 1"
+        },
+        {
+          "sub_title": "sub title 2",
+          "sub_description": "sub description 2"
+        }
+      ]
+    },
+    {
+      "id": 100005,
+      "headline": "Article headline",
+      "description": "Random Description",
+      "published_at": "01/01/2020",
+      "category": "Asia",
+      "sub_category": "India",
+      "img": [{
+          "img_url": "xyz1.jpg",
+          "img_tag": "randon img tag1"
+        },
+        {
+          "img_url": "asdasdada2.jpg",
+          "img_tag": "randon img tag2"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "sub title 1",
+          "sub_description": "sub description 1"
+        },
+        {
+          "sub_title": "sub title 2",
+          "sub_description": "sub description 2"
+        }
+      ]
+    },
+    {
+      "id": 100006,
+      "headline": "Article headline",
+      "description": "Random Description",
+      "published_at": "01/01/2020",
+      "category": "Asia",
+      "sub_category": "India",
+      "img": [{
+          "img_url": "xyz1.jpg",
+          "img_tag": "randon img tag1"
+        },
+        {
+          "img_url": "asdasdada2.jpg",
+          "img_tag": "randon img tag2"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "sub title 1",
+          "sub_description": "sub description 1"
+        },
+        {
+          "sub_title": "sub title 2",
+          "sub_description": "sub description 2"
+        }
+      ]
+    },
+    {
+      "id": 100007,
+      "headline": "Article headline",
+      "description": "Random Description",
+      "published_at": "01/01/2020",
+      "category": "Asia",
+      "sub_category": "India",
+      "img": [{
+          "img_url": "xyz1.jpg",
+          "img_tag": "randon img tag1"
+        },
+        {
+          "img_url": "asdasdada2.jpg",
+          "img_tag": "randon img tag2"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "sub title 1",
+          "sub_description": "sub description 1"
+        },
+        {
+          "sub_title": "sub title 2",
+          "sub_description": "sub description 2"
+        }
+      ]
+    },
+    {
+      "id": 100008,
+      "headline": "Article headline",
+      "description": "Random Description",
+      "published_at": "01/01/2020",
+      "category": "Asia",
+      "sub_category": "India",
+      "img": [{
+          "img_url": "xyz1.jpg",
+          "img_tag": "randon img tag1"
+        },
+        {
+          "img_url": "asdasdada2.jpg",
+          "img_tag": "randon img tag2"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "sub title 1",
+          "sub_description": "sub description 1"
+        },
+        {
+          "sub_title": "sub title 2",
+          "sub_description": "sub description 2"
+        }
+      ]
+    },
+    {
+      "id": 100009,
+      "headline": "Article headline",
+      "description": "Random Description",
+      "published_at": "01/01/2020",
+      "category": "Asia",
+      "sub_category": "India",
+      "img": [{
+          "img_url": "xyz1.jpg",
+          "img_tag": "randon img tag1"
+        },
+        {
+          "img_url": "asdasdada2.jpg",
+          "img_tag": "randon img tag2"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "sub title 1",
+          "sub_description": "sub description 1"
+        },
+        {
+          "sub_title": "sub title 2",
+          "sub_description": "sub description 2"
+        }
+      ]
+    },
+    {
+      "id": 100010,
+      "headline": "Article headline",
+      "description": "Random Description",
+      "published_at": "01/01/2020",
+      "category": "Asia",
+      "sub_category": "India",
+      "img": [{
+          "img_url": "xyz1.jpg",
+          "img_tag": "randon img tag1"
+        },
+        {
+          "img_url": "asdasdada2.jpg",
+          "img_tag": "randon img tag2"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "sub title 1",
+          "sub_description": "sub description 1"
+        },
+        {
+          "sub_title": "sub title 2",
+          "sub_description": "sub description 2"
+        }
+      ]
+    },
+    {
+      "id": 100011,
+      "headline": "Article headline",
+      "description": "Random Description",
+      "published_at": "01/01/2020",
+      "category": "Asia",
+      "sub_category": "India",
+      "img": [{
+          "img_url": "xyz1.jpg",
+          "img_tag": "randon img tag1"
+        },
+        {
+          "img_url": "asdasdada2.jpg",
+          "img_tag": "randon img tag2"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "sub title 1",
+          "sub_description": "sub description 1"
+        },
+        {
+          "sub_title": "sub title 2",
+          "sub_description": "sub description 2"
+        }
+      ]
+    },
+    {
+      "id": 100012,
+      "headline": "Article headline",
+      "description": "Random Description",
+      "published_at": "01/01/2020",
+      "category": "Asia",
+      "sub_category": "India",
+      "img": [{
+          "img_url": "xyz1.jpg",
+          "img_tag": "randon img tag1"
+        },
+        {
+          "img_url": "asdasdada2.jpg",
+          "img_tag": "randon img tag2"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "sub title 1",
+          "sub_description": "sub description 1"
+        },
+        {
+          "sub_title": "sub title 2",
+          "sub_description": "sub description 2"
+        }
+      ]
+    },
+    {
+      "id": 100013,
+      "headline": "Article headline",
+      "description": "Random Description",
+      "published_at": "01/01/2020",
+      "category": "Asia",
+      "sub_category": "India",
+      "img": [{
+          "img_url": "xyz1.jpg",
+          "img_tag": "randon img tag1"
+        },
+        {
+          "img_url": "asdasdada2.jpg",
+          "img_tag": "randon img tag2"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "sub title 1",
+          "sub_description": "sub description 1"
+        },
+        {
+          "sub_title": "sub title 2",
+          "sub_description": "sub description 2"
+        }
+      ]
+    },
+    {
+      "id": 100014,
+      "headline": "Article headline",
+      "description": "Random Description",
+      "published_at": "01/01/2020",
+      "category": "Asia",
+      "sub_category": "India",
+      "img": [{
+          "img_url": "xyz1.jpg",
+          "img_tag": "randon img tag1"
+        },
+        {
+          "img_url": "asdasdada2.jpg",
+          "img_tag": "randon img tag2"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "sub title 1",
+          "sub_description": "sub description 1"
+        },
+        {
+          "sub_title": "sub title 2",
+          "sub_description": "sub description 2"
+        }
+      ]
+    },
+    {
+      "id": 100015,
       "headline": "Article headline",
       "description": "Random Description",
       "published_at": "01/01/2020",
@@ -27,5 +405,6 @@
         }
       ]
     }
+
   ]
 }
