@@ -8,7 +8,7 @@ export default function SearchBar() {
     return (
         <div className={style.search}>
             <input type="text" placeholder="Search"/>
-            <BiSearch/>
+            <div className={style.search__icon}><BiSearch/></div>
         </div>
     )
 }

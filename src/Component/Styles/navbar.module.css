@@ -1,33 +1,115 @@
 .navBar__wrap {
   display: flex;
   flex-direction: row;
-  
+  color: white;
+  height: 45px;
+  background-color: black;
 }
-.navBar__wrap>div:nth-child(1){
-    width: 25%;
-    display: flex;
-    flex-direction: row;
-    justify-content: flex-end;
-   
+.navBar__wrap > div:nth-child(1) {
+  width: 30%;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  color: white;
 }
-.navBar__wrap>div:nth-child(2){
-    width: 40%;
-    display: flex;
-    flex-direction: row;
-    justify-content:center;
-   
+.navBar__wrap > div:nth-child(2) {
+  width: 40%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  color: white;
 }
-.navBar__left{
-    padding: 10px;
+.navBar__left {
+  padding: 10px;
+  color: white;
+  text-decoration: none;
+  font: inherit;
+  line-height: 2.27em;
+  padding: 0.462em 12px 0.308em;
+  min-height: 2.27em;
+  color: #fff;
+  color: #fff;
+  font-size: 14px;
+  font-weight: 600;
+  border-color: #666;
+  border-left: 0.5px solid rgba(204, 204, 204, 0.548);
+  padding-right: 70px;
 }
-.navBar__right{
-    padding: 10px;
+.navBar__right {
+  padding: 10px;
+  color: white;
+  text-decoration: none;
+  font: inherit;
+  line-height: 2.27em;
+  padding: 0.462em 12px 0.308em;
+  min-height: 2.27em;
+  color: #fff;
+  font-size: 14px;
+  font-weight: 600;
+  border-color: #666;
+  border-left: 0.5px solid rgba(204, 204, 204, 0.548);
+  padding-right: 20px;
+  padding-left: 20px;
 }
-.search{
-   width: 200px;
-   
+.navBar__right :hover {
+  cursor: pointer;
+  border-bottom: 3px solid red;
+  /* border-color: red; */
 }
-.search>input{
- outline: none;
- border: none;
+
+.search {
+  display: flex;
+  flex-direction: row;
+
+  border: 1px solid balck;
+  padding: 10px;
+}
+.search > input {
+  width: 200px;
+  height: 20px;
+  outline: none;
+  border: none;
+}
+.search__icon {
+  position: relative;
+  left: -20px;
+  color: black;
+}
+.dropdown__icon {
+  /* position: relative;
+    top: 10px;
+    left: 2px; */
+  padding: 6px;
+  font-size: 30px;
+  padding-left: 30px;
+}
+
+.dropdown {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  border:1px solid black;
+  border-bottom: 1px solid black;
+  box-shadow: 0px 0.5px 1px 1px;
+}
+.dropdown > div:nth-child(1) {
+  width: 30%;
+  font-size: 30px;
+  font-weight: 400;
+
+}
+.dropdown > div:nth-child(2) {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  width: 80%;
+}
+.dropdown__right {
+  padding: 10px 65px;
+  color: black;
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 600;
 }
