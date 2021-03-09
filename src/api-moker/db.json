@@ -2,406 +2,406 @@
   "news": [
     {
       "id": 100001,
-      "headline": "Article headline",
-      "description": "Random Description",
-      "published_at": "01/01/2020",
+      "headline": "India rebukes UK MPs over farmers' protest debate",
+      "description": "India has rebuked UK MPs for criticising its handling of long-running farmers' protests in Delhi. Several Labour, Liberal Democrat and Scottish National Party MPs on Monday expressed concern over the safety of protesters and the status of press freedom in India. But India's High Commission in London said the parliamentary discussion was full of 'false assertions'. Indian farmers have been protesting for months against agricultural reforms. Thousands of them have been camped on the outskirts of the capital Delhi, demanding the government repeal the laws, which seek to further open up India's farming sector to private players. Prime Minister Narendra Modi and his Bharatiya Janata Party-led government insist the laws will improve farmers' incomes. But farmers say the opposite will happen since the reforms give corporate companies greater bargaining power. The protests - which have lasted for more than 100 days - have dominated headlines and social media feeds, and the government's response has drawn international attention and even rebuke. India's government has shut down the internet around the protest sites for brief spells, arrested protesters, sympathetic activists and even journalists covering the strike. Citing these instances, UK MPs said human rights and democratic freedoms were not being upheld in India, reports the BBC's Yogita Limaye. 'Water cannons and tear gas and repeated clashes between police and farmers and interruption in internet connectivity have been matters of concern. Several farmers have reportedly committed suicide,' SNP MP Martin Day said.",
+      "published_at": "09/03/2021",
       "category": "Asia",
       "sub_category": "India",
       "img": [{
-          "img_url": "xyz1.jpg",
-          "img_tag": "randon img tag1"
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/BE3B/production/_117499684_gettyimages-1231599814.jpg",
+          "img_tag": "Thousands of farmers are protesting at Delhi's borders"
         },
         {
-          "img_url": "asdasdada2.jpg",
-          "img_tag": "randon img tag2"
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/2CB9/production/_116994411_cdf9330b-a82b-47d0-bd03-0ee13eb28d3d.jpg",
+          "img_tag": "The farmers are demanding the repeal of three farm laws"
         }
       ],
       "article_data": [
         {
-          "sub_title": "sub title 1",
-          "sub_description": "sub description 1"
+          "sub_title": "When Prime Minister Boris Johnson will visits the country",
+          "sub_description": "They demanded that UK officials address these concerns with India when Prime Minister Boris Johnson visits the country, which is expected later this year. The UK government has said they have already raised these issues and will continue to do so while respecting that the farm laws are a domestic matter. We deeply regret that rather than a balanced debate, false assertions - without substantiation or facts - were made, casting aspersions on the largest functioning democracy in the world and its institutions, India's High Commission said in a statement."
         },
         {
-          "sub_title": "sub title 2",
-          "sub_description": "sub description 2"
+          "sub_title": "Monday's debate in the UK parliament",
+          "sub_description": "When aspersions are cast on India by anyone, irrespective of their claims of friendship and love for India or domestic political compulsions, there is a need to set the record straight,' it added. Monday's debate in the UK parliament follows a recent report on global political rights and liberties that changed India's status from a free country to 'partly free'. It attributed the downgrade to increased pressure on human rights groups, journalists and activists, and targeting of minorities, since 2014, when Mr Modi swept to power. But the Indian government's response to the protest - which has included criminal charges against eight journalists, the controversial arrest of a 22-year-old activist and a spat with pop star Rihanna - has sparked anger and criticism in India as well."
         }
       ]
     },
     {
       "id": 100002,
-      "headline": "Article headline",
-      "description": "Random Description",
-      "published_at": "01/01/2020",
+      "headline": "Farm laws: Are India's new reforms a 'death warrant' for farmers?",
+      "description": "Three contentious laws that will change the way India's farmers do business have sparked one of India's biggest protests and a months-long standoff with the government. Since November, tens of thousands of protesting farmers demanding repeal of the laws have been camping out on highways on the outskirts of Delhi. The parliament passed the three bills in September, which were then signed into law by the president. Opposition parties accused the government of flouting parliamentary procedure by passing the bills hurriedly and not listening to their demand of sending the bills to a parliamentary committee for further deliberations. But beyond the political fracas, the bills have also split opinions - while Prime Minister Narendra Modi called the reforms a 'watershed moment for Indian agriculture, opposition parties have termed them 'anti-farmer and likened them to a 'death warrant'. Angry and worried farmer groups see them as unfair and exploitative. Pro-reform economists have largely welcomed the move, saying the new laws will help improve farm incomes, attract investment and technology, and increase productivity. Nearly a dozen rounds of talks between the 30-odd farmer unions and the government have yielded no results.",
+      "published_at": "16/02/2021",
       "category": "Asia",
       "sub_category": "India",
       "img": [{
-          "img_url": "xyz1.jpg",
-          "img_tag": "randon img tag1"
-        },
+        "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/2CB9/production/_116994411_cdf9330b-a82b-47d0-bd03-0ee13eb28d3d.jpg",
+        "img_tag": "The farmers are demanding the repeal of three farm laws"
+      },
         {
-          "img_url": "asdasdada2.jpg",
-          "img_tag": "randon img tag2"
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/920E/production/_114509373_gettyimages-1197872954.jpg",
+          "img_tag": "Many farmers sell produce at large wholesale markets or mandis"
         }
       ],
       "article_data": [
         {
-          "sub_title": "sub title 1",
-          "sub_description": "sub description 1"
+          "sub_title": "What exactly do the bills propose?",
+          "sub_description": "Taken together, the reforms will loosen rules around sale, pricing and storage of farm produce - rules that have protected India's farmers from the free market for decades. They also allow private buyers to hoard essential commodities for future sales, which only government-authorised agents could do earlier; and they outline rules for contract farming, where farmers tailor their production to suit a specific buyer's demand. One of the biggest changes is that farmers will be allowed to sell their produce at a market price directly to private players - agricultural businesses, supermarket chains and online grocers. Most Indian farmers currently sell the majority of their produce at government-controlled wholesale markets or mandis at assured floor prices."
         },
         {
-          "sub_title": "sub title 2",
-          "sub_description": "sub description 2"
+          "sub_title": "So, what is the issue?",
+          "sub_description": "The issue is that it's unclear how this will play out in reality. For one, farmers can already sell to private players in many states but what these bills do is offer a national framework. But farmers are mainly concerned that this will eventually lead to the end of wholesale markets and assured prices, leaving them with no back-up option. That is, if they are not satisfied with the price offered by a private buyer, they cannot return to the mandi or use it as a bargaining chip during negotiations."
         }
       ]
     },
     {
       "id": 100003,
-      "headline": "Article headline",
-      "description": "Random Description",
-      "published_at": "01/01/2020",
+      "headline": "Why do India's farmers feel insecure?",
+      "description": "On the face of it, India's farmers shouldn't be complaining. The government provides them generous subsidies, exemption from income tax and crop insurance. They are guaranteed prices for 23 crops and debts are often waived when they are unable to pay off loans. But farmers have been on the boil for some years now. Although more than half of Indians work on farms, farming accounts for barely a sixth of the country's GDP.",
+      "published_at": "16/02/2021",
       "category": "Asia",
       "sub_category": "India",
       "img": [{
-          "img_url": "xyz1.jpg",
-          "img_tag": "randon img tag1"
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/16539/production/_116994419_022b36ca-eb68-4843-924f-250349178f6b.jpg",
+          "img_tag": "More than half of Indians work on farms"
         },
         {
-          "img_url": "asdasdada2.jpg",
-          "img_tag": "randon img tag2"
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/C8F9/production/_116994415_11028de4-4ea8-4698-bc33-ef2337ff83cd.jpg",
+          "img_tag": "Protesting farmers broke through police barricades to storm Delhi's Red Fort complex in January"
         }
       ],
       "article_data": [
         {
-          "sub_title": "sub title 1",
-          "sub_description": "sub description 1"
+          "sub_title": "What has the government proposed?",
+          "sub_description": "The government suggested tweaks to the laws, and later offered to suspend them altogether for up to 18 months even as negotiations continue. But the farmers have remained firm, saying they will not settle for anything less than a repeal of the laws."
         },
         {
-          "sub_title": "sub title 2",
-          "sub_description": "sub description 2"
+          "sub_title": "Why did the protests turn violent?",
+          "sub_description": "On 26 January a rally against the laws turned violent, after protesting farmers broke through police barricades to storm Delhi's historic Red Fort complex. On foot and in tractors, the protesters were part of a huge rally planned for India's Republic Day. Many protesters diverted from agreed routes and clashes broke out with police. One protester died and some 500 policemen were injured. Farm union leaders condemned the violence and blamed the chaos on rogue elements among an otherwise peaceful march. Many said the protests have lost their legitimacy after the violence. Others said the farmers should accept the government's offer to put the reforms on hold and return home. Since early February, iron nails, rods, barbed wire, boulders and makeshift walls have been used to barricade the capital's borders against the protesters. But the farmers have refused to leave and are not budging from their demand. The protest is now in its third month, and there is no solution in sight."
         }
       ]
     },
     {
       "id": 100004,
-      "headline": "Article headline",
-      "description": "Random Description",
-      "published_at": "01/01/2020",
+      "headline": "Myanmar coup: India asked to return police officers who crossed border",
+      "description": "Myanmar has asked neighbouring India to return several police officers who crossed the border seeking refuge after refusing to carry out orders. Indian officials said the officers and their families had crossed the border in recent days. In a letter, Myanmar authorities asked for their return 'in order to uphold friendly relations'. Myanmar has been gripped by mass protests and strikes following a military coup last month. Security forces have taken a hard line against the demonstrations and at least 55 deaths have been reported.",
+      "published_at": "07/03/2021",
       "category": "Asia",
       "sub_category": "India",
       "img": [{
-          "img_url": "xyz1.jpg",
-          "img_tag": "randon img tag1"
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/144FD/production/_117479138_066071725.jpg",
+          "img_tag": "Fresh clashes broke out between police and protesters in Yangon on Saturday"
         },
         {
-          "img_url": "asdasdada2.jpg",
-          "img_tag": "randon img tag2"
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/F878/production/_117480636_hi066076045.jpg",
+          "img_tag": "A ceremony was held late on Saturday in honour of the lives lost during the anti-coup protests"
         }
       ],
       "article_data": [
         {
-          "sub_title": "sub title 1",
-          "sub_description": "sub description 1"
+          "sub_title": "What about the police officers seeking refuge?",
+          "sub_description": "Deputy Commissioner Maria CT Zuali, a senior official in Champhai district in the Indian state of Mizoram, told Reuters news agency that she had received a letter from her counterpart in Myanmar's Falam district requesting the return of the police officers. The letter said that Myanmar had information about eight police officers who had crossed into India. 'In order to uphold friendly relations between the two neighbour countries, you are kindly requested to detain eight Myanmar police personnel who had arrived to Indian territories and hand-over to Myanmar,' the letter read."
         },
         {
-          "sub_title": "sub title 2",
-          "sub_description": "sub description 2"
+          "sub_title": "How did the unrest start?",
+          "sub_description": "Myanmar's military seized power at the beginning of February after detaining the democratically elected leader, Aung San Suu Kyi. Days later, a civil disobedience movement began, with many people refusing to return to work and some taking part in huge street protests. Myanmar's security forces responded with a violent crackdown - firing live rounds at unarmed protesters. The military has not commented on the deaths. More than 1,700 people have been detained since the coup, according to UN human rights chief Michelle Bachelet, including members of parliament, protesters, and at least 29 journalists. Ms Bachelet said the figures could be much higher due to the large scale of the protests and difficulty in monitoring developments."
         }
       ]
     },
     {
       "id": 100005,
-      "headline": "Article headline",
-      "description": "Random Description",
-      "published_at": "01/01/2020",
+      "headline": "Covishield and Covaxin: What we know about India's Covid-19 vaccines",
+      "description": "India's Covaxin, the homegrown government-backed vaccine, has an efficacy rate of 81%, preliminary data from its phase 3 trial shows. India's regulators gave the vaccine an emergency approval in January while the third phase of the trial was still under way, sparking scepticism and questions from experts. Bharat Biotech, the vaccine's manufacturer, said the latest findings were 'an important milestone in vaccine discovery, for science and our fight against coronavirus'. 'With today's results from our phase 3 clinical trials, we have now reported data on our Covid-19 vaccine from phase 1, 2, and 3 trials involving around 27,000 participants,' the firm said.",
+      "published_at": "09/03/2021",
       "category": "Asia",
       "sub_category": "India",
       "img": [{
-          "img_url": "xyz1.jpg",
-          "img_tag": "randon img tag1"
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/10C8F/production/_116615786_mediaitem116615784.jpg",
+          "img_tag": "India's Covaxin"
         },
         {
-          "img_url": "asdasdada2.jpg",
-          "img_tag": "randon img tag2"
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/852A/production/_116609043_gettyimages-1230630497.jpg",
+          "img_tag": "Bharat Biotech is a Hyderabad-based pharmaceutical company"
         }
       ],
       "article_data": [
         {
-          "sub_title": "sub title 1",
-          "sub_description": "sub description 1"
+          "sub_title": "How does Covaxin work?",
+          "sub_description": "Bharat Biotech, a 24-year-old vaccine maker, has a portfolio of 16 vaccines and it exports to 123 countries. Covaxin is an inactivated vaccine which means that it is made up of killed coronaviruses, making it safe to be injected into the body. Bharat Biotech used a sample of the coronavirus, isolated by India's National Institute of Virology. When administered, immune cells can still recognise the dead virus, prompting the immune system to make antibodies against the pandemic virus."
         },
         {
-          "sub_title": "sub title 2",
-          "sub_description": "sub description 2"
+          "sub_title": "What was the controversy around Covaxin?",
+          "sub_description": "It all began when the regulator in January said the vaccine had been approved for 'restricted use in emergency situations in public interest as an abundant precaution, in clinical trial mode, especially in the context of infection by mutant strains'. Experts wondered how a vaccine was cleared for emergency use by millions of vulnerable people when its trials were still underway. The All India Drug Action Network at the time said that it was 'baffled to understand the scientific logic' to approve 'an incompletely studied vaccine'. It said that there were 'intense concerns arising from the absence of the efficacy data'. Both the manufacturer and drug regulator had defended Covaxin, saying it was 'safe and provides a robust immune response.'"
         }
       ]
     },
     {
       "id": 100006,
-      "headline": "Article headline",
-      "description": "Random Description",
-      "published_at": "01/01/2020",
+      "headline": "Covid-19: India in a 'delicate phase' of its coronavirus battle as cases surge",
+      "description": "After reporting a significant drop in the number of Covid-19 cases for months, some Indian states have seen a sharp uptick in infections in February. The BBC's Vikas Pandey and Soutik Biswas report. In early February, physicians in Amravati district, some 700km (435 miles) from India's commercial capital, Mumbai, noticed a sudden surge in the number of people suffering from Covid-19. Life in this cotton-growing district in the western state of Maharashtra had almost returned to normal after the first wave of infections last summer. The ICUs of the 1,600-bed state-run hospital and half-a-dozen private hospitals were nearly empty.",
+      "published_at": "27/02/2021",
       "category": "Asia",
       "sub_category": "India",
       "img": [{
-          "img_url": "xyz1.jpg",
-          "img_tag": "randon img tag1"
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/FD8D/production/_117290946_gettyimages-1231095638.jpg",
+          "img_tag": "Healthcare workers are worried abut another wave"
         },
         {
-          "img_url": "asdasdada2.jpg",
-          "img_tag": "randon img tag2"
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/13736/production/_117307697_gettyimages-1229111084.jpg",
+          "img_tag": "Markers have become crowded again and social distancing norms are not strictly followed"
         }
       ],
       "article_data": [
         {
-          "sub_title": "sub title 1",
-          "sub_description": "sub description 1"
+          "sub_title": "Is India staring at a new Covid wave?",
+          "sub_description": "Epidemiologist Dr Lalit Kant says a 'false sense' of normalcy has 'swept the country'. 'We cannot afford to drop our guard and we have to be cautious about opening places of mass gatherings. Testing, tracing and isolation has to be again scaled up massively in all states - we cannot wait for things to get worse. 'Dr Kant adds that the rise in the number of cases in some states was expected because it followed the global pattern. 'We have seen spikes in several countries after a lull of two to three months."
         },
         {
-          "sub_title": "sub title 2",
-          "sub_description": "sub description 2"
+          "sub_title": "Daily Cases and Deaths in India",
+          "sub_description": "Disease modelling expert Gautam Menon agrees that the spike was expected. 'Modelling work and sero survey results would suggest that much of India should be still susceptible to the disease, so a resurgence of the sort we are seeing is not very surprising.' But why is the resurgence happening only in a handful of states, particularly in Maharashtra? Mr Menon says the only reasonable conclusion is that surveillance in these states is stronger and that a similar rise in other states may simply have gone undetected so far. Another possible reason, experts say, could be mutation. Viruses often mutate to change their genetic code, which is like their instruction manual. Mutations allow viruses to spread faster and, in some cases, render antibodies less effective."
         }
       ]
     },
     {
       "id": 100007,
-      "headline": "Article headline",
-      "description": "Random Description",
-      "published_at": "01/01/2020",
+      "headline": "International Women's Day: Illustrating the Covid-19 pandemic",
+      "description": "There's barely any country in the world that hasn't been touched by the coronavirus pandemic and its aftershocks. But with so much information out there, it's sometimes hard to digest all the details and fully take it in.Ahead of International Women's Day on 8 March, we invite you to meet three women who are using their artistic talents, combined with their expertise in the fields of science, health and technology to help the fight against coronavirus.",
+      "published_at": "05/03/2021",
       "category": "Asia",
       "sub_category": "India",
       "img": [{
-          "img_url": "xyz1.jpg",
-          "img_tag": "randon img tag1"
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/11A83/production/_117332327_f01f882e-f3e1-4d38-9008-ed93fbc69e6b.png",
+          "img_tag": "Illustrators like Dr Radhika Patnala have spent the past year visualising the pandemic."
         },
         {
-          "img_url": "asdasdada2.jpg",
-          "img_tag": "randon img tag2"
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/C5D3/production/_117134605_rastana_headshot_wide.jpg",
+          "img_tag": "Avesta Rastan's life changed completely during the pandemic as more people realised the value of medical illustrators and science communicators"
         }
       ],
       "article_data": [
         {
-          "sub_title": "sub title 1",
-          "sub_description": "sub description 1"
+          "sub_title": "Avesta Rastan: 'You help out in whatever way you can'",
+          "sub_description": "Avesta Rastan, 25, is a visual science communicator currently living in California. At the start of the pandemic, she realised there weren't many infographics revealing how Covid-19 directly affected the human body. So the artist, who is of Iranian and Canadian heritage, and is a member of the Association of Medical Illustrators, saw a unique opportunity to use her skills and her training in pathological illustration (the drawing of disease) to help the wider public. 'I saw lots of illustrations and 3D models of the virus itself and its protein but I didn't really see what it did to us,' she explained."
         },
         {
-          "sub_title": "sub title 2",
-          "sub_description": "sub description 2"
+          "sub_title": "Dr Radhika Patnala: 'The pandemic woke everyone up'",
+          "sub_description": "Dr Radhika Patnala is a neuroscientist and the founder and director of the start-up Sci-Illustrate. The Indian-born entrepreneur, who studied in Singapore and Australia before moving to Munich, Germany, says one of the beauties of working in science is that the field is incredibly collaborative and crosses geographical and institutional boundaries. Her company creates science illustrations for a whole range of clients but she also has several passion projects underway, with the most recent focused on her response to the pandemic."
         }
       ]
     },
     {
       "id": 100008,
-      "headline": "Article headline",
-      "description": "Random Description",
-      "published_at": "01/01/2020",
+      "headline": "Coronavirus: Is the epidemic finally coming to an end in India?",
+      "description": "Is the sharp drop in India's coronavirus cases as dramatic and curious as some believe? Is the epidemic firmly in retreat in a country where many early modellers had predicted millions of deaths due to Covid-19? In October, I had written extensively on why the epidemic appeared to be slowing down in India. Cases had hit a record peak in the middle of September - there were more than a million active cases. After that daily deaths and caseloads began declining despite consistent testing and some short and fierce spikes of infections in cities like Delhi.",
+      "published_at": "15/02/2021",
       "category": "Asia",
       "sub_category": "India",
       "img": [{
-          "img_url": "xyz1.jpg",
-          "img_tag": "randon img tag1"
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/119E2/production/_116926127_mediaitem116926126.jpg",
+          "img_tag": "Case numbers and deaths have been swiftly dropping in India"
         },
         {
-          "img_url": "asdasdada2.jpg",
-          "img_tag": "randon img tag2"
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/CF46/production/_116926035_mediaitem116926034.jpg",
+          "img_tag": "Hindu devotees have gathered for the Kumbh Mela as Covid cases drop"
         }
       ],
       "article_data": [
         {
-          "sub_title": "sub title 1",
-          "sub_description": "sub description 1"
+          "sub_title": "So why are cases dropping?",
+          "sub_description": "Experts say there could be a couple of different reasons. For one, India has seen a 'patchwork pandemic with cases waxing and waning at different times in different parts of the country. More people have been infected in cities - especially in packed slums - and in developed, urbanised districts than in smaller towns or villages. In all of these places, their exposure to the virus has varied significantly. Cases have now slowed down in most urban areas, but rural India still remains a bit of a mystery."
         },
         {
-          "sub_title": "sub title 2",
-          "sub_description": "sub description 2"
+          "sub_title": "Is the low death rate a mystery?",
+          "sub_description": "Most scientists believe that many more Indians died of the infection than what the official figures reveal. India has a poor record of certifying deaths and a large number of people die at home. But even such a scale of under-reporting has not caused public panic or overwhelmed hospitals. Consider this. India has some 600,000 villages. Even one undiagnosed and unreported death from Covid in each village every day would not overwhelm the public health system. India imposed a sweeping, early shutdown in late March to halt the spread of the virus. Scientists believe that the shutdown, which stretched to nearly 70 days, did prevent a lot of infections and deaths. Transmission slowed in the badly-hit cities because of the expanded use of face masks, physical distancing, school and office closures and people working from home."
         }
       ]
     },
     {
       "id": 100009,
-      "headline": "Article headline",
-      "description": "Random Description",
-      "published_at": "01/01/2020",
+      "headline": "Covid: How this Indian firm is vaccinating the world",
+      "description": "As pharmaceutical giants ramp up production in the race to vaccinate the world, one firm has shot into the lead. The Serum Institute of India (SII) isn't a household name, but it's the world's largest vaccine maker. The firm churns out 1.5 billion doses every year from the company's vast manufacturing plant in Pune, Western India. It is currently making Covid vaccines under license for pharmaceutical firms such as AstraZeneca. 'We took a huge calculated risk, by betting on several vaccines in 2020 before regulators had even approved of them, SII's chief executive Adar Poonawalla told the BBC. 'It wasn't a blind risk, because we knew the Oxford scientists from our earlier collaboration with the malaria vaccine.",
+      "published_at": "28/02/2021",
       "category": "Asia",
       "sub_category": "India",
       "img": [{
-          "img_url": "xyz1.jpg",
-          "img_tag": "randon img tag1"
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/EF12/production/_117320216_glass-vials.jpg",
+          "img_tag": "SII is involved the world's largest inoculation programme in India"
         },
         {
-          "img_url": "asdasdada2.jpg",
-          "img_tag": "randon img tag2"
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/2FAA/production/_117320221_vials-man.jpg",
+          "img_tag": "SII managed to secure $800m by May 2020 to make multiple Covid vaccines"
         }
       ],
       "article_data": [
         {
-          "sub_title": "sub title 1",
-          "sub_description": "sub description 1"
+          "sub_title": "Stashing away doses",
+          "sub_description": "How did SII actually scale up production? In April 2020, Mr Poonawalla calculated what they would need, from vials and filters. 'I got 600 million doses worth of glass vials ahead of time and locked it in my warehouse by September,' he explained. 'The most important part that enabled us to have so many doses - 70-80 million in January - was because I started manufacturing at risk in August.' 'I wish other companies also had taken that risk, because the world would have had many more doses.' Mr Poonawalla criticised the patchwork of global regulatory systems and lack of harmonisation for production delays. He said the major regulators, including the UK's Medicines and Healthcare products Regulatory Agency (MHRA), the European Medicines Agency (EMA) and the US Food and Drug Administration (FDA), could have united and agreed a quality standard. He also criticised national governments, claiming that regulators in the countries that are making the vaccines, from India to Europe, could have united to agree a standard international benchmark."
         },
         {
-          "sub_title": "sub title 2",
-          "sub_description": "sub description 2"
+          "sub_title": "New variants",
+          "sub_description": "Mr Poonawalla played down concerns about new variants: 'Anyone who has taken that [Oxford AstraZeneca] vaccine so far hasn't had to go to hospital or go on a ventilator and had their life at risk. 'They've also passed that disease on to others. So yes, it's not an ideal situation, but it has protected your life.' In India, SII is also involved the world's largest inoculation programme, to vaccinate 300 million by August. But, according to Bloomberg, only 56% of people eligible to get a shot have actually stepped forward. 'A lot of vaccine hesitancy traditionally has come about when either celebrities or non-experts have said vaccines are not safe,' said Mr Poonawalla. 'I always just request celebrities and others who have this tremendous power on the social networks, to just be a bit responsible and read up on the facts before they say anything."
         }
       ]
     },
     {
       "id": 100010,
-      "headline": "Article headline",
-      "description": "Random Description",
-      "published_at": "01/01/2020",
+      "headline": "India Supreme Court: Calls for Justice Sharad Bobde to quit over rape remarks",
+      "description": "Calls have been growing in India for the chief justice of the Supreme Court to resign 'without a moment's delay' after his recent remarks in two cases of alleged rape. In an 'open letter' to Chief Justice Sharad Bobde, more than 5,000 feminists, rights activists and concerned citizens wrote that they were 'outraged' and asked him to retract his statements and apologise. So what did the chief justice say that has angered people so much? He asked two 'atrocious' questions.",
+      "published_at": "03/03/2021",
       "category": "Asia",
       "sub_category": "India",
       "img": [{
-          "img_url": "xyz1.jpg",
-          "img_tag": "randon img tag1"
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/87EC/production/_117369743_gettyimages-1182563379-594x594.jpg",
+          "img_tag": "Chief Justice Sharad Bobde"
         },
         {
-          "img_url": "asdasdada2.jpg",
-          "img_tag": "randon img tag2"
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/1869C/production/_117369999_gettyimages-1128820368-594x594-1.jpg",
+          "img_tag": "Campaigners say Justice Bobde's comments are 'extremely problematic' in a country"
         }
       ],
       "article_data": [
         {
-          "sub_title": "sub title 1",
-          "sub_description": "sub description 1"
+          "sub_title": "The first: 'Will you marry her?'",
+          "sub_description": "Justice Bobde, who was heading a three-judge bench, asked a 23-year-old man accused of raping a girl whether he would marry her. 'If you want to marry (her) we can help you. If not, you lose your job and go to jail,' he said. His comments shocked many, especially considering the horrific accusations the girl - who was 16 at the time of the alleged rapes in 2014-15 - had made against the man, a distant relative. According to the letter, he 'is accused of stalking, tying up, gagging, repeatedly raping a minor school-going girl, and threatening to douse her in petrol and set her alight, to hurl acid at her, and to have her brother killed'. It added that 'the rape came to light when the minor school-going victim attempted suicide'. The girl's family also alleged that they had agreed not to go to the police because they were promised by the accused's mother that once the girl became an adult, they would marry the two."
         },
         {
-          "sub_title": "sub title 2",
-          "sub_description": "sub description 2"
+          "sub_title": "What's been the response?",
+          "sub_description": "The open letter, signed by some of India's best-known feminists and non-governmental organisations, borrows the term 'atrocious' from the Bombay High Court order to describe Justice Bobde's remarks. 'Your proposal of marriage as an amicable solution to settle the case of rape of a minor girl is worse than atrocious and insensitive for it deeply erodes the right of victims to seek justice. 'By suggesting that this [alleged] rapist marry the victim-survivor, you, the Chief Justice of India, sought to condemn her to a lifetime of rape at the hands of the tormentor who drove her to attempt suicide' it says."
         }
       ]
     },
     {
       "id": 100011,
-      "headline": "Article headline",
-      "description": "Random Description",
-      "published_at": "01/01/2020",
+      "headline": "China NPC: US condemns 'assault on Hong Kong democracy'",
+      "description": "The United States has condemned China's 'continuing assault on democratic institutions in Hong Kong', after Beijing announced plans to change the electoral system there. China's National People's Congress (NPC) unveiled the plans on Friday. One proposal would require all candidates standing for Hong Kong's assembly to be approved by a committee of members loyal to Beijing. The move follows the imposition of a tough security law last year. Critics say Beijing is crushing dissent and removing the 'one country, two systems' agreement it made with the UK. Under the agreement, Hong Kong, a former British colony, was allowed to continue with its own legal system and have rights including free speech and freedom of the press",
+      "published_at": "06/03/2021",
       "category": "Asia",
-      "sub_category": "India",
+      "sub_category": "China",
       "img": [{
-          "img_url": "xyz1.jpg",
-          "img_tag": "randon img tag1"
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/3BD5/production/_117471351_066058946-1.jpg",
+          "img_tag": "Critics fear Beijing is crushing Hong Kong's 'one country, two systems' model"
         },
         {
-          "img_url": "asdasdada2.jpg",
-          "img_tag": "randon img tag2"
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/13F22/production/_117389618_gettyimages-1305408740.jpg",
+          "img_tag": "Thousands of lawmakers gathered as the annual NPC meeting began on Friday in Beijing"
         }
       ],
       "article_data": [
         {
-          "sub_title": "sub title 1",
-          "sub_description": "sub description 1"
+          "sub_title": "How have the US and others reacted?",
+          "sub_description": "State department spokesman Ned Price said the move was 'a direct attack on Hong Kong's autonomy, Hong Kong's freedoms and the democratic processes'. 'If implemented these measures would drastically undermine Hong Kong democratic institutions,' he said.Mr Price also said Washington was working with allies at 'galvanising collective action' against alleged Chinese human rights abuses of Muslim minorities in Xinjiang and 'repression' in Hong Kong. Earlier the EU called on Beijing to 'carefully consider the political and economic implications on any decision to reform the electoral system of Hong Kong that would undermine fundamental freedoms, political pluralism and democratic principles'."
         },
         {
-          "sub_title": "sub title 2",
-          "sub_description": "sub description 2"
+          "sub_title": "What's planned for Hong Kong?",
+          "sub_description": "NPC vice-chairman Wang Chen told lawmakers that changes were needed as 'the rioting and turbulence that occurred in Hong Kong society reveals that the existing electoral system has clear loopholes and deficiencies'. He said 'risks in the system' needed to be removed to ensure 'patriots' were in charge. Premier Li Keqiang warned that China would 'resolutely guard against and deter' interference by external forces in Hong Kong's affairs. The week-long NPC session will discuss the elections issue and no text has yet been made public, although Mr Wang and media sources did set out some areas to be discussed. The city's heavily pro-Beijing electoral committee would get new powers over the parliament, or Legislative Council (LegCo). The committee would effectively be able to vet all LegCo candidates and elect many of its members, diluting the number directly elected by the public. Willie Lam, China analyst at the Chinese University of Hong Kong, told the AFP news agency that if the new NPC measures passed as he expected they would 'effectively wipe out any remaining opposition'."
         }
       ]
     },
     {
       "id": 100012,
-      "headline": "Article headline",
-      "description": "Random Description",
-      "published_at": "01/01/2020",
+      "headline": "China NPC: Beijing to overhaul Hong Kong electoral system",
+      "description": "China's top law-making body has unveiled plans to ensure only 'patriots' can govern Hong Kong, as Beijing tightens its grip on the city with changes to the electoral system. Premier Li Keqiang, addressing the National People's Congress (NPC), warned the world not to interfere. The move follows the imposition of a tough security law. Critics say Beijing is crushing dissent and removing the 'one country, two systems' agreement it made with the UK. Under the agreement, Hong Kong, a former British colony, was allowed to continue with its own legal system and have rights including free speech and freedom of the press.",
+      "published_at": "06/03/2021",
       "category": "Asia",
-      "sub_category": "India",
+      "sub_category": "China",
       "img": [{
-          "img_url": "xyz1.jpg",
-          "img_tag": "randon img tag1"
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/13F22/production/_117389618_gettyimages-1305408740.jpg",
+          "img_tag": "Thousands of lawmakers gathered as the annual NPC meeting began on Friday in Beijing"
         },
         {
-          "img_url": "asdasdada2.jpg",
-          "img_tag": "randon img tag2"
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/9188/production/_117365273_gettyimages-1231468233.jpg",
+          "img_tag": "Some 47 pro-democracy activists were charged with subversion last weekend"
         }
       ],
       "article_data": [
         {
-          "sub_title": "sub title 1",
-          "sub_description": "sub description 1"
+          "sub_title": "What's planned for Hong Kong?",
+          "sub_description": "NPC vice-chairman Wang Chen announced to the NPC that changes were needed as 'the rioting and turbulence that occurred in Hong Kong society reveals that the existing electoral system has clear loopholes and deficiencies'. He said 'risks in the system' needed to be removed to ensure 'patriots' were in charge. Premier Li warned that China would 'resolutely guard against and deter' interference by external forces in Hong Kong's affairs. The week-long NPC will discuss the elections issue and no text has yet been made public, although Mr Wang and media sources did set out some areas to be discussed. The city's heavily pro-Beijing electoral committee would get new powers over the parliament, or Legislative Council (LegCo)."
         },
         {
-          "sub_title": "sub title 2",
-          "sub_description": "sub description 2"
+          "sub_title": "What is the NPC and what will it do?",
+          "sub_description": "The annual meeting has nearly 3,000 delegates representing provinces, autonomous regions, and the special administrative regions of Hong Kong and Macau. While the NPC in theory is the country's most powerful institution, in reality the lawmakers usually end up approving plans and policies decided beforehand by the central government. On Friday, Mr Li said the country had set its economic growth target at above 6%. and updated the NPC on climate control targets. Over the next few days, the congress will also formally approve the 14th Five-Year-Plan - the economic strategy for the country."
         }
       ]
     },
     {
       "id": 100013,
-      "headline": "Article headline",
-      "description": "Random Description",
-      "published_at": "01/01/2020",
+      "headline": "China zoo 'tries to pass dog off as wolf'",
+      "description": "A zoo in central China has raised eyebrows this week after it was caught seemingly trying to pass off a dog as a wolf.Social media footage appeared on Tuesday showing a visitor to the Xiangwushan Zoo in Xianning, Hubei province, visiting the zoo's wolf enclosure. He filmed an animal that looked like a Rottweiler lying on its side in a cage, and said to the animal: 'Woof! Are you a wolf?' in a short video that has since gone viral. It has led to a lot of jokes online, but has also sparked debate about whether zoos are necessary in a post-Covid era, with many voicing concern about their maintenance.",
+      "published_at": "06/03/2021",
       "category": "Asia",
-      "sub_category": "India",
+      "sub_category": "China",
       "img": [{
-          "img_url": "xyz1.jpg",
-          "img_tag": "randon img tag1"
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/BB18/production/_117469874_1.jpg",
+          "img_tag": "The zoo's wolf enclosure contained a more docile inhabitant"
         },
         {
-          "img_url": "asdasdada2.jpg",
-          "img_tag": "randon img tag2"
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/10D8F/production/_117470096_gettyimages-1278547362-594x594.jpg",
+          "img_tag": "The Nanjing Hongshan Forest Zoo is one of many that has suffered financial losses during the pandemic"
         }
       ],
       "article_data": [
         {
-          "sub_title": "sub title 1",
-          "sub_description": "sub description 1"
+          "sub_title": "Wolf had 'died of old age",
+          "sub_description": "Mr Xu, who filmed the footage, told Beijing News that he had asked staff at the park why there was a dog in the wolf's cage. He said he was told that there had been a wolf, but that it had 'died of old age'. An employee confirmed this to local media, and said that the dog, which had been raised as a watchdog by the park, was only being kept there temporarily. But as the Shine.cn news website notes, he did also hint that the zoo had been financially struggling, saying it 'didn't have enough visitors to keep the zoo up and running well'. The park, which charges 15 yuan ($2.30; £1.70) and also keeps lions and tigers, has now been told by the local forestry bureau to remove the sign leading to the enclosure."
         },
         {
-          "sub_title": "sub title 2",
-          "sub_description": "sub description 2"
+          "sub_title": "'At least get a husky'",
+          "sub_description": "The incident has sparked a lot of discussion online. Many users on the popular Sina Weibo microblog say that it has given them a good laugh, although others say that they are 'shocked' and that it actually makes them 'a little sad'. 'At least get a husky,' one Weibo user says, noting that the breed would at least look more similar to a wolf. Their post received more than 6,000 likes. Many users said they were relieved just to learn that the dog was not the wolf's dinner. Some are talking about their own experiences as kids of visiting 'poorly run' zoos, saying that reality never quite meets up to expectation. There have been a number of well-publicised instances of zoos providing poor substitutes for wild animals. In 2019, similar video footage showed a domestic dog in a wolf enclosure at the Jiufengshan Forest Park in the nearby city of Wuhan."
         }
       ]
     },
     {
       "id": 100014,
-      "headline": "Article headline",
-      "description": "Random Description",
-      "published_at": "01/01/2020",
+      "headline": "Hong Kong activists: 15 of 47 granted bail but remain detained pending appeal",
+      "description": "Fifteen of 47 Hong Kong pro-democracy activists charged with subversion have been granted bail after a marathon hearing, but the entire group remains in custody pending an appeal. They were charged under a new security law that critics say is being used by Beijing to crush dissent in the city. China passed the law last year, saying it was required to bring stability. The activists - 39 men and eight women - were among a group of 55 people arrested in dawn raids last month. All 47 activists will remain in custody while the department of justice appeals against the bail ruling for the 15. The activists are facing up to life in prison for the charge of conspiring to commit subversion, in the most sweeping application yet of the new national security law. They include veterans of the protest movement like academic Benny Tai and politician Leung Kwok-hung, as well as younger protesters like Gwyneth Ho, Sam Cheung and Lester Shum.",
+      "published_at": "02/03/2021",
       "category": "Asia",
-      "sub_category": "India",
+      "sub_category": "China",
       "img": [{
-          "img_url": "xyz1.jpg",
-          "img_tag": "randon img tag1"
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/A0ED/production/_117379114_mediaitem117379113.jpg",
+          "img_tag": "Demonstrators gathered outside the West Kowloon court building in Hong Kong"
         },
         {
-          "img_url": "asdasdada2.jpg",
-          "img_tag": "randon img tag2"
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/D92E/production/_117389555_gettyimages-1231508906.jpg",
+          "img_tag": "A gruelling few days in court"
         }
       ],
       "article_data": [
         {
-          "sub_title": "sub title 1",
-          "sub_description": "sub description 1"
+          "sub_title": "A gruelling few days in court",
+          "sub_description": "Many people were in tears after finding out all 47 activists have to be remanded in custody, including the 15 who were granted bail by the magistrate. Because of the large number of defendants, only they and their lawyers, plus the prosecutors, were present in the courtroom. Others, including family members, could only watch the live feeds in other courtrooms. To the families of some defendants, the failure to get bail came as no surprise. There is a much higher threshold for bail under the National Security Law. The defendants have had four uneasy days. Monday's session lasted for more than 13 hours. The judge only adjourned the hearing after one defendant fainted. Several other defendants were subsequently taken to hospital."
         },
         {
-          "sub_title": "sub title 2",
-          "sub_description": "sub description 2"
+          "sub_title": "What is the National Security Law?",
+          "sub_description": "Hong Kong's sovereignty returned to China in 1997 but under the 'one country, two systems' principle. The principle was supposed to guarantee certain freedoms for the territory - including freedom of assembly and speech, an independent judiciary and some democratic rights, which mainland China does not have. But the National Security Law has reduced Hong Kong's autonomy and made it easier to punish demonstrators. The legislation introduced new crimes, including penalties of up to life in prison. Anyone found to have conspired with foreigners to provoke 'hatred' of the Chinese government or the Hong Kong authorities may have committed a crime."
         }
       ]
     },
     {
       "id": 100015,
       "headline": "Article headline",
-      "description": "Random Description",
-      "published_at": "01/01/2020",
+      "description": "Chinese President Xi Jinping says his country has reached the ambitious goal set when he assumed office in 2012 of lifting 100 million people out of poverty. But what has China actually achieved? We've compared the Chinese data with global poverty figures compiled by the World Bank.",
+      "published_at": "25/02/2021",
       "category": "Asia",
-      "sub_category": "India",
+      "sub_category": "China",
       "img": [{
-          "img_url": "xyz1.jpg",
-          "img_tag": "randon img tag1"
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/10A7F/production/_117332286_chinavegfarmer.jpg",
+          "img_tag": "Chinese President Xi Jinping says his country has reached the ambitious goal"
         },
         {
-          "img_url": "asdasdada2.jpg",
-          "img_tag": "randon img tag2"
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/E36F/production/_117332285_china2.jpg",
+          "img_tag": "China's rapid growth"
         }
       ],
       "article_data": [
         {
-          "sub_title": "sub title 1",
-          "sub_description": "sub description 1"
+          "sub_title": "China's poverty figures",
+          "sub_description": "Poverty is defined by China as anyone in rural areas earning less than about $2.30 a day (adjusted for inflation). It was fixed in 2010 and looks at income but also living conditions, healthcare and education. Provinces have been racing to reach the goal. Jiangsu, for example, announced in January last year that only 17 of its 80 million residents still lived in poverty. The national benchmark used by the Chinese government is slightly higher than the $1.90 a day poverty line used by the World Bank to look at poverty globally."
         },
         {
-          "sub_title": "sub title 2",
-          "sub_description": "sub description 2"
+          "sub_title": "World Bank data",
+          "sub_description": "Using these figures gives us a better standard measurement used by the World Bank across all countries. In 1990 there were more than 750 million people in China living below the international poverty line - about two-thirds of the population. By 2012, that had fallen to fewer than 90 million, and by 2016 - the most recent year for which World Bank figures are available - it had fallen to 7.2 million people (0.5% of the population). So clearly, even in 2016 China was well on the way to reaching its target. This suggests that overall, 745 million fewer people were living in extreme poverty in China than were 30 years ago. World Bank figures do not take us to the present day, but the trend is certainly in line with the Chinese government's announcement. Elsewhere in the region, Vietnam has also seen a dramatic fall in extreme poverty rates over a similar period. Another large country, India, had 22% of its population living below the international poverty line in 2011 (the most recent data available). Brazil has 4.4% of its people earning less than $1.90 a day."
         }
       ]
     }
