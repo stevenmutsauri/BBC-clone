@@ -1,0 +1,115 @@
+.footer {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: left;
+  background-color: #4c4c4c;
+  color: #f2f2f2;
+  padding: 0px 15%;
+}
+.footer > h2 {
+}
+.footer__table {
+  width: 75%;
+  display: flex;
+  flex-direction: row;
+}
+.footer__unit {
+  width: 13%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  border: 0;
+  font-size: 14px;
+  font-weight: 600;
+
+  color: #fff;
+  text-decoration: none;
+  border-right: 1px solid #949494;
+  padding-right: 130px;
+}
+.footer__table__link {
+  color: #f2f2f2;
+  text-decoration: none;
+  margin-bottom: 10px;
+  /* padding-bottom: 10px; */
+}
+.footer__table__link:hover{
+    cursor: pointer;
+  
+    border-bottom: 1px solid white;
+}
+.footer__table__link2 {
+    color: #f2f2f2;
+    text-decoration: none;
+    margin-bottom: 10px;
+ 
+    margin-left:30px;
+  }
+
+  .footer__table__link2:hover {
+    cursor: pointer;
+  
+    border-bottom: 1px solid white;
+  }
+.footer__table__single {
+  /* padding: 10px 15px;
+    padding-left: 0px;
+    */
+}
+.footer__line {
+  width: 101%;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.397);
+  margin-top: 15px;
+  margin-bottom: 10px;
+}
+.footer__advertise__link {
+  color: #f2f2f2;
+}
+.footer__advertise__link:hover {
+  cursor: pointer;
+  border-bottom: 1px solid white;
+}
+.footer__terms__link {
+  color: #f2f2f2;
+}
+
+.footer__terms__link:hover{
+  cursor: pointer;
+  
+  border-bottom: 1px solid white;
+}
+.footer__terms__wrap{
+    margin-top:20px;
+}
+.footer__terms__link{
+    margin-top: 0px;
+    margin: 20px;
+    margin-left: 0px;
+    font-size: 13px;
+    font-weight: 600;
+    text-decoration: none;
+}
+.copyright{
+    text-decoration: none;
+    margin-top: 10px;
+}
+.copyright{
+    margin-top: 0px;
+    margin: 20px;
+    margin-left: 0px;
+    font-size: 13px;
+    font-weight: 600;
+    text-decoration: none;
+}
+.copyright__link{
+    text-decoration: none;
+    color: white;
+
+}
+.copyright__link:hover{
+  cursor: pointer;
+  
+  border-bottom: 1px solid white;
+}
