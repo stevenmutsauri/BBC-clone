@@ -539,6 +539,276 @@
           "sub_description": "After getting Our Lady of Blundellsands up and running, Buckley had planned to leave his staff job at the Everyman to go back to a freelance life. 'I was the king of poor life choices at that moment,' he says ruefully. He left the company after press night. A week later, theatres went dark. 'For a few weeks I was in that bracket where I wasn't eligible for anything,' he says of the government support. However, when companies were allowed to re-hire employees who had recently left and put them on furlough, the Everyman did just that. 'They didn't have to do that at all, so I'm eternally grateful to them for it. But once they had to make the contributions [in August], they had to think of it on a business sense of trying to save the organisation.' Buckley sought other jobs. 'I worked in a Hermes warehouse for a little bit. For a couple of months I was a groundsman, cutting grass, trimming hedges and so on.' He then became a technical assistant for an online show at Manchester's Contact Theatre, which has since kept him on for five months to help with the venue's refurbishment. 'It's just casual technician work, but it's work, and in theatre, so I'm massively lucky.'"
         }
       ]
+    },
+    {
+      "id": 100021,
+      "headline": "Covid: Germany approves AstraZeneca vaccine for over-65s",
+      "description": "Germany's vaccine commission has approved the use of the Oxford-AstraZeneca jab in people aged over 65. The country previously approved it for under-65s only, citing insufficient data on its effects on older people. That led to public scepticism about its effectiveness, with some Germans spurning it and leaving many doses unused. But German Chancellor Angela Merkel said recent studies had now provided enough data to approve it for all ages.Announcing the commission's decision on Thursday, Health Minister Jens Spahn said the move was 'good news for older people who are waiting for an injection'. 'The new data also shows that the vaccine is even more effective when the first and second jabs are administered 12 weeks apart,' the minister said, adding that the law would be updated to incorporate the new recommendations. Mrs Merkel said on Wednesday that Germany would follow the UK example of stretching the interval between vaccine doses in order to offer as many people as possible an initial shot.",
+      "published_at": "05/03/2021",
+      "category": "Coronavirus",
+      "sub_category": "Coronavirus",
+      "img": [{
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/12E60/production/_117380477_tv066024256.jpg",
+          "img_tag": "Germany's vaccine commission has approved the use of the Oxford-AstraZeneca jab"
+        },
+        {
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/4233/production/_117474961_0aa65265-6a06-4dce-b61b-a989e9875c48.jpg",
+          "img_tag": "Sen Joe Manchin (centre) had raised objections"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "How is Germany planning to ease restrictions?",
+          "sub_description": "Separately, Mrs Merkel said she had agreed to a phased easing of restrictions with leaders of Germany's federal states but added that there was the option of an 'emergency brake' if case numbers got out of control. 'We are at the threshold of a new phase of the pandemic that we can go into not carelessly but still with justified hope,' Mrs Merkel said. From Monday up to five people from two households will be allowed to meet, with children under 14 exempt. Some shops will reopen provided that regional case numbers are below 50 per 100,00 people. If cases rise over 50 per 100,000 then customers will have to book slots to visit shops. If cases rise to over 100 per 100,000 over three days in a row then restrictions will be reimposed."
+        },
+        {
+          "sub_title": "What do we know about the AstraZeneca vaccine?",
+          "sub_description": "The UK has been using the vaccine made by AstraZeneca, a UK-Swedish pharmaceutical firm, in its mass immunisation programme since December. UK health officials say it provides 'high levels of protection' for all ages. Covid vaccines cut risk of serious illness by 80% No one who received the vaccine in trials was admitted to hospital or became seriously ill with Covid-19. The vaccine is given via two injections to the arm, the second between four and 12 weeks after the first."
+        }
+      ]
+    },
+    {
+      "id": 100022,
+      "headline": "Coronavirus: Europe in vaccine race to save summer",
+      "description": "Europe could be on the brink of a roaring twenties-style summer to remember, with budget airline flights packed and beachside bars brim-full of happy tourists. Or, it faces another gloomy holiday season of travel restrictions, quarantine rules and a locked-down leisure industry. In a few weeks from now we will know which it is to be - but the policy decisions which will shape the outcome are already being taken. One big question is whether EU member states will be content to leave decision-making to the European Commission in Brussels - which has bungled the vaccine-buying programme - or simply take matters into their own hands. Greece, for example, has already struck a deal to welcome tourists from Israel if they have a vaccine passport.",
+      "published_at": "25/02/2021",
+      "category": "Coronavirus",
+      "sub_category": "Coronavirus",
+      "img": [{
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/12044/production/_117469737_mediaitem117469736.jpg",
+          "img_tag": "Testing of tourists is likely to remain widespread in Europe this summer"
+        },
+        {
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/D224/production/_117469735_72b19642-11ef-4006-9d27-3e1fc4e536ff.jpg",
+          "img_tag": "Larnaca, Cyprus in July 2020. Hotels hope for a much better summer this year"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "Tourism jobs at stake",
+          "sub_description": "What is at stake here is not just the issue of whether wealthy northern Europeans get to enjoy a beer or an ice cream on the beach. Tourism is big business, providing 27m jobs in Europe, and generating around 10% of the EU's GDP, when you take into account the other sectors which depend on it. The economies of countries like Greece, Spain and Italy cannot recover until the tourist industry is reopened. The GDP of the Balearic Islands - which include Majorca - fell by 27% last year. If a second summer season is lost to Covid-19 the consequences will be disastrous. A tourism official in Majorca described the situation as 'unsustainable' and said that if tourists were not allowed to return, many local business would disappear. Saving the summer depends on two Europe-wide problems: getting people vaccinated and then agreeing rules about whether or not the right to travel should be linked to your vaccination status."
+        },
+        {
+          "sub_title": "Slow vaccine rollout",
+          "sub_description": "So far at least the omens are not good. By the end of this week only 4.96% of Belgians and 5.5% of Germans have had at least one vaccine dose. The Politico news service produced a fascinating calculation this week, showing that if the vaccination rollout continues at the current rate, Belgium won't reach the threshold of protecting 70% of its population until July 2023. The date calculated for Germany was September 2022. That would suggest we should be asking about the holiday prospects for next year or the year after - not this July or August. Now of course the Belgian and German governments - and the European Commission - would argue that the rollout is going to gather pace as supplies improve and new vaccines are approved. And so it might. But what those figures show is that the vaccination programme so far in the EU has been a disaster. Less than 10% of the EU population has been vaccinated so far, against 31% in the UK and 52% in Israel."
+        }
+      ]
+    },
+    {
+      "id": 100023,
+      "headline": "Covid: Biden says ‘Neanderthal thinking’ behind lifting of mask rules",
+      "description": "President Joe Biden has criticised the lifting of mask requirements in the states of Texas and Mississippi, calling it 'Neanderthal thinking'. 'I think it's a big mistake,' he said. Masks, social distancing and other measures were still important, despite the role vaccines were playing in containing the pandemic, he said. Texas and Mississippi will also allow all businesses to open at full capacity. Other states have announced a relaxation of some rules. The US has recorded 28.7 million infections and 519,000 deaths related to Covid-19 since the pandemic began.",
+      "published_at": "05/02/2021",
+      "category": "Coronavirus",
+      "sub_category": "Coronavirus",
+      "img": [{
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/02B5/production/_117339600_vaccine_doses_per100_countries_most_vax1mar-nc.png",
+          "img_tag": "Vaccine doses per 100 people in countries with highest total vaccination"
+        },
+        {
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/1B2C/production/_117365960_optimised-us_deaths-nc.png",
+          "img_tag": "Death remains high, but they are falling"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "How did Mississippi and Texas respond?",
+          "sub_description": "Mississippi Governor Tate Reeves, a Republican, reacted to Mr Biden's comments with a terse tweet. 'Mississippians don't need handlers,' Mr Reeves wrote in the tweet. 'As numbers drop, they can assess their choices and listen to experts. I guess I just think we should trust Americans, not insult them.' A spokesperson for Texas Governor Greg Abbott said he was 'clear in telling Texans that Covid hasn't ended'. But the spokesperson told Politico that 'Texas now has the tools and knowledge to combat Covid while also allowing Texans and small businesses to make their own decisions'. 'It is clear from the recoveries, the vaccinations, the reduced hospitalisations, and the safe practices that Texans are using, that state mandates are no longer needed. We must now do more to restore livelihoods and normalcy for Texans.'"
+        },
+        {
+          "sub_title": "What restrictions have been lifted by states?",
+          "sub_description": "Individual states are in charge of public health policy in the US. At the start of the coronavirus pandemic, most introduced restrictions on businesses and travel. About 35 states required face coverings to be worn in public places, although enforcement of these mask mandates has been patchy. The governor of Texas on Tuesday issued an executive order, effective from 10 March, that rescinds most coronavirus measures. Mississippi ended its mask mandate on Wednesday. Michigan is to ease capacity limits on restaurants, and on public and residential gatherings. South Carolina has removed limits on large gatherings, while capacity limits on restaurants in Massachusetts were removed. Some cities have also acted. Chicago has reopened public schools and San Francisco announced the easing of rules on museums, cinemas, gyms and indoor dining."
+        }
+      ]
+    },
+    {
+      "id": 100024,
+      "headline": "Covid: Biden promises vaccines for all US adults by end of May",
+      "description": "The US will have enough coronavirus vaccines for every adult by the end of May, President Joe Biden has said. This will be two months earlier than previously expected, but Mr Biden said the vaccination drive must be extended, too, and people convinced to take it. And he warned people to 'stay vigilant' because 'this fight is far from over', with new variants a major concern. His caution is at odds with some states, which are relaxing restrictions in order to boost their economies. Mr Biden's new timeline does not mean all adults in the US will be vaccinated by the end of May, as the jabs will take longer to administer. Although there has been a sharp fall in confirmed cases since the start of the year - the figure of 68,000 a day now is well down on the 8 January peak of 300,000 - that drop has levelled off over the past week, fuelling fears of another wave.",
+      "published_at": "17/01/2021",
+      "category": "Coronavirus",
+      "sub_category": "Coronavirus",
+      "img": [{
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/A0C4/production/_117365114_823757b3-a67d-4fcf-ac60-ab1e4d948a8d.jpg",
+          "img_tag": "A queue for vaccinations in New York. A key task for President Biden is getting the supplies into arms"
+        },
+        {
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/0484/production/_117365110_23cca382-8e98-4afd-8923-d64292bfceeb.jpg",
+          "img_tag": "Drive-through vaccination in Texas. The governor says it is time to open the state '100%'"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "What was in Mr Biden's latest announcement?",
+          "sub_description": "The president said that drug manufacturer Merck - which this year discontinued work on its own vaccine - would now be helping Johnson & Johnson to produce its newly approved one-shot drug. 'We're now on track to have enough vaccine supply for every adult in America by the end of May,' he said, adding it was 'the type of collaboration between companies we saw in World War Two'. But the president acknowledged that supply was only one issue, with the nation needing to extend its vaccination drive and convince people to take the shots. 'We need vaccinators, people who put the shots in people's arms, millions of Americans' arms,' he said. 'reat news, but stay vigilant,' Mr Biden said. 'It's not over yet.'"
+        },
+        {
+          "sub_title": "What are the states doing on reopenings?",
+          "sub_description": "Some are now relaxing rules, despite a warning from top federal health officials last week not to ease up. Mr Biden repeated that, saying: 'We cannot let our guard down now or assure that victory is inevitable. We can't assume that.' Individual states are in charge of public health policy in the US. At the start of the coronavirus pandemic, most introduced restrictions on businesses and travel. About 35 required face coverings to be worn in public places, although enforcement of these mask mandates has been patchy."
+        }
+      ]
+    },
+    {
+      "id": 100025,
+      "headline": "Covid: What is the Oxford-AstraZeneca vaccine?",
+      "description": "A single shot of the Oxford-AstraZeneca vaccine is highly protective, reducing the chance of someone getting ill and needing hospital treatment by more than 80%. The findings, from Public Health England are based on people aged over 80 who were some of the first to be immunised in the UK's vaccine rollout. Scientists say the results are 'very strong', and apply to the Pfizer-BioNTech vaccine too.",
+      "published_at": "03/03/2021",
+      "category": "Coronavirus",
+      "sub_category": "Coronavirus",
+      "img": [{
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/F1B6/production/_116787816_jabber.jpg",
+          "img_tag": "A single shot of the Oxford-AstraZeneca vaccine is highly protective"
+        },
+        {
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/3A97/production/_116299941_oxford_coronavirus_vaccine_640_3x-nc.png",
+          "img_tag": "How the Oxford vaccine works"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "How does the Oxford vaccine work?",
+          "sub_description": "t is made from a weakened version of a common cold virus (known as an adenovirus) from chimpanzees. It has been modified to look more like coronavirus - although it can't cause illness. Once injected, it teaches the body's immune system how to fight the real virus, should it need to. Unlike Pfizer's jab - which has to be kept at an extremely cold temperature (-70C) - the Oxford vaccine can be stored in a normal fridge. This makes it much easier to distribute."
+        },
+        {
+          "sub_title": "Is the Oxford vaccine as good as the Pfizer?",
+          "sub_description": "Large trials showed the Pfizer vaccine was 95% effective, while the figure for the Oxford one was 62%. But directly comparing results is difficult because there are differences in the way the trials were carried out. And it's important to remember that even the lower 62% figure is a better result than the best flu jab, which is about 50% effective. No-one who received the Oxford vaccine was hospitalised or became seriously ill due to Covid. A recent study found a single dose of the Oxford vaccine offered 76% protection for three months, and this went up to 82% after the second dose."
+        }
+      ]
+    },
+    {
+      "id": 100026,
+      "headline": "Covid vaccine update: Those that work - and the others on the way",
+      "description": "Covid vaccination campaigns are now under way in the UK and across the world. A range of vaccines is being used to reduce people's chances of getting sick, needing hospital treatment or dying. Two more vaccines have also just been shown to work in large-scale clinical trials.",
+      "published_at": "02/02/2021",
+      "category": "Coronavirus",
+      "sub_category": "Coronavirus",
+      "img": [{
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/12A62/production/_115368367_vaccine2.jpg",
+          "img_tag": "Covid vaccination campaigns are now under way in the UK"
+        },
+        {
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/1453/production/_116730250_vaccines_comparedincl_janssen_novavax_29_jan_640_2x-nc.png",
+          "img_tag": "How the vaccine compare"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "Why do we need a vaccine?",
+          "sub_description": "It is more than a year since the virus first emerged, yet the vast majority of people are still vulnerable. The restrictions on our lives are the only thing holding the virus in check as they reduce opportunities for the virus to spread. Vaccines teach our bodies to fight the infection and are 'the' exit strategy from the pandemic."
+        },
+        {
+          "sub_title": "The big three - Pfizer/BioNtech, Moderna and Oxford/AstraZeneca",
+          "sub_description": "The three vaccine frontrunners are those developed by Pfizer/BioNTech, Moderna and Oxford/AstraZeneca. Pfizer and Moderna have both developed RNA vaccines - a new approach that is incredibly quick to design. They inject a tiny fragment of the virus's genetic code into the body, which starts producing part of the coronavirus and pushes the body to mount a defence. These have been approved for use in the UK, Europe and the US. The Oxford vaccine is subtly different as it uses a harmless virus to carry the same genetic material into the body. This has been approved in the UK and Europe. It is the easiest of the three to use as it can be stored in a fridge, rather than needing very cold temperatures. All three are supposed to be given as two doses, but the UK is prioritising giving as many people as possible the first dose and delaying the second."
+        }
+      ]
+    },
+    {
+      "id": 100027,
+      "headline": "Covid-19: Days that shaped the outbreak",
+      "description": "A year ago, the Chinese government locked down the city of Wuhan. For weeks beforehand officials had maintained that the outbreak was under control - just a few dozen cases linked to a live animal market. But in fact the virus had been spreading throughout the city and around China. This is the story of five critical days early in the outbreak. By 30 December, several people had been admitted to hospitals in the central city of Wuhan, having fallen ill with high fever and pneumonia. The first known case was a man in his 70s who had fallen ill on 1 December. Many of those were connected to a sprawling live animal market, Huanan Seafood Market, and doctors had begun to suspect this wasn't regular pneumonia. Samples from infected lungs had been sent to genetic sequencing companies to identify the cause of the disease, and preliminary results had indicated a novel coronavirus similar to Sars. The local health authorities and the country's Center for Disease Control (CDC) had already been notified, but nothing had been said to the public.",
+      "published_at": "26/01/2021",
+      "category": "Coronavirus",
+      "sub_category": "Coronavirus",
+      "img": [{
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/13A57/production/_116617408_1200-wuhan-market-11-jan-gettyimages-1193097821.jpg",
+          "img_tag": "Wuhan’s Huanan Seafood Wholesale Market was sealed off on 1 January 2020"
+        },
+        {
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/1360B/production/_116617397_1200-sars-2003-gettyimages-1194872129.jpg",
+          "img_tag": "Robert Maguire of the WHO and a Chinese doctor visit a Sars patient in Guangzhou, China – April 2003"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "30 December 2019: Virus alert",
+          "sub_description": "At around 16:00 on 30 December, the head of the Emergency Department at Wuhan Central Hospital was handed the results of a test carried out by sequencing lab Capital Bio Medicals in Beijing. She went into a cold sweat as she read the report, according to an interview given later to Chinese state media. At the top were the alarming words: 'SARS CORONAVIRUS'. She circled them in bright red, and passed it on to colleagues over the Chinese messaging site WeChat. Within an hour and a half, the grainy image with its large red circle reached a doctor in the hospital's ophthalmology department, Li Wenliang. He shared it with his hundreds-strong university class group, adding the warning, 'Don't circulate the message outside this group. Get your family and loved ones to take precautions.' When Sars spread through southern China in late 2002 and 2003, Beijing covered up the outbreak, insisting that everything was under control. This allowed the virus to spread around the world. Beijing's response invoked international criticism and - worryingly for a regime deeply concerned about stability - anger and protests within China. Between 2002 and 2004, Severe Acute Respiratory Syndrome (Sars) went on to infect more than 8,000 people and kill almost 800 worldwide."
+        },
+        {
+          "sub_title": "2 January: Silencing the doctors",
+          "sub_description": "The number of people infected by the virus was doubling in size every few days, and more and more people were turning up at Wuhan's hospitals. But now - instead of allowing doctors to share their concerns publicly - state media began a campaign that effectively silenced them. On 2 January, China Central Television ran a story about the doctors who spread the news about an outbreak four days earlier. The doctors, referred to only as 'rumour mongers' and 'internet users', were brought in for questioning by the Wuhan Public Security Bureau and 'dealt with' 'in accordance with the law'. One of the doctors was Li Wenliang, the eye doctor whose warning had gone viral. He signed a confession. In February, the doctor died of Covid-19."
+        }
+      ]
+    },
+    {
+      "id": 100028,
+      "headline": "Covid in California: The state is struggling to contain the virus",
+      "description": "California was praised for acting swiftly to contain the coronavirus last spring. Now more than 31,000 people have died of the virus in the state. What went wrong? California was the first to issue a state-wide stay-at-home order, and experts at the time predicted the pandemic would peak here in April with fewer than 2,000 lives lost. But since November, deaths have surged by more than 1,000%. In Los Angeles alone, nearly 2,000 people died this week. Makeshift morgues have been set up across the state, ICUs are full, oxygen is being rationed and ambulance teams have been told not to transport those unlikely to survive the night because hospitals are too full. Disneyland, which has been closed since March, is now being turned into a massive vaccination centre, along with Dodger Stadium, in the hopes of controlling what's become a super surge.",
+      "published_at": "25/02/2021",
+      "category": "Coronavirus",
+      "sub_category": "Coronavirus",
+      "img": [{
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/502A/production/_116522502_gettyimages-1296234046.jpg",
+          "img_tag": "Disneyland has opened a mass vaccination site"
+        },
+        {
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/4E42/production/_116543002_gettyimages-1230547594.jpg",
+          "img_tag": "Santa Monica Pier has been temporarily closed January weekends in an effort to mitigate spread"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "Covid-19 can infect anyone",
+          "sub_description": "While Covid-19 can infect anyone, it's definitely more cruel to the have-nots than the haves. For every case of Covid in Beverly Hills, there are six times more in Compton. While two people from Bel Air have died, more than 230 people have lost their lives in working-class East LA. And now, the virus is surging through LA's vast homeless population. People who live in Los Angeles are used to driving past dozens, hundreds or even thousands of people living on the streets every day. At the beginning of the pandemic, they were largely spared from infection - likely because they're so isolated as a population. Cities and counties are using trailers and motels to house Covid positive people without shelter. The Union Rescue Mission on LA's Skid Row is normally buzzing with lively dinner guests and residents. But in these pandemic days it's quiet, with most of its residents isolated in quarantine."
+        },
+        {
+          "sub_title": "There is concern about a surge of Covid in LA's Skid Row community",
+          "sub_description": "Behind the building, a fabric tent meant to house the most vulnerable women on the streets is now a field hospital full of men with Covid, tended to by doctors and nurses covered head-to-toe in the now familiar protective gear. 'The Covid situation is the worst ever and this is the most horrific battle we've ever been in,' says Reverend Andy Bales, who runs the mission. 'It's like playing chess with a monster genius - every move we make, it gets overcome by Covid.' At the beginning of the pandemic in March, Mr Bales was relieved that the homeless population seemed spared from the coronavirus. But then in April, a beloved staff member at the mission, Gerald Shiroma, died of the virus. He was 56."
+        }
+      ]
+    },
+    {
+      "id": 100029,
+      "headline": "Coronavirus: Why are infections rising again in US?",
+      "description": "The news of President Donald Trump's positive coronavirus test, and his subsequent hospitalisation, has reminded the country that no-one is protected from this virus. So where is the US right now in dealing with the pandemic?",
+      "published_at": "25/02/2021",
+      "category": "Coronavirus",
+      "sub_category": "Coronavirus",
+      "img": [{
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/13D13/production/_114817118_us_cases-nc.png",
+          "img_tag": "Cases have been rising recently"
+        },
+        {
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/16423/production/_114817119_us_cases_regions-nc.png",
+          "img_tag": "Stark regional difference in US"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "What's the overall picture?",
+          "sub_description": "With about 7.5 million coronavirus cases, the US has the highest number of confirmed infections in the world - about one fifth of the global total despite having only 4% of the population. After the initial spike in late March, social distancing restrictions gradually brought infections to heel. By May, case numbers had stabilised. But as states peeled back lockdown measures, cases began to rise, reaching a countrywide high in July."
+        },
+        {
+          "sub_title": "Why are cases rising?",
+          "sub_description": "It's difficult to explain precisely why. One contributing factor has been the return to school for US students. A recent study from the US Centers for Disease Control on the almost 100,000 coronavirus cases reported between 2 August and 5 September - around when college students began their return to school - found that weekly cases among those aged 18-22 increased by 55% nationally. The greatest increases came from the Northeast (which includes New York, Connecticut and New Jersey) and the Midwest, which is a region located west of the Northeast, including Illinois, Indiana, Ohio and Wisconsin. There have now been more than 130,000 cases identified at more than 1,300 American colleges, according to reporting from the New York Times."
+        }
+      ]
+    },
+    {
+      "id": 100030,
+      "headline": "Coronavirus: Is India's test and tracing strategy working?",
+      "description": "Indian Prime Minister Narendra Modi has called on the country's worst-affected states to give top priority to testing and contact tracing to combat coronavirus. Daily cases in India have been falling since mid-September, but there's concern that varied testing strategies may be hindering the battle against the disease.",
+      "published_at": "04/12/2020",
+      "category": "Coronavirus",
+      "sub_category": "Coronavirus",
+      "img": [{
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/8B79/production/_115750753_gettyimages-1229764604.jpg",
+          "img_tag": "A faster but less reliable method of testing has gained ground in many states"
+        },
+        {
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/405F/production/_115697461_kolkata_test.jpg",
+          "img_tag": "Kanpur district has the second-highest number of cases in the state"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "What type of testing is India doing?",
+          "sub_description": "India had been using the what's known as a PCR test - regarded as the gold standard of testing - very widely. But currently, only 60% of all tests use this method, and many Indian states - who are in charge of their own health policies - have switched to rapid antigen testing (RAT), a faster but less reliable method. RAT tests are known to miss up to 50% of cases due to false negatives (where infected people are not detected), although some experts believe they are still useful in areas which have become virus hotspots. 'The ability to detect cases depends on a relative mix of the less sensitive RAT test and the gold standard PCR test,' says Prof Gautam Menon, an infectious disease expert from Ashoka University in Haryana. India isn't alone in using these tests, and some European countries grappling with further waves of infection have also resorted to rapid testing."
+        },
+        {
+          "sub_title": "Is testing consistent across the country?",
+          "sub_description": "No, it's not. Maharashtra is the worst-affected state in India, with 17% of all cases.In terms of total coronavirus cases, it's followed by states with smaller populations such as Karnataka, Andhra Pradesh, Tamil Nadu and Kerala. But Uttar Pradesh and Bihar - two other states with large populations - appear to be doing much better. They have lower proportions of confirmed cases at 2.9% and 1.6%.What the testing data reveals is that in both Bihar and Uttar Pradesh (and some other states) less than 50% of total tests use the PCR method - so cases are being missed. In Maharashtra, nearly 60% of tests have been PCR tests (although they are increasingly using rapid testing in the state capital, Mumbai.) And Tamil Nadu state has relied totally on PCR testing, which means it is likely to have a far more accurate idea of the spread of the virus."
+        }
+      ]
     }
 
   ]
