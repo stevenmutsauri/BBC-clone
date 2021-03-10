@@ -1,4 +1,4 @@
-import {GET_NEWS_DATA_REQUEST, GET_NEWS_DATA_SUCCESS, GET_NEWS_DATA_FAILURE, GET_ASIA_NEWS_SUCCESS} from './actionType'
+import {GET_NEWS_DATA_REQUEST, GET_NEWS_DATA_SUCCESS, GET_NEWS_DATA_FAILURE, GET_CORONA_NEWS_SUCCESS, GET_INDIA_NEWS_SUCCESS} from './actionType'
 import axios from 'axios'
 
 const getNewsDataRequest = () =>{
@@ -20,12 +20,29 @@ const getNewsDataFailure = () =>{
     }
 }
 
-const getAsiaNewsSuccess = (payload) =>{
+const getCoronaNewsSuccess = (payload) =>{
     return {
-        type: GET_ASIA_NEWS_SUCCESS,
+        type: GET_CORONA_NEWS_SUCCESS,
         payload
     }
 }
+
+const getIndiaNewsSuccess = (payload) =>{
+    return {
+        type: GET_INDIA_NEWS_SUCCESS,
+        payload
+    }
+}
+
+// For Responce Shuffling
+const shuffle = (para) => {
+    for (let i = para.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [para[i], para[j]] = [para[j], para[i]];
+    }
+    return para;
+}
+
 
 // For All News Data
 const fetchNewsData = () => (dispatch) => {
@@ -33,7 +50,7 @@ const fetchNewsData = () => (dispatch) => {
 
     return axios.get("https://fake---api.herokuapp.com/news")
     .then((res) => {
-        const getData = getNewsDataSuccess(res.data)
+        const getData = getNewsDataSuccess(shuffle(res.data))
         dispatch(getData)
     })
     .catch((err) => {
@@ -42,13 +59,29 @@ const fetchNewsData = () => (dispatch) => {
     })
 }
 
-// For Asia News Data
-const fetchAsiaNews = () => (dispatch) => {
+
+// For Corona News Data
+const fetchCoronaNews = () => (dispatch) => {
     dispatch(getNewsDataRequest())
 
-    return axios.get("https://fake---api.herokuapp.com/news?category=Asia")
+    return axios.get("https://fake---api.herokuapp.com/news?category=Coronavirus")
     .then((res) => {
-        const getData = getAsiaNewsSuccess(res.data)
+        const getData = getCoronaNewsSuccess(shuffle(res.data))
+        dispatch(getData)
+    })
+    .catch((err) => {
+        const errCaught = getNewsDataFailure()
+        dispatch(errCaught)
+    })
+}
+
+// For India News Data
+const fetchIndiaNews = () => (dispatch) => {
+    dispatch(getNewsDataRequest())
+
+    return axios.get("https://fake---api.herokuapp.com/news?sub_category=India")
+    .then((res) => {
+        const getData = getIndiaNewsSuccess(shuffle(res.data))
         dispatch(getData)
     })
     .catch((err) => {
@@ -61,5 +94,6 @@ export { getNewsDataRequest,
         getNewsDataSuccess, 
         getNewsDataFailure, 
         fetchNewsData,
-        fetchAsiaNews
+        fetchCoronaNews,
+        fetchIndiaNews
 }

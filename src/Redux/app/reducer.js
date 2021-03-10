@@ -1,10 +1,11 @@
-import {GET_NEWS_DATA_REQUEST, GET_NEWS_DATA_SUCCESS, GET_NEWS_DATA_FAILURE, GET_ASIA_NEWS_SUCCESS} from './actionType'
+import {GET_NEWS_DATA_REQUEST, GET_NEWS_DATA_SUCCESS, GET_NEWS_DATA_FAILURE, GET_CORONA_NEWS_SUCCESS, GET_INDIA_NEWS_SUCCESS, GET_ENTERTAINMENT_NEWS_SUCCESS} from './actionType'
 
-const initialState = {
+export const initialState = {
     isLoading: false,
     isError: false,
     data: [],
-    asiaNews: []
+    coronaNews: [],
+    indiaNews: []
 }
 
 const reducer = (state = initialState, {type, payload}) => {
@@ -27,12 +28,19 @@ const reducer = (state = initialState, {type, payload}) => {
                 isLoading : false,
                 isError: true
             }
-        case GET_ASIA_NEWS_SUCCESS:
+        case GET_CORONA_NEWS_SUCCESS:
             return {
                 ...state,
                 isLoading : false,
                 isError: false,
-                asiaNews: payload
+                coronaNews: payload
+            }
+        case GET_INDIA_NEWS_SUCCESS:
+            return {
+                ...state,
+                isLoading : false,
+                isError: false,
+                indiaNews: payload
             }
         default:
             return state
