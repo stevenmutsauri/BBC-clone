@@ -1,0 +1,30 @@
+.commonCard__div {
+    border: 1px solid red;
+    margin: 40px;
+}
+
+.box__div {
+    display: flex;
+    justify-content: space-between;
+}
+
+.category__name {
+    color: #444a4b;
+    font-size: 25px;
+    border-left: 3px solid red;
+    text-align: left;
+    padding: 0px 10px;
+    font-weight: bold;
+
+}
+
+.commonCardBox__div {
+    border: 1px solid black;
+    width: 32%;
+    /* height: fit-content; */
+}
+
+.news__poster {
+    width: 100%;
+    height: 300px;
+}
