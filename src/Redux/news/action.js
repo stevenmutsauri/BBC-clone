@@ -1,21 +1,21 @@
 import axios from "axios"
-import {GET_WEATHER_FAILURE,GET_WEATHER_SUCCESS,GET_WEATHER_REQUEST} from "./actionTypes"
+import {GET_NEWSDATA_REQUEST,GET_NEWSDATA_SUCCESS,GET_NEWSDATA_FAILURE} from "./actionTypes"
 
 const getWeatherRequest = () => {
     return {
-        type:GET_WEATHER_REQUEST
+        type:GET_NEWSDATA_REQUEST,
     }
 }
 
 const getWeatherSuccess = (payload) => {
     return {
-        type:GET_WEATHER_SUCCESS,
+        type:GET_NEWSDATA_SUCCESS,
         payload
     }
 }
 const getWeatherFailure = (payload) => {
     return {
-        type:GET_WEATHER_FAILURE,
+        type:GET_NEWSDATA_FAILURE,
         payload
     }
 }
