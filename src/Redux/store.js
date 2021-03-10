@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 //test
 import { combineReducers, createStore, applyMiddleware, compose } from 'redux'
 import { reducer as appReducer } from './app/reducer'
@@ -23,3 +24,26 @@ const store = createStore(rootReducer,
 )
 
 export {store}
+=======
+import { applyMiddleware, combineReducers, compose, createStore } from "redux"
+import thunk from "redux-thunk"
+import { weatherReducer } from "./weather/reducer"
+
+const rootReducer = combineReducers({
+    weather:weatherReducer
+})
+
+let composeEnhancers = compose;
+
+if (process.env.NODE_ENV !== "production") {
+  composeEnhancers = window.__REDUX_DEVTOOLS_EXTENSION_COMPOSE__
+    ? window.__REDUX_DEVTOOLS_EXTENSION_COMPOSE__({})
+    : compose;
+}
+
+const enhancer = composeEnhancers(applyMiddleware(thunk));
+
+// const enhancer = composeEnhancers(applyMiddleware(thunk));
+
+export const store = createStore(rootReducer,enhancer)
+>>>>>>> 0fe528076295294978b8f7356ce657322eafcec5

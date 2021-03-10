@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import style from "../Styles/navbar.module.css"
 import SearchBar from "../Search/SearchBar";
-import style from "../Styles/navbar.module.css";
 import { RiArrowDropDownFill } from "react-icons/ri";
 import Dropdown from "./Dropdown";
 
@@ -56,6 +56,7 @@ const linkMiddle = [
 ];
 
 export default function Navbar() {
+ 
   const [moreDrop, setMoreDrop] = React.useState(false);
   const showDropDown=()=>{
     setMoreDrop(!moreDrop)
@@ -83,7 +84,6 @@ export default function Navbar() {
         <SearchBar></SearchBar>
       </div>
       {moreDrop && <Dropdown></Dropdown> }
-      
     </div>
   );
 }
