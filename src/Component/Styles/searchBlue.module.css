@@ -1,0 +1,36 @@
+.seach__blue{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: #006def;
+    height: 70px;
+   
+}
+.seach__blue>input{
+    width: 800px;
+    height: 40px;
+    margin: auto;
+    border:none;
+    text-decoration: none;
+    outline: none;
+}
+.seach__blue>Link>div{
+    position:relative;
+    top: 10px;
+    left: -50px;
+}
+.seach__blue>input::placeholder{
+    font-size: 20px;
+    padding-left: 10px;
+}
+.seach__blue>input[type="text"]{
+    font-size: 20px;
+    padding-left: 10px;
+}
+.seach__blue >a{
+    font-size: 30px;
+    position: relative !important;;
+    top: 19px! important;
+    left:-26%;
+}
+
