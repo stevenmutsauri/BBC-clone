@@ -1,5 +1,5 @@
 import React from 'react'
-import styles from "./Styles/mediaImage.module.css"
+import styles from "../Styles/mediaImage.module.css"
 const MediaImage = () => {
     return (
         <div className={styles.mediaImage__wrapper}>
