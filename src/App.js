@@ -4,6 +4,7 @@ import Navbar from './Component/Navbar/Navbar';
 import { SmallNewsCards } from './Component/Home/SmallNewsCards';
 import { MediaImage } from './Component/Home/MediaImage';
 import { WeatherForecast } from './Component/Home/WeatherForecast';
+import Footer from './Component/Footer/Footer';
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
      <br/>
      <MediaImage/>
      <WeatherForecast/>
+     <Footer></Footer>
     </div>
   );
 }
