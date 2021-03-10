@@ -24,7 +24,7 @@ const getWeather = (q) => dispatch => {
     dispatch(getWeatherRequest())
     return axios.get(`http://api.weatherapi.com/v1/forecast.json`,{
         params:{
-            key:"87ef7858e7974c34844155232210903",
+            key:process.env.REACT_APP_WEATHER_API_KEY,
             q,
         }
     })
