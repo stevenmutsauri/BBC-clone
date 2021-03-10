@@ -1,4 +1,4 @@
-import {GET_NEWS_DATA_REQUEST, GET_NEWS_DATA_SUCCESS, GET_NEWS_DATA_FAILURE} from './actionType'
+import {GET_NEWS_DATA_REQUEST, GET_NEWS_DATA_SUCCESS, GET_NEWS_DATA_FAILURE, GET_ASIA_NEWS_SUCCESS} from './actionType'
 import axios from 'axios'
 
 const getNewsDataRequest = () =>{
@@ -20,6 +20,14 @@ const getNewsDataFailure = () =>{
     }
 }
 
+const getAsiaNewsSuccess = (payload) =>{
+    return {
+        type: GET_ASIA_NEWS_SUCCESS,
+        payload
+    }
+}
+
+// For All News Data
 const fetchNewsData = () => (dispatch) => {
     dispatch(getNewsDataRequest())
 
@@ -27,7 +35,6 @@ const fetchNewsData = () => (dispatch) => {
     .then((res) => {
         const getData = getNewsDataSuccess(res.data)
         dispatch(getData)
-        console.log(getData);
     })
     .catch((err) => {
         const errCaught = getNewsDataFailure()
@@ -35,4 +42,24 @@ const fetchNewsData = () => (dispatch) => {
     })
 }
 
-export { getNewsDataRequest, getNewsDataSuccess, getNewsDataFailure, fetchNewsData}
+// For Asia News Data
+const fetchAsiaNews = () => (dispatch) => {
+    dispatch(getNewsDataRequest())
+
+    return axios.get("https://fake---api.herokuapp.com/news?category=Asia")
+    .then((res) => {
+        const getData = getAsiaNewsSuccess(res.data)
+        dispatch(getData)
+    })
+    .catch((err) => {
+        const errCaught = getNewsDataFailure()
+        dispatch(errCaught)
+    })
+}
+
+export { getNewsDataRequest, 
+        getNewsDataSuccess, 
+        getNewsDataFailure, 
+        fetchNewsData,
+        fetchAsiaNews
+}

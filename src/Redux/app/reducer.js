@@ -1,9 +1,10 @@
-import {GET_NEWS_DATA_REQUEST, GET_NEWS_DATA_SUCCESS, GET_NEWS_DATA_FAILURE} from './actionType'
+import {GET_NEWS_DATA_REQUEST, GET_NEWS_DATA_SUCCESS, GET_NEWS_DATA_FAILURE, GET_ASIA_NEWS_SUCCESS} from './actionType'
 
 const initialState = {
     isLoading: false,
     isError: false,
-    data: []
+    data: [],
+    asiaNews: []
 }
 
 const reducer = (state = initialState, {type, payload}) => {
@@ -25,6 +26,13 @@ const reducer = (state = initialState, {type, payload}) => {
                 ...state,
                 isLoading : false,
                 isError: true
+            }
+        case GET_ASIA_NEWS_SUCCESS:
+            return {
+                ...state,
+                isLoading : false,
+                isError: false,
+                asiaNews: payload
             }
         default:
             return state
