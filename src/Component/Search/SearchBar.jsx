@@ -1,6 +1,6 @@
 import React from 'react'
 import { BiSearch } from 'react-icons/bi';
-import style from "./Styles/navbar.module.css"
+import style from "../Styles/navbar.module.css"
 
 
 

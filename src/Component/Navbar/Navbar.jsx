@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import SearchBar from "./SearchBar";
-import style from "./Styles/navbar.module.css";
+import SearchBar from "../Search/SearchBar";
+import style from "../Styles/navbar.module.css";
 import { RiArrowDropDownFill } from "react-icons/ri";
 import Dropdown from "./Dropdown";
 

@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import style from "./Styles/navbar.module.css";
+import style from "../Styles/navbar.module.css";
 
 
 const linksDrop=[
