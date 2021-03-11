@@ -1,0 +1,1571 @@
+{
+  "news": [
+    {
+      "id": 100001,
+      "headline": "India rebukes UK MPs over farmers' protest debate",
+      "description": "India has rebuked UK MPs for criticising its handling of long-running farmers' protests in Delhi. Several Labour, Liberal Democrat and Scottish National Party MPs on Monday expressed concern over the safety of protesters and the status of press freedom in India. But India's High Commission in London said the parliamentary discussion was full of 'false assertions'. Indian farmers have been protesting for months against agricultural reforms. Thousands of them have been camped on the outskirts of the capital Delhi, demanding the government repeal the laws, which seek to further open up India's farming sector to private players. Prime Minister Narendra Modi and his Bharatiya Janata Party-led government insist the laws will improve farmers' incomes. But farmers say the opposite will happen since the reforms give corporate companies greater bargaining power. The protests - which have lasted for more than 100 days - have dominated headlines and social media feeds, and the government's response has drawn international attention and even rebuke. India's government has shut down the internet around the protest sites for brief spells, arrested protesters, sympathetic activists and even journalists covering the strike. Citing these instances, UK MPs said human rights and democratic freedoms were not being upheld in India, reports the BBC's Yogita Limaye. 'Water cannons and tear gas and repeated clashes between police and farmers and interruption in internet connectivity have been matters of concern. Several farmers have reportedly committed suicide,' SNP MP Martin Day said.",
+      "published_at": "09/03/2021",
+      "category": "Asia",
+      "sub_category": "India",
+      "img": [{
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/BE3B/production/_117499684_gettyimages-1231599814.jpg",
+          "img_tag": "Thousands of farmers are protesting at Delhi's borders"
+        },
+        {
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/2CB9/production/_116994411_cdf9330b-a82b-47d0-bd03-0ee13eb28d3d.jpg",
+          "img_tag": "The farmers are demanding the repeal of three farm laws"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "When Prime Minister Boris Johnson will visits the country",
+          "sub_description": "They demanded that UK officials address these concerns with India when Prime Minister Boris Johnson visits the country, which is expected later this year. The UK government has said they have already raised these issues and will continue to do so while respecting that the farm laws are a domestic matter. We deeply regret that rather than a balanced debate, false assertions - without substantiation or facts - were made, casting aspersions on the largest functioning democracy in the world and its institutions, India's High Commission said in a statement."
+        },
+        {
+          "sub_title": "Monday's debate in the UK parliament",
+          "sub_description": "When aspersions are cast on India by anyone, irrespective of their claims of friendship and love for India or domestic political compulsions, there is a need to set the record straight,' it added. Monday's debate in the UK parliament follows a recent report on global political rights and liberties that changed India's status from a free country to 'partly free'. It attributed the downgrade to increased pressure on human rights groups, journalists and activists, and targeting of minorities, since 2014, when Mr Modi swept to power. But the Indian government's response to the protest - which has included criminal charges against eight journalists, the controversial arrest of a 22-year-old activist and a spat with pop star Rihanna - has sparked anger and criticism in India as well."
+        }
+      ]
+    },
+    {
+      "id": 100002,
+      "headline": "Farm laws: Are India's new reforms a 'death warrant' for farmers?",
+      "description": "Three contentious laws that will change the way India's farmers do business have sparked one of India's biggest protests and a months-long standoff with the government. Since November, tens of thousands of protesting farmers demanding repeal of the laws have been camping out on highways on the outskirts of Delhi. The parliament passed the three bills in September, which were then signed into law by the president. Opposition parties accused the government of flouting parliamentary procedure by passing the bills hurriedly and not listening to their demand of sending the bills to a parliamentary committee for further deliberations. But beyond the political fracas, the bills have also split opinions - while Prime Minister Narendra Modi called the reforms a 'watershed moment for Indian agriculture, opposition parties have termed them 'anti-farmer and likened them to a 'death warrant'. Angry and worried farmer groups see them as unfair and exploitative. Pro-reform economists have largely welcomed the move, saying the new laws will help improve farm incomes, attract investment and technology, and increase productivity. Nearly a dozen rounds of talks between the 30-odd farmer unions and the government have yielded no results.",
+      "published_at": "16/02/2021",
+      "category": "Asia",
+      "sub_category": "India",
+      "img": [{
+        "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/2CB9/production/_116994411_cdf9330b-a82b-47d0-bd03-0ee13eb28d3d.jpg",
+        "img_tag": "The farmers are demanding the repeal of three farm laws"
+      },
+        {
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/920E/production/_114509373_gettyimages-1197872954.jpg",
+          "img_tag": "Many farmers sell produce at large wholesale markets or mandis"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "What exactly do the bills propose?",
+          "sub_description": "Taken together, the reforms will loosen rules around sale, pricing and storage of farm produce - rules that have protected India's farmers from the free market for decades. They also allow private buyers to hoard essential commodities for future sales, which only government-authorised agents could do earlier; and they outline rules for contract farming, where farmers tailor their production to suit a specific buyer's demand. One of the biggest changes is that farmers will be allowed to sell their produce at a market price directly to private players - agricultural businesses, supermarket chains and online grocers. Most Indian farmers currently sell the majority of their produce at government-controlled wholesale markets or mandis at assured floor prices."
+        },
+        {
+          "sub_title": "So, what is the issue?",
+          "sub_description": "The issue is that it's unclear how this will play out in reality. For one, farmers can already sell to private players in many states but what these bills do is offer a national framework. But farmers are mainly concerned that this will eventually lead to the end of wholesale markets and assured prices, leaving them with no back-up option. That is, if they are not satisfied with the price offered by a private buyer, they cannot return to the mandi or use it as a bargaining chip during negotiations."
+        }
+      ]
+    },
+    {
+      "id": 100003,
+      "headline": "Why do India's farmers feel insecure?",
+      "description": "On the face of it, India's farmers shouldn't be complaining. The government provides them generous subsidies, exemption from income tax and crop insurance. They are guaranteed prices for 23 crops and debts are often waived when they are unable to pay off loans. But farmers have been on the boil for some years now. Although more than half of Indians work on farms, farming accounts for barely a sixth of the country's GDP.",
+      "published_at": "16/02/2021",
+      "category": "Asia",
+      "sub_category": "India",
+      "img": [{
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/16539/production/_116994419_022b36ca-eb68-4843-924f-250349178f6b.jpg",
+          "img_tag": "More than half of Indians work on farms"
+        },
+        {
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/C8F9/production/_116994415_11028de4-4ea8-4698-bc33-ef2337ff83cd.jpg",
+          "img_tag": "Protesting farmers broke through police barricades to storm Delhi's Red Fort complex in January"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "What has the government proposed?",
+          "sub_description": "The government suggested tweaks to the laws, and later offered to suspend them altogether for up to 18 months even as negotiations continue. But the farmers have remained firm, saying they will not settle for anything less than a repeal of the laws."
+        },
+        {
+          "sub_title": "Why did the protests turn violent?",
+          "sub_description": "On 26 January a rally against the laws turned violent, after protesting farmers broke through police barricades to storm Delhi's historic Red Fort complex. On foot and in tractors, the protesters were part of a huge rally planned for India's Republic Day. Many protesters diverted from agreed routes and clashes broke out with police. One protester died and some 500 policemen were injured. Farm union leaders condemned the violence and blamed the chaos on rogue elements among an otherwise peaceful march. Many said the protests have lost their legitimacy after the violence. Others said the farmers should accept the government's offer to put the reforms on hold and return home. Since early February, iron nails, rods, barbed wire, boulders and makeshift walls have been used to barricade the capital's borders against the protesters. But the farmers have refused to leave and are not budging from their demand. The protest is now in its third month, and there is no solution in sight."
+        }
+      ]
+    },
+    {
+      "id": 100004,
+      "headline": "Myanmar coup: India asked to return police officers who crossed border",
+      "description": "Myanmar has asked neighbouring India to return several police officers who crossed the border seeking refuge after refusing to carry out orders. Indian officials said the officers and their families had crossed the border in recent days. In a letter, Myanmar authorities asked for their return 'in order to uphold friendly relations'. Myanmar has been gripped by mass protests and strikes following a military coup last month. Security forces have taken a hard line against the demonstrations and at least 55 deaths have been reported.",
+      "published_at": "07/03/2021",
+      "category": "Asia",
+      "sub_category": "India",
+      "img": [{
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/144FD/production/_117479138_066071725.jpg",
+          "img_tag": "Fresh clashes broke out between police and protesters in Yangon on Saturday"
+        },
+        {
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/F878/production/_117480636_hi066076045.jpg",
+          "img_tag": "A ceremony was held late on Saturday in honour of the lives lost during the anti-coup protests"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "What about the police officers seeking refuge?",
+          "sub_description": "Deputy Commissioner Maria CT Zuali, a senior official in Champhai district in the Indian state of Mizoram, told Reuters news agency that she had received a letter from her counterpart in Myanmar's Falam district requesting the return of the police officers. The letter said that Myanmar had information about eight police officers who had crossed into India. 'In order to uphold friendly relations between the two neighbour countries, you are kindly requested to detain eight Myanmar police personnel who had arrived to Indian territories and hand-over to Myanmar,' the letter read."
+        },
+        {
+          "sub_title": "How did the unrest start?",
+          "sub_description": "Myanmar's military seized power at the beginning of February after detaining the democratically elected leader, Aung San Suu Kyi. Days later, a civil disobedience movement began, with many people refusing to return to work and some taking part in huge street protests. Myanmar's security forces responded with a violent crackdown - firing live rounds at unarmed protesters. The military has not commented on the deaths. More than 1,700 people have been detained since the coup, according to UN human rights chief Michelle Bachelet, including members of parliament, protesters, and at least 29 journalists. Ms Bachelet said the figures could be much higher due to the large scale of the protests and difficulty in monitoring developments."
+        }
+      ]
+    },
+    {
+      "id": 100005,
+      "headline": "Covishield and Covaxin: What we know about India's Covid-19 vaccines",
+      "description": "India's Covaxin, the homegrown government-backed vaccine, has an efficacy rate of 81%, preliminary data from its phase 3 trial shows. India's regulators gave the vaccine an emergency approval in January while the third phase of the trial was still under way, sparking scepticism and questions from experts. Bharat Biotech, the vaccine's manufacturer, said the latest findings were 'an important milestone in vaccine discovery, for science and our fight against coronavirus'. 'With today's results from our phase 3 clinical trials, we have now reported data on our Covid-19 vaccine from phase 1, 2, and 3 trials involving around 27,000 participants,' the firm said.",
+      "published_at": "09/03/2021",
+      "category": "Asia",
+      "sub_category": "India",
+      "img": [{
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/10C8F/production/_116615786_mediaitem116615784.jpg",
+          "img_tag": "India's Covaxin"
+        },
+        {
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/852A/production/_116609043_gettyimages-1230630497.jpg",
+          "img_tag": "Bharat Biotech is a Hyderabad-based pharmaceutical company"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "How does Covaxin work?",
+          "sub_description": "Bharat Biotech, a 24-year-old vaccine maker, has a portfolio of 16 vaccines and it exports to 123 countries. Covaxin is an inactivated vaccine which means that it is made up of killed coronaviruses, making it safe to be injected into the body. Bharat Biotech used a sample of the coronavirus, isolated by India's National Institute of Virology. When administered, immune cells can still recognise the dead virus, prompting the immune system to make antibodies against the pandemic virus."
+        },
+        {
+          "sub_title": "What was the controversy around Covaxin?",
+          "sub_description": "It all began when the regulator in January said the vaccine had been approved for 'restricted use in emergency situations in public interest as an abundant precaution, in clinical trial mode, especially in the context of infection by mutant strains'. Experts wondered how a vaccine was cleared for emergency use by millions of vulnerable people when its trials were still underway. The All India Drug Action Network at the time said that it was 'baffled to understand the scientific logic' to approve 'an incompletely studied vaccine'. It said that there were 'intense concerns arising from the absence of the efficacy data'. Both the manufacturer and drug regulator had defended Covaxin, saying it was 'safe and provides a robust immune response.'"
+        }
+      ]
+    },
+    {
+      "id": 100006,
+      "headline": "Covid-19: India in a 'delicate phase' of its coronavirus battle as cases surge",
+      "description": "After reporting a significant drop in the number of Covid-19 cases for months, some Indian states have seen a sharp uptick in infections in February. The BBC's Vikas Pandey and Soutik Biswas report. In early February, physicians in Amravati district, some 700km (435 miles) from India's commercial capital, Mumbai, noticed a sudden surge in the number of people suffering from Covid-19. Life in this cotton-growing district in the western state of Maharashtra had almost returned to normal after the first wave of infections last summer. The ICUs of the 1,600-bed state-run hospital and half-a-dozen private hospitals were nearly empty.",
+      "published_at": "27/02/2021",
+      "category": "Asia",
+      "sub_category": "India",
+      "img": [{
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/FD8D/production/_117290946_gettyimages-1231095638.jpg",
+          "img_tag": "Healthcare workers are worried abut another wave"
+        },
+        {
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/13736/production/_117307697_gettyimages-1229111084.jpg",
+          "img_tag": "Markers have become crowded again and social distancing norms are not strictly followed"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "Is India staring at a new Covid wave?",
+          "sub_description": "Epidemiologist Dr Lalit Kant says a 'false sense' of normalcy has 'swept the country'. 'We cannot afford to drop our guard and we have to be cautious about opening places of mass gatherings. Testing, tracing and isolation has to be again scaled up massively in all states - we cannot wait for things to get worse. 'Dr Kant adds that the rise in the number of cases in some states was expected because it followed the global pattern. 'We have seen spikes in several countries after a lull of two to three months."
+        },
+        {
+          "sub_title": "Daily Cases and Deaths in India",
+          "sub_description": "Disease modelling expert Gautam Menon agrees that the spike was expected. 'Modelling work and sero survey results would suggest that much of India should be still susceptible to the disease, so a resurgence of the sort we are seeing is not very surprising.' But why is the resurgence happening only in a handful of states, particularly in Maharashtra? Mr Menon says the only reasonable conclusion is that surveillance in these states is stronger and that a similar rise in other states may simply have gone undetected so far. Another possible reason, experts say, could be mutation. Viruses often mutate to change their genetic code, which is like their instruction manual. Mutations allow viruses to spread faster and, in some cases, render antibodies less effective."
+        }
+      ]
+    },
+    {
+      "id": 100007,
+      "headline": "International Women's Day: Illustrating the Covid-19 pandemic",
+      "description": "There's barely any country in the world that hasn't been touched by the coronavirus pandemic and its aftershocks. But with so much information out there, it's sometimes hard to digest all the details and fully take it in.Ahead of International Women's Day on 8 March, we invite you to meet three women who are using their artistic talents, combined with their expertise in the fields of science, health and technology to help the fight against coronavirus.",
+      "published_at": "05/03/2021",
+      "category": "Asia",
+      "sub_category": "India",
+      "img": [{
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/11A83/production/_117332327_f01f882e-f3e1-4d38-9008-ed93fbc69e6b.png",
+          "img_tag": "Illustrators like Dr Radhika Patnala have spent the past year visualising the pandemic."
+        },
+        {
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/C5D3/production/_117134605_rastana_headshot_wide.jpg",
+          "img_tag": "Avesta Rastan's life changed completely during the pandemic as more people realised the value of medical illustrators and science communicators"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "Avesta Rastan: 'You help out in whatever way you can'",
+          "sub_description": "Avesta Rastan, 25, is a visual science communicator currently living in California. At the start of the pandemic, she realised there weren't many infographics revealing how Covid-19 directly affected the human body. So the artist, who is of Iranian and Canadian heritage, and is a member of the Association of Medical Illustrators, saw a unique opportunity to use her skills and her training in pathological illustration (the drawing of disease) to help the wider public. 'I saw lots of illustrations and 3D models of the virus itself and its protein but I didn't really see what it did to us,' she explained."
+        },
+        {
+          "sub_title": "Dr Radhika Patnala: 'The pandemic woke everyone up'",
+          "sub_description": "Dr Radhika Patnala is a neuroscientist and the founder and director of the start-up Sci-Illustrate. The Indian-born entrepreneur, who studied in Singapore and Australia before moving to Munich, Germany, says one of the beauties of working in science is that the field is incredibly collaborative and crosses geographical and institutional boundaries. Her company creates science illustrations for a whole range of clients but she also has several passion projects underway, with the most recent focused on her response to the pandemic."
+        }
+      ]
+    },
+    {
+      "id": 100008,
+      "headline": "Coronavirus: Is the epidemic finally coming to an end in India?",
+      "description": "Is the sharp drop in India's coronavirus cases as dramatic and curious as some believe? Is the epidemic firmly in retreat in a country where many early modellers had predicted millions of deaths due to Covid-19? In October, I had written extensively on why the epidemic appeared to be slowing down in India. Cases had hit a record peak in the middle of September - there were more than a million active cases. After that daily deaths and caseloads began declining despite consistent testing and some short and fierce spikes of infections in cities like Delhi.",
+      "published_at": "15/02/2021",
+      "category": "Asia",
+      "sub_category": "India",
+      "img": [{
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/119E2/production/_116926127_mediaitem116926126.jpg",
+          "img_tag": "Case numbers and deaths have been swiftly dropping in India"
+        },
+        {
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/CF46/production/_116926035_mediaitem116926034.jpg",
+          "img_tag": "Hindu devotees have gathered for the Kumbh Mela as Covid cases drop"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "So why are cases dropping?",
+          "sub_description": "Experts say there could be a couple of different reasons. For one, India has seen a 'patchwork pandemic with cases waxing and waning at different times in different parts of the country. More people have been infected in cities - especially in packed slums - and in developed, urbanised districts than in smaller towns or villages. In all of these places, their exposure to the virus has varied significantly. Cases have now slowed down in most urban areas, but rural India still remains a bit of a mystery."
+        },
+        {
+          "sub_title": "Is the low death rate a mystery?",
+          "sub_description": "Most scientists believe that many more Indians died of the infection than what the official figures reveal. India has a poor record of certifying deaths and a large number of people die at home. But even such a scale of under-reporting has not caused public panic or overwhelmed hospitals. Consider this. India has some 600,000 villages. Even one undiagnosed and unreported death from Covid in each village every day would not overwhelm the public health system. India imposed a sweeping, early shutdown in late March to halt the spread of the virus. Scientists believe that the shutdown, which stretched to nearly 70 days, did prevent a lot of infections and deaths. Transmission slowed in the badly-hit cities because of the expanded use of face masks, physical distancing, school and office closures and people working from home."
+        }
+      ]
+    },
+    {
+      "id": 100009,
+      "headline": "Covid: How this Indian firm is vaccinating the world",
+      "description": "As pharmaceutical giants ramp up production in the race to vaccinate the world, one firm has shot into the lead. The Serum Institute of India (SII) isn't a household name, but it's the world's largest vaccine maker. The firm churns out 1.5 billion doses every year from the company's vast manufacturing plant in Pune, Western India. It is currently making Covid vaccines under license for pharmaceutical firms such as AstraZeneca. 'We took a huge calculated risk, by betting on several vaccines in 2020 before regulators had even approved of them, SII's chief executive Adar Poonawalla told the BBC. 'It wasn't a blind risk, because we knew the Oxford scientists from our earlier collaboration with the malaria vaccine.",
+      "published_at": "28/02/2021",
+      "category": "Asia",
+      "sub_category": "India",
+      "img": [{
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/EF12/production/_117320216_glass-vials.jpg",
+          "img_tag": "SII is involved the world's largest inoculation programme in India"
+        },
+        {
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/2FAA/production/_117320221_vials-man.jpg",
+          "img_tag": "SII managed to secure $800m by May 2020 to make multiple Covid vaccines"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "Stashing away doses",
+          "sub_description": "How did SII actually scale up production? In April 2020, Mr Poonawalla calculated what they would need, from vials and filters. 'I got 600 million doses worth of glass vials ahead of time and locked it in my warehouse by September,' he explained. 'The most important part that enabled us to have so many doses - 70-80 million in January - was because I started manufacturing at risk in August.' 'I wish other companies also had taken that risk, because the world would have had many more doses.' Mr Poonawalla criticised the patchwork of global regulatory systems and lack of harmonisation for production delays. He said the major regulators, including the UK's Medicines and Healthcare products Regulatory Agency (MHRA), the European Medicines Agency (EMA) and the US Food and Drug Administration (FDA), could have united and agreed a quality standard. He also criticised national governments, claiming that regulators in the countries that are making the vaccines, from India to Europe, could have united to agree a standard international benchmark."
+        },
+        {
+          "sub_title": "New variants",
+          "sub_description": "Mr Poonawalla played down concerns about new variants: 'Anyone who has taken that [Oxford AstraZeneca] vaccine so far hasn't had to go to hospital or go on a ventilator and had their life at risk. 'They've also passed that disease on to others. So yes, it's not an ideal situation, but it has protected your life.' In India, SII is also involved the world's largest inoculation programme, to vaccinate 300 million by August. But, according to Bloomberg, only 56% of people eligible to get a shot have actually stepped forward. 'A lot of vaccine hesitancy traditionally has come about when either celebrities or non-experts have said vaccines are not safe,' said Mr Poonawalla. 'I always just request celebrities and others who have this tremendous power on the social networks, to just be a bit responsible and read up on the facts before they say anything."
+        }
+      ]
+    },
+    {
+      "id": 100010,
+      "headline": "India Supreme Court: Calls for Justice Sharad Bobde to quit over rape remarks",
+      "description": "Calls have been growing in India for the chief justice of the Supreme Court to resign 'without a moment's delay' after his recent remarks in two cases of alleged rape. In an 'open letter' to Chief Justice Sharad Bobde, more than 5,000 feminists, rights activists and concerned citizens wrote that they were 'outraged' and asked him to retract his statements and apologise. So what did the chief justice say that has angered people so much? He asked two 'atrocious' questions.",
+      "published_at": "03/03/2021",
+      "category": "Asia",
+      "sub_category": "India",
+      "img": [{
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/87EC/production/_117369743_gettyimages-1182563379-594x594.jpg",
+          "img_tag": "Chief Justice Sharad Bobde"
+        },
+        {
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/1869C/production/_117369999_gettyimages-1128820368-594x594-1.jpg",
+          "img_tag": "Campaigners say Justice Bobde's comments are 'extremely problematic' in a country"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "The first: 'Will you marry her?'",
+          "sub_description": "Justice Bobde, who was heading a three-judge bench, asked a 23-year-old man accused of raping a girl whether he would marry her. 'If you want to marry (her) we can help you. If not, you lose your job and go to jail,' he said. His comments shocked many, especially considering the horrific accusations the girl - who was 16 at the time of the alleged rapes in 2014-15 - had made against the man, a distant relative. According to the letter, he 'is accused of stalking, tying up, gagging, repeatedly raping a minor school-going girl, and threatening to douse her in petrol and set her alight, to hurl acid at her, and to have her brother killed'. It added that 'the rape came to light when the minor school-going victim attempted suicide'. The girl's family also alleged that they had agreed not to go to the police because they were promised by the accused's mother that once the girl became an adult, they would marry the two."
+        },
+        {
+          "sub_title": "What's been the response?",
+          "sub_description": "The open letter, signed by some of India's best-known feminists and non-governmental organisations, borrows the term 'atrocious' from the Bombay High Court order to describe Justice Bobde's remarks. 'Your proposal of marriage as an amicable solution to settle the case of rape of a minor girl is worse than atrocious and insensitive for it deeply erodes the right of victims to seek justice. 'By suggesting that this [alleged] rapist marry the victim-survivor, you, the Chief Justice of India, sought to condemn her to a lifetime of rape at the hands of the tormentor who drove her to attempt suicide' it says."
+        }
+      ]
+    },
+    {
+      "id": 100011,
+      "headline": "China NPC: US condemns 'assault on Hong Kong democracy'",
+      "description": "The United States has condemned China's 'continuing assault on democratic institutions in Hong Kong', after Beijing announced plans to change the electoral system there. China's National People's Congress (NPC) unveiled the plans on Friday. One proposal would require all candidates standing for Hong Kong's assembly to be approved by a committee of members loyal to Beijing. The move follows the imposition of a tough security law last year. Critics say Beijing is crushing dissent and removing the 'one country, two systems' agreement it made with the UK. Under the agreement, Hong Kong, a former British colony, was allowed to continue with its own legal system and have rights including free speech and freedom of the press",
+      "published_at": "06/03/2021",
+      "category": "Asia",
+      "sub_category": "China",
+      "img": [{
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/3BD5/production/_117471351_066058946-1.jpg",
+          "img_tag": "Critics fear Beijing is crushing Hong Kong's 'one country, two systems' model"
+        },
+        {
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/13F22/production/_117389618_gettyimages-1305408740.jpg",
+          "img_tag": "Thousands of lawmakers gathered as the annual NPC meeting began on Friday in Beijing"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "How have the US and others reacted?",
+          "sub_description": "State department spokesman Ned Price said the move was 'a direct attack on Hong Kong's autonomy, Hong Kong's freedoms and the democratic processes'. 'If implemented these measures would drastically undermine Hong Kong democratic institutions,' he said.Mr Price also said Washington was working with allies at 'galvanising collective action' against alleged Chinese human rights abuses of Muslim minorities in Xinjiang and 'repression' in Hong Kong. Earlier the EU called on Beijing to 'carefully consider the political and economic implications on any decision to reform the electoral system of Hong Kong that would undermine fundamental freedoms, political pluralism and democratic principles'."
+        },
+        {
+          "sub_title": "What's planned for Hong Kong?",
+          "sub_description": "NPC vice-chairman Wang Chen told lawmakers that changes were needed as 'the rioting and turbulence that occurred in Hong Kong society reveals that the existing electoral system has clear loopholes and deficiencies'. He said 'risks in the system' needed to be removed to ensure 'patriots' were in charge. Premier Li Keqiang warned that China would 'resolutely guard against and deter' interference by external forces in Hong Kong's affairs. The week-long NPC session will discuss the elections issue and no text has yet been made public, although Mr Wang and media sources did set out some areas to be discussed. The city's heavily pro-Beijing electoral committee would get new powers over the parliament, or Legislative Council (LegCo). The committee would effectively be able to vet all LegCo candidates and elect many of its members, diluting the number directly elected by the public. Willie Lam, China analyst at the Chinese University of Hong Kong, told the AFP news agency that if the new NPC measures passed as he expected they would 'effectively wipe out any remaining opposition'."
+        }
+      ]
+    },
+    {
+      "id": 100012,
+      "headline": "China NPC: Beijing to overhaul Hong Kong electoral system",
+      "description": "China's top law-making body has unveiled plans to ensure only 'patriots' can govern Hong Kong, as Beijing tightens its grip on the city with changes to the electoral system. Premier Li Keqiang, addressing the National People's Congress (NPC), warned the world not to interfere. The move follows the imposition of a tough security law. Critics say Beijing is crushing dissent and removing the 'one country, two systems' agreement it made with the UK. Under the agreement, Hong Kong, a former British colony, was allowed to continue with its own legal system and have rights including free speech and freedom of the press.",
+      "published_at": "06/03/2021",
+      "category": "Asia",
+      "sub_category": "China",
+      "img": [{
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/13F22/production/_117389618_gettyimages-1305408740.jpg",
+          "img_tag": "Thousands of lawmakers gathered as the annual NPC meeting began on Friday in Beijing"
+        },
+        {
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/9188/production/_117365273_gettyimages-1231468233.jpg",
+          "img_tag": "Some 47 pro-democracy activists were charged with subversion last weekend"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "What's planned for Hong Kong?",
+          "sub_description": "NPC vice-chairman Wang Chen announced to the NPC that changes were needed as 'the rioting and turbulence that occurred in Hong Kong society reveals that the existing electoral system has clear loopholes and deficiencies'. He said 'risks in the system' needed to be removed to ensure 'patriots' were in charge. Premier Li warned that China would 'resolutely guard against and deter' interference by external forces in Hong Kong's affairs. The week-long NPC will discuss the elections issue and no text has yet been made public, although Mr Wang and media sources did set out some areas to be discussed. The city's heavily pro-Beijing electoral committee would get new powers over the parliament, or Legislative Council (LegCo)."
+        },
+        {
+          "sub_title": "What is the NPC and what will it do?",
+          "sub_description": "The annual meeting has nearly 3,000 delegates representing provinces, autonomous regions, and the special administrative regions of Hong Kong and Macau. While the NPC in theory is the country's most powerful institution, in reality the lawmakers usually end up approving plans and policies decided beforehand by the central government. On Friday, Mr Li said the country had set its economic growth target at above 6%. and updated the NPC on climate control targets. Over the next few days, the congress will also formally approve the 14th Five-Year-Plan - the economic strategy for the country."
+        }
+      ]
+    },
+    {
+      "id": 100013,
+      "headline": "China zoo 'tries to pass dog off as wolf'",
+      "description": "A zoo in central China has raised eyebrows this week after it was caught seemingly trying to pass off a dog as a wolf.Social media footage appeared on Tuesday showing a visitor to the Xiangwushan Zoo in Xianning, Hubei province, visiting the zoo's wolf enclosure. He filmed an animal that looked like a Rottweiler lying on its side in a cage, and said to the animal: 'Woof! Are you a wolf?' in a short video that has since gone viral. It has led to a lot of jokes online, but has also sparked debate about whether zoos are necessary in a post-Covid era, with many voicing concern about their maintenance.",
+      "published_at": "06/03/2021",
+      "category": "Asia",
+      "sub_category": "China",
+      "img": [{
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/BB18/production/_117469874_1.jpg",
+          "img_tag": "The zoo's wolf enclosure contained a more docile inhabitant"
+        },
+        {
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/10D8F/production/_117470096_gettyimages-1278547362-594x594.jpg",
+          "img_tag": "The Nanjing Hongshan Forest Zoo is one of many that has suffered financial losses during the pandemic"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "Wolf had 'died of old age",
+          "sub_description": "Mr Xu, who filmed the footage, told Beijing News that he had asked staff at the park why there was a dog in the wolf's cage. He said he was told that there had been a wolf, but that it had 'died of old age'. An employee confirmed this to local media, and said that the dog, which had been raised as a watchdog by the park, was only being kept there temporarily. But as the Shine.cn news website notes, he did also hint that the zoo had been financially struggling, saying it 'didn't have enough visitors to keep the zoo up and running well'. The park, which charges 15 yuan ($2.30; £1.70) and also keeps lions and tigers, has now been told by the local forestry bureau to remove the sign leading to the enclosure."
+        },
+        {
+          "sub_title": "'At least get a husky'",
+          "sub_description": "The incident has sparked a lot of discussion online. Many users on the popular Sina Weibo microblog say that it has given them a good laugh, although others say that they are 'shocked' and that it actually makes them 'a little sad'. 'At least get a husky,' one Weibo user says, noting that the breed would at least look more similar to a wolf. Their post received more than 6,000 likes. Many users said they were relieved just to learn that the dog was not the wolf's dinner. Some are talking about their own experiences as kids of visiting 'poorly run' zoos, saying that reality never quite meets up to expectation. There have been a number of well-publicised instances of zoos providing poor substitutes for wild animals. In 2019, similar video footage showed a domestic dog in a wolf enclosure at the Jiufengshan Forest Park in the nearby city of Wuhan."
+        }
+      ]
+    },
+    {
+      "id": 100014,
+      "headline": "Hong Kong activists: 15 of 47 granted bail but remain detained pending appeal",
+      "description": "Fifteen of 47 Hong Kong pro-democracy activists charged with subversion have been granted bail after a marathon hearing, but the entire group remains in custody pending an appeal. They were charged under a new security law that critics say is being used by Beijing to crush dissent in the city. China passed the law last year, saying it was required to bring stability. The activists - 39 men and eight women - were among a group of 55 people arrested in dawn raids last month. All 47 activists will remain in custody while the department of justice appeals against the bail ruling for the 15. The activists are facing up to life in prison for the charge of conspiring to commit subversion, in the most sweeping application yet of the new national security law. They include veterans of the protest movement like academic Benny Tai and politician Leung Kwok-hung, as well as younger protesters like Gwyneth Ho, Sam Cheung and Lester Shum.",
+      "published_at": "02/03/2021",
+      "category": "Asia",
+      "sub_category": "China",
+      "img": [{
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/A0ED/production/_117379114_mediaitem117379113.jpg",
+          "img_tag": "Demonstrators gathered outside the West Kowloon court building in Hong Kong"
+        },
+        {
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/D92E/production/_117389555_gettyimages-1231508906.jpg",
+          "img_tag": "A gruelling few days in court"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "A gruelling few days in court",
+          "sub_description": "Many people were in tears after finding out all 47 activists have to be remanded in custody, including the 15 who were granted bail by the magistrate. Because of the large number of defendants, only they and their lawyers, plus the prosecutors, were present in the courtroom. Others, including family members, could only watch the live feeds in other courtrooms. To the families of some defendants, the failure to get bail came as no surprise. There is a much higher threshold for bail under the National Security Law. The defendants have had four uneasy days. Monday's session lasted for more than 13 hours. The judge only adjourned the hearing after one defendant fainted. Several other defendants were subsequently taken to hospital."
+        },
+        {
+          "sub_title": "What is the National Security Law?",
+          "sub_description": "Hong Kong's sovereignty returned to China in 1997 but under the 'one country, two systems' principle. The principle was supposed to guarantee certain freedoms for the territory - including freedom of assembly and speech, an independent judiciary and some democratic rights, which mainland China does not have. But the National Security Law has reduced Hong Kong's autonomy and made it easier to punish demonstrators. The legislation introduced new crimes, including penalties of up to life in prison. Anyone found to have conspired with foreigners to provoke 'hatred' of the Chinese government or the Hong Kong authorities may have committed a crime."
+        }
+      ]
+    },
+    {
+      "id": 100015,
+      "headline": "Has China lifted 100 million people out of poverty?",
+      "description": "Chinese President Xi Jinping says his country has reached the ambitious goal set when he assumed office in 2012 of lifting 100 million people out of poverty. But what has China actually achieved? We've compared the Chinese data with global poverty figures compiled by the World Bank.",
+      "published_at": "25/02/2021",
+      "category": "Asia",
+      "sub_category": "China",
+      "img": [{
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/10A7F/production/_117332286_chinavegfarmer.jpg",
+          "img_tag": "Chinese President Xi Jinping says his country has reached the ambitious goal"
+        },
+        {
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/E36F/production/_117332285_china2.jpg",
+          "img_tag": "China's rapid growth"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "China's poverty figures",
+          "sub_description": "Poverty is defined by China as anyone in rural areas earning less than about $2.30 a day (adjusted for inflation). It was fixed in 2010 and looks at income but also living conditions, healthcare and education. Provinces have been racing to reach the goal. Jiangsu, for example, announced in January last year that only 17 of its 80 million residents still lived in poverty. The national benchmark used by the Chinese government is slightly higher than the $1.90 a day poverty line used by the World Bank to look at poverty globally."
+        },
+        {
+          "sub_title": "World Bank data",
+          "sub_description": "Using these figures gives us a better standard measurement used by the World Bank across all countries. In 1990 there were more than 750 million people in China living below the international poverty line - about two-thirds of the population. By 2012, that had fallen to fewer than 90 million, and by 2016 - the most recent year for which World Bank figures are available - it had fallen to 7.2 million people (0.5% of the population). So clearly, even in 2016 China was well on the way to reaching its target. This suggests that overall, 745 million fewer people were living in extreme poverty in China than were 30 years ago. World Bank figures do not take us to the present day, but the trend is certainly in line with the Chinese government's announcement. Elsewhere in the region, Vietnam has also seen a dramatic fall in extreme poverty rates over a similar period. Another large country, India, had 22% of its population living below the international poverty line in 2011 (the most recent data available). Brazil has 4.4% of its people earning less than $1.90 a day."
+        }
+      ]
+    },
+    {
+      "id": 100016,
+      "headline": "Kings of Leon on Mick Jagger, lockdown hair and writing songs on bar napkins",
+      "description": "Twenty years ago, long before Kings Of Leon became festival headliners, Caleb Followill made a deal with one of his friends. 'He and I used to go to random bars, all over the world,' says the singer. 'Wherever we were, if we had a day off, we'd put our finger on a map and go, 'Alright, we're going to go to this little dive bar'. 'And we would sit there and get some bar napkins. I would write poetry and he would draw pictures. And we would trade 'em off to each other and say, 'Alright, whichever one of us is going to be famous first, you own my lyrics - and likewise I own your art'.' Needless to say, his friend got the better end of the bargain. A signed copy of Caleb's lyrics for Use Somebody recently sold for $6,600 (£4,800) at auction - so those wine-stained poems could be a lucrative little nest egg.",
+      "published_at": "01/03/2021",
+      "category": "Entertainment",
+      "sub_category": "Entertainment",
+      "img": [{
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/4886/production/_117466581_kol-2020-03-11-0001-rgb.jpg",
+          "img_tag": "Kings Of Leon: 'We only wanted to make one record and sell a thousand copies'"
+        },
+        {
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/96A6/production/_117466583_gettyimages-852669372.jpg",
+          "img_tag": "The band's hits include Molly's Chambers, The Bucket, Sex On Fire and Supersoaker"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "Moves like Jagger",
+          "sub_description": "Kings Of Leon's capacity for drink is legendary. Ever since they emerged with the deep-fried southern rock of their debut album, 2003's Youth and Young Manhood, they've had a reputation as the sort of hard-living, heavy-boozing, groupie-chasing rock group that you read about in vintage editions of Rolling Stone magazine. Even their backstory felt ripped from the back pages of rock history: Three sons of an evangelist preacher who fell for the temptations of rock music (and its accompanying lifestyle) and kidnapped their cousin to form a band."
+        },
+        {
+          "sub_title": "Hail Mary music",
+          "sub_description": "The new album isn't completely self-referential, however. Claire & Eddie tackles climate change, while The Bandit is a rip-roaring story of a bandit and a bounty hunter. All of which raises the question of whether Caleb's ever considered writing a story that lasts longer than a four minute rock song. 'I think about it sometimes,' he says. 'Maybe one day I'll go from writing songs to a children's book or something. Something with some pictures to distract people from my words.'"
+        }
+      ]
+    },
+    {
+      "id": 100017,
+      "headline": "'Deepfake is the future of content creation'",
+      "description": "A few months ago, millions of TV viewers across South Korea were watching the MBN channel to catch the latest news. At the top of the hour, regular news anchor Kim Joo-Ha started to go through the day's headlines. It was a relatively normal list of stories for late 2020 - full of Covid-19 and pandemic response updates. Yet this particular bulletin was far from normal, as Kim Joo-Ha wasn't actually on the screen. Instead she had been replaced by a 'deepfake' version of herself - a computer-generated copy that aims to perfectly reflect her voice, gestures and facial expressions. Viewers had been informed beforehand that this was going to happen, and South Korean media reported a mixed response after people had seen it. While some people were amazed at how realistic it was, others said they were worried that the real Kim Joo-Ha might lose her job.",
+      "published_at": "08/03/2021",
+      "category": "Entertainment",
+      "sub_category": "Entertainment",
+      "img": [{
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/2DF8/production/_117386711_mbnaianchor.png",
+          "img_tag": "South Korean viewers were told in advance about the deepfake Kim Joo-Ha, pictured here"
+        },
+        {
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/C018/production/_117467194_tom1.jpg",
+          "img_tag": "The deepfake video of Tom Cruise was ultimately removed from TikTok, but the account that placed it remains there"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "When most people think of deepfakes, they imagine fake videos of celebrities.",
+          "sub_description": "When most people think of deepfakes, they imagine fake videos of celebrities. In fact, only last week one such bogus - but very lifelike - video of Tom Cruise made headlines around the world after it appeared on TikTok. Despite the negative connotations surrounding the colloquial term deepfakes (people don't usually want to be associated with the word 'fake', the technology is increasingly being used commercially. More politely called AI-generated videos, or synthetic media, usage is growing rapidly in sectors including news, entertainment and education, with the technology becoming increasingly sophisticated. One of the early commercial adopters has been Synthesia, a London-based firm that creates AI-powered corporate training videos for the likes of global advertising firm WPP and business consultancy Accenture. 'This is the future of content creation,' says Synthesia chief executive and co-founder Victor Riparbelli."
+        },
+        {
+          "sub_title": "AI-generated video using Synthesia's system",
+          "sub_description": "To make an AI-generated video using Synthesia's system you simply pick from a number of avatars, type in the word you wish for them to say, and that is pretty much it. Mr Riparbelli says this means that global firms can very easily make videos in different languages, such as for in-house training courses. Mr Riparbelli says this means that global firms can very easily make videos in different languages, such as for in-house training courses. 'Let's say you have 3,000 warehouse workers in North America,' he says. 'Some of them speak English, but some may be more familiar with Spanish. 'If you have to communicate complex information to them, a four-page PDF is not a great way. It would be much better to do a two or three-minute video, in English and Spanish. 'If you had to record every single one of those videos, that's a massive piece of work. Now we can do that for [little] production costs, and whatever time it'll take someone to write the script. That pretty much exemplifies how the technology is used today.' Mike Price, the chief technology officer of ZeroFox, a US cyber-security company that tracks deepfakes, says their commercial use is 'growing significantly year over year, but exact numbers are difficult to pin down'."
+        }
+      ]
+    },
+    {
+      "id": 100018,
+      "headline": "Bafta Film Awards 2021: Stars await nominations amid diversity push",
+      "description": "The film world is awaiting Tuesday's nominations for the Bafta film awards, amid efforts to make the line-up more diverse after an outcry last year. Last year's nominations sparked criticism over the all-white acting nominees and lack of female directors. Big changes have been made for this year including the introduction of a longlist system in a bid to increase viewership of all the submitted films. The Trial of the Chicago 7, Mank and Promising Young Woman are in the mix. The nominations will be announced at 14:00 GMT, and the winners will be announced at a ceremony without a live audience on 11 April.",
+      "published_at": "09/03/2021",
+      "category": "Entertainment",
+      "sub_category": "Entertainment",
+      "img": [{
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/13D0B/production/_116836118_chicago7.jpg",
+          "img_tag": "Sacha Baron Cohen (front) with other cast members of The Trial of the Chicago 7"
+        },
+        {
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/3AE1/production/_116837051_mank.jpg",
+          "img_tag": "Amanda Seyfried and Gary Oldman in Mank"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "'Watershed moment'",
+          "sub_description": "Following a seven-month review into the lack of diversity last year, Bafta has said it has introduced more than 120 changes to its voting, membership and campaigning processes. They include the introduction of a new longlist round of voting, the expansion of the outstanding British film field to 10 nominations, and increasing all four acting categories and best director to six nominees in an attempt to ensure greater diversity. Bafta's review was led by its chair Krishnendu Majumdar, who described it as 'a watershed moment for Bafta'. Film committee chair Marc Samuelson added: 'One of the key issues raised time and time again... was that too much deserving work was not being seen. The changes we are implementing are designed to ensure these films are seen and judged on merit alone.' The new first-round longlist voting system was introduced to encourage the 6,500 Bafta members to watch a wider range of films. Members vote to decide the nominations from hundreds of films up for consideration."
+        },
+        {
+          "sub_title": "The contenders",
+          "sub_description": "The longlists, which were revealed last month, saw Aaron Sorkin's Vietnam War-era courtroom drama The Trial of the Chicago 7 lead the way, being named in 15 categories. Mank, which follows screenwriter Herman J Mankiewicz and the development of the screenplay for Citizen Kane, was longlisted in 14 categories. Gary Oldman's leading performance saw him included in the best actor longlist, alongside stars like Riz Ahmed and the late Chadwick Boseman. Promising Young Woman - starring Carey Mulligan as a woman who tests how far men will go when they think she's blind drunk - got 13 longlist mentions. The British star, who won best actress at Sunday's Critics Choice Awards, could go up against the likes of Frances McDormand and Viola Davis when the final Bafta nominations are revealed. Kingsley Ben-Adir, the British actor who has gone from ITV's Vera to playing Malcolm X in One Night in Miami, was among five actors to land an early nomination last week for the Rising Star award."
+        }
+      ]
+    },
+    {
+      "id": 100019,
+      "headline": "Banksy art burned, destroyed and sold as token in 'money-making stunt'",
+      "description": "An original Banksy, which was burnt and destroyed in a livestreamed video, has been sold via a digital token representing the work for $380,000 (£274,000). The print Morons is itself a critique of the art market, depicting an auctioneer at Christies. A video shared by the BurntBanksy account shows a masked man setting fire to the art with a lighter. One art critic has dismissed the event as a 'stunt' to make money.",
+      "published_at": "15/03/2021",
+      "category": "Entertainment",
+      "sub_category": "Entertainment",
+      "img": [{
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/8D90/production/_117504263_burntbanksy.jpg",
+          "img_tag": "The artwork was burnt in a video livestreamed from a park in New York"
+        },
+        {
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/335D/production/_117494131__r002950.jpg",
+          "img_tag": "The art has been put up on public billboards across the city"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "Morons",
+          "sub_description": "The original 2006 screenprint by Banksy entitled Morons (White) depicts a Christie's auctioneer pointing at framed paintings in a crowded auction room. Next to him is a framed image accompanied by a phrase including the words: “I can’t believe you morons actually buy this.' The Banksy was bought for $95,000 by Injective Protocol, the blockchain firm behind the stunt, who said it aimed to “inspire” tech enthusiasts and artists with this statement. In the video, the man who burns the print is wearing a jumper which has a picture of Banksy's Girl With Balloon on it. A framed copy of the painting was shredded after it sold at an auction in 2018."
+        },
+        {
+          "sub_title": "'Expression of art'",
+          "sub_description": "“We view this burning event as an expression of art itself,” said Mirza Uddin, a spokesman for Injective Protocol. “We specifically chose a Banksy piece since he has previously shredded one of his own artworks at an auction.” He told news site CoinDesk another collaboration was being planned with a “prominent artist.” 'Banksy's own work has toyed with this idea that it is non-permanent,' Mr Ward said. 'Once those works are on the walls, he doesn't authenticate them.' Although 'creative destruction of art is not new... it is always upsetting and shocking to see a piece being destroyed,' said Gabrielle Du Plooy, founder of Zebra One Gallery. 'And in this instance, the intention seems more cynical."
+        }
+      ]
+    },
+    {
+      "id": 100020,
+      "headline": "A year ago, the show did not go on. What happened next?",
+      "description": "Last March, Liverpool's Everyman theatre opened its new play, Our Lady of Blundellsands, starring Josie Lawrence and written by Jonathan Harvey. After a week, it closed again. That was when Covid-19 shut all theatres, and most have stayed dark since. But what has happened to people involved in the performing arts over the past 12 months? Some of those who worked on Our Lady of Blundellsands give a snapshot of what has happened over the past year - from cast members, to backstage staff who ended up working in warehouses or making face masks, to an usher who became a model during lockdown.",
+      "published_at": "01/02/2021",
+      "category": "Entertainment",
+      "sub_category": "Entertainment",
+      "img": [{
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/119D9/production/_117135127_josie-lawrence-annette-badland-tony-maudsley-gemma-brodrick-matt-henry---nathan-mcmullen.jpg",
+          "img_tag": "The cast of Our Lady of Blundellsands had a run of a week before the show was cut short"
+        },
+        {
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/0C51/production/_117135130_josie-lawrence-as-sylvie---annette-badland-as-garnet-in-our-lady-of-blundellsands.jpg",
+          "img_tag": "Josie Lawrence (left) and Annette Badland played sisters Sylvie and Garnet"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "Josie Lawrence, actress",
+          "sub_description": "At least we had a chance to perform it, to bring it to life,' says Lawrence, who starred as lead character Sylvie in the family comic drama. When the cast and crew got together one last time to say goodbye on the set, 'it was really moving actually', Lawrence recalls, 'because we'd worked hard on it'. Returning home early, two friends were still housesitting. When one came down with Covid, Lawrence followed. 'That's how my lockdown began, with us feeling very flu-y and breathless and fatigued.' After recovering, she kept busy by doing things like writing a short film and appearing in a live online play, The Boss Of It All, from her office. 'There were costume changes next to me,' she says. 'The only thing I did worry about was that I couldn't shut my office door because my broadband would act up if I did. So people wouldn't know it, but I'd occasionally either have a cat on my lap or chewing the wires.' She moved to the kitchen to represent Denmark with a song called Bink Bonk Bink in a spoof Eurovision Song Contest. 'It was fun to do! It passed the time.'"
+        },
+        {
+          "sub_title": "'The king of poor life choices'",
+          "sub_description": "After getting Our Lady of Blundellsands up and running, Buckley had planned to leave his staff job at the Everyman to go back to a freelance life. 'I was the king of poor life choices at that moment,' he says ruefully. He left the company after press night. A week later, theatres went dark. 'For a few weeks I was in that bracket where I wasn't eligible for anything,' he says of the government support. However, when companies were allowed to re-hire employees who had recently left and put them on furlough, the Everyman did just that. 'They didn't have to do that at all, so I'm eternally grateful to them for it. But once they had to make the contributions [in August], they had to think of it on a business sense of trying to save the organisation.' Buckley sought other jobs. 'I worked in a Hermes warehouse for a little bit. For a couple of months I was a groundsman, cutting grass, trimming hedges and so on.' He then became a technical assistant for an online show at Manchester's Contact Theatre, which has since kept him on for five months to help with the venue's refurbishment. 'It's just casual technician work, but it's work, and in theatre, so I'm massively lucky.'"
+        }
+      ]
+    },
+    {
+      "id": 100021,
+      "headline": "Covid: Germany approves AstraZeneca vaccine for over-65s",
+      "description": "Germany's vaccine commission has approved the use of the Oxford-AstraZeneca jab in people aged over 65. The country previously approved it for under-65s only, citing insufficient data on its effects on older people. That led to public scepticism about its effectiveness, with some Germans spurning it and leaving many doses unused. But German Chancellor Angela Merkel said recent studies had now provided enough data to approve it for all ages.Announcing the commission's decision on Thursday, Health Minister Jens Spahn said the move was 'good news for older people who are waiting for an injection'. 'The new data also shows that the vaccine is even more effective when the first and second jabs are administered 12 weeks apart,' the minister said, adding that the law would be updated to incorporate the new recommendations. Mrs Merkel said on Wednesday that Germany would follow the UK example of stretching the interval between vaccine doses in order to offer as many people as possible an initial shot.",
+      "published_at": "05/03/2021",
+      "category": "Coronavirus",
+      "sub_category": "Coronavirus",
+      "img": [{
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/12E60/production/_117380477_tv066024256.jpg",
+          "img_tag": "Germany's vaccine commission has approved the use of the Oxford-AstraZeneca jab"
+        },
+        {
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/4233/production/_117474961_0aa65265-6a06-4dce-b61b-a989e9875c48.jpg",
+          "img_tag": "Sen Joe Manchin (centre) had raised objections"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "How is Germany planning to ease restrictions?",
+          "sub_description": "Separately, Mrs Merkel said she had agreed to a phased easing of restrictions with leaders of Germany's federal states but added that there was the option of an 'emergency brake' if case numbers got out of control. 'We are at the threshold of a new phase of the pandemic that we can go into not carelessly but still with justified hope,' Mrs Merkel said. From Monday up to five people from two households will be allowed to meet, with children under 14 exempt. Some shops will reopen provided that regional case numbers are below 50 per 100,00 people. If cases rise over 50 per 100,000 then customers will have to book slots to visit shops. If cases rise to over 100 per 100,000 over three days in a row then restrictions will be reimposed."
+        },
+        {
+          "sub_title": "What do we know about the AstraZeneca vaccine?",
+          "sub_description": "The UK has been using the vaccine made by AstraZeneca, a UK-Swedish pharmaceutical firm, in its mass immunisation programme since December. UK health officials say it provides 'high levels of protection' for all ages. Covid vaccines cut risk of serious illness by 80% No one who received the vaccine in trials was admitted to hospital or became seriously ill with Covid-19. The vaccine is given via two injections to the arm, the second between four and 12 weeks after the first."
+        }
+      ]
+    },
+    {
+      "id": 100022,
+      "headline": "Coronavirus: Europe in vaccine race to save summer",
+      "description": "Europe could be on the brink of a roaring twenties-style summer to remember, with budget airline flights packed and beachside bars brim-full of happy tourists. Or, it faces another gloomy holiday season of travel restrictions, quarantine rules and a locked-down leisure industry. In a few weeks from now we will know which it is to be - but the policy decisions which will shape the outcome are already being taken. One big question is whether EU member states will be content to leave decision-making to the European Commission in Brussels - which has bungled the vaccine-buying programme - or simply take matters into their own hands. Greece, for example, has already struck a deal to welcome tourists from Israel if they have a vaccine passport.",
+      "published_at": "25/02/2021",
+      "category": "Coronavirus",
+      "sub_category": "Coronavirus",
+      "img": [{
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/12044/production/_117469737_mediaitem117469736.jpg",
+          "img_tag": "Testing of tourists is likely to remain widespread in Europe this summer"
+        },
+        {
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/D224/production/_117469735_72b19642-11ef-4006-9d27-3e1fc4e536ff.jpg",
+          "img_tag": "Larnaca, Cyprus in July 2020. Hotels hope for a much better summer this year"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "Tourism jobs at stake",
+          "sub_description": "What is at stake here is not just the issue of whether wealthy northern Europeans get to enjoy a beer or an ice cream on the beach. Tourism is big business, providing 27m jobs in Europe, and generating around 10% of the EU's GDP, when you take into account the other sectors which depend on it. The economies of countries like Greece, Spain and Italy cannot recover until the tourist industry is reopened. The GDP of the Balearic Islands - which include Majorca - fell by 27% last year. If a second summer season is lost to Covid-19 the consequences will be disastrous. A tourism official in Majorca described the situation as 'unsustainable' and said that if tourists were not allowed to return, many local business would disappear. Saving the summer depends on two Europe-wide problems: getting people vaccinated and then agreeing rules about whether or not the right to travel should be linked to your vaccination status."
+        },
+        {
+          "sub_title": "Slow vaccine rollout",
+          "sub_description": "So far at least the omens are not good. By the end of this week only 4.96% of Belgians and 5.5% of Germans have had at least one vaccine dose. The Politico news service produced a fascinating calculation this week, showing that if the vaccination rollout continues at the current rate, Belgium won't reach the threshold of protecting 70% of its population until July 2023. The date calculated for Germany was September 2022. That would suggest we should be asking about the holiday prospects for next year or the year after - not this July or August. Now of course the Belgian and German governments - and the European Commission - would argue that the rollout is going to gather pace as supplies improve and new vaccines are approved. And so it might. But what those figures show is that the vaccination programme so far in the EU has been a disaster. Less than 10% of the EU population has been vaccinated so far, against 31% in the UK and 52% in Israel."
+        }
+      ]
+    },
+    {
+      "id": 100023,
+      "headline": "Covid: Biden says ‘Neanderthal thinking’ behind lifting of mask rules",
+      "description": "President Joe Biden has criticised the lifting of mask requirements in the states of Texas and Mississippi, calling it 'Neanderthal thinking'. 'I think it's a big mistake,' he said. Masks, social distancing and other measures were still important, despite the role vaccines were playing in containing the pandemic, he said. Texas and Mississippi will also allow all businesses to open at full capacity. Other states have announced a relaxation of some rules. The US has recorded 28.7 million infections and 519,000 deaths related to Covid-19 since the pandemic began.",
+      "published_at": "05/02/2021",
+      "category": "Coronavirus",
+      "sub_category": "Coronavirus",
+      "img": [{
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/02B5/production/_117339600_vaccine_doses_per100_countries_most_vax1mar-nc.png",
+          "img_tag": "Vaccine doses per 100 people in countries with highest total vaccination"
+        },
+        {
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/1B2C/production/_117365960_optimised-us_deaths-nc.png",
+          "img_tag": "Death remains high, but they are falling"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "How did Mississippi and Texas respond?",
+          "sub_description": "Mississippi Governor Tate Reeves, a Republican, reacted to Mr Biden's comments with a terse tweet. 'Mississippians don't need handlers,' Mr Reeves wrote in the tweet. 'As numbers drop, they can assess their choices and listen to experts. I guess I just think we should trust Americans, not insult them.' A spokesperson for Texas Governor Greg Abbott said he was 'clear in telling Texans that Covid hasn't ended'. But the spokesperson told Politico that 'Texas now has the tools and knowledge to combat Covid while also allowing Texans and small businesses to make their own decisions'. 'It is clear from the recoveries, the vaccinations, the reduced hospitalisations, and the safe practices that Texans are using, that state mandates are no longer needed. We must now do more to restore livelihoods and normalcy for Texans.'"
+        },
+        {
+          "sub_title": "What restrictions have been lifted by states?",
+          "sub_description": "Individual states are in charge of public health policy in the US. At the start of the coronavirus pandemic, most introduced restrictions on businesses and travel. About 35 states required face coverings to be worn in public places, although enforcement of these mask mandates has been patchy. The governor of Texas on Tuesday issued an executive order, effective from 10 March, that rescinds most coronavirus measures. Mississippi ended its mask mandate on Wednesday. Michigan is to ease capacity limits on restaurants, and on public and residential gatherings. South Carolina has removed limits on large gatherings, while capacity limits on restaurants in Massachusetts were removed. Some cities have also acted. Chicago has reopened public schools and San Francisco announced the easing of rules on museums, cinemas, gyms and indoor dining."
+        }
+      ]
+    },
+    {
+      "id": 100024,
+      "headline": "Covid: Biden promises vaccines for all US adults by end of May",
+      "description": "The US will have enough coronavirus vaccines for every adult by the end of May, President Joe Biden has said. This will be two months earlier than previously expected, but Mr Biden said the vaccination drive must be extended, too, and people convinced to take it. And he warned people to 'stay vigilant' because 'this fight is far from over', with new variants a major concern. His caution is at odds with some states, which are relaxing restrictions in order to boost their economies. Mr Biden's new timeline does not mean all adults in the US will be vaccinated by the end of May, as the jabs will take longer to administer. Although there has been a sharp fall in confirmed cases since the start of the year - the figure of 68,000 a day now is well down on the 8 January peak of 300,000 - that drop has levelled off over the past week, fuelling fears of another wave.",
+      "published_at": "17/01/2021",
+      "category": "Coronavirus",
+      "sub_category": "Coronavirus",
+      "img": [{
+        "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/A0C4/production/_117365114_823757b3-a67d-4fcf-ac60-ab1e4d948a8d.jpg",
+        "img_tag": "A queue for vaccinations in New York."
+      },
+      {
+        "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/0484/production/_117365110_23cca382-8e98-4afd-8923-d64292bfceeb.jpg",
+        "img_tag": "The governor says it is time to open the state '100%'"
+      }
+    ],
+      "article_data": [
+        {
+          "sub_title": "What was in Mr Biden's latest announcement?",
+          "sub_description": "The president said that drug manufacturer Merck - which this year discontinued work on its own vaccine - would now be helping Johnson & Johnson to produce its newly approved one-shot drug. 'We're now on track to have enough vaccine supply for every adult in America by the end of May,' he said, adding it was 'the type of collaboration between companies we saw in World War Two'. But the president acknowledged that supply was only one issue, with the nation needing to extend its vaccination drive and convince people to take the shots. 'We need vaccinators, people who put the shots in people's arms, millions of Americans' arms,' he said. 'reat news, but stay vigilant,' Mr Biden said. 'It's not over yet.'"
+        },
+        {
+          "sub_title": "What are the states doing on reopenings?",
+          "sub_description": "Some are now relaxing rules, despite a warning from top federal health officials last week not to ease up. Mr Biden repeated that, saying: 'We cannot let our guard down now or assure that victory is inevitable. We can't assume that.' Individual states are in charge of public health policy in the US. At the start of the coronavirus pandemic, most introduced restrictions on businesses and travel. About 35 required face coverings to be worn in public places, although enforcement of these mask mandates has been patchy."
+        }
+      ]
+    },
+    {
+      "id": 100025,
+      "headline": "Covid: What is the Oxford-AstraZeneca vaccine?",
+      "description": "A single shot of the Oxford-AstraZeneca vaccine is highly protective, reducing the chance of someone getting ill and needing hospital treatment by more than 80%. The findings, from Public Health England are based on people aged over 80 who were some of the first to be immunised in the UK's vaccine rollout. Scientists say the results are 'very strong', and apply to the Pfizer-BioNTech vaccine too.",
+      "published_at": "03/03/2021",
+      "category": "Coronavirus",
+      "sub_category": "Coronavirus",
+      "img": [{
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/F1B6/production/_116787816_jabber.jpg",
+          "img_tag": "A single shot of the Oxford-AstraZeneca vaccine is highly protective"
+        },
+        {
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/3A97/production/_116299941_oxford_coronavirus_vaccine_640_3x-nc.png",
+          "img_tag": "How the Oxford vaccine works"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "How does the Oxford vaccine work?",
+          "sub_description": "t is made from a weakened version of a common cold virus (known as an adenovirus) from chimpanzees. It has been modified to look more like coronavirus - although it can't cause illness. Once injected, it teaches the body's immune system how to fight the real virus, should it need to. Unlike Pfizer's jab - which has to be kept at an extremely cold temperature (-70C) - the Oxford vaccine can be stored in a normal fridge. This makes it much easier to distribute."
+        },
+        {
+          "sub_title": "Is the Oxford vaccine as good as the Pfizer?",
+          "sub_description": "Large trials showed the Pfizer vaccine was 95% effective, while the figure for the Oxford one was 62%. But directly comparing results is difficult because there are differences in the way the trials were carried out. And it's important to remember that even the lower 62% figure is a better result than the best flu jab, which is about 50% effective. No-one who received the Oxford vaccine was hospitalised or became seriously ill due to Covid. A recent study found a single dose of the Oxford vaccine offered 76% protection for three months, and this went up to 82% after the second dose."
+        }
+      ]
+    },
+    {
+      "id": 100026,
+      "headline": "Covid vaccine update: Those that work - and the others on the way",
+      "description": "Covid vaccination campaigns are now under way in the UK and across the world. A range of vaccines is being used to reduce people's chances of getting sick, needing hospital treatment or dying. Two more vaccines have also just been shown to work in large-scale clinical trials.",
+      "published_at": "02/02/2021",
+      "category": "Coronavirus",
+      "sub_category": "Coronavirus",
+      "img": [{
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/12A62/production/_115368367_vaccine2.jpg",
+          "img_tag": "Covid vaccination campaigns are now under way in the UK"
+        },
+        {
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/1453/production/_116730250_vaccines_comparedincl_janssen_novavax_29_jan_640_2x-nc.png",
+          "img_tag": "How the vaccine compare"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "Why do we need a vaccine?",
+          "sub_description": "It is more than a year since the virus first emerged, yet the vast majority of people are still vulnerable. The restrictions on our lives are the only thing holding the virus in check as they reduce opportunities for the virus to spread. Vaccines teach our bodies to fight the infection and are 'the' exit strategy from the pandemic."
+        },
+        {
+          "sub_title": "The big three - Pfizer/BioNtech, Moderna and Oxford/AstraZeneca",
+          "sub_description": "The three vaccine frontrunners are those developed by Pfizer/BioNTech, Moderna and Oxford/AstraZeneca. Pfizer and Moderna have both developed RNA vaccines - a new approach that is incredibly quick to design. They inject a tiny fragment of the virus's genetic code into the body, which starts producing part of the coronavirus and pushes the body to mount a defence. These have been approved for use in the UK, Europe and the US. The Oxford vaccine is subtly different as it uses a harmless virus to carry the same genetic material into the body. This has been approved in the UK and Europe. It is the easiest of the three to use as it can be stored in a fridge, rather than needing very cold temperatures. All three are supposed to be given as two doses, but the UK is prioritising giving as many people as possible the first dose and delaying the second."
+        }
+      ]
+    },
+    {
+      "id": 100027,
+      "headline": "Covid-19: Days that shaped the outbreak",
+      "description": "A year ago, the Chinese government locked down the city of Wuhan. For weeks beforehand officials had maintained that the outbreak was under control - just a few dozen cases linked to a live animal market. But in fact the virus had been spreading throughout the city and around China. This is the story of five critical days early in the outbreak. By 30 December, several people had been admitted to hospitals in the central city of Wuhan, having fallen ill with high fever and pneumonia. The first known case was a man in his 70s who had fallen ill on 1 December. Many of those were connected to a sprawling live animal market, Huanan Seafood Market, and doctors had begun to suspect this wasn't regular pneumonia. Samples from infected lungs had been sent to genetic sequencing companies to identify the cause of the disease, and preliminary results had indicated a novel coronavirus similar to Sars. The local health authorities and the country's Center for Disease Control (CDC) had already been notified, but nothing had been said to the public.",
+      "published_at": "26/01/2021",
+      "category": "Coronavirus",
+      "sub_category": "Coronavirus",
+      "img": [{
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/13A57/production/_116617408_1200-wuhan-market-11-jan-gettyimages-1193097821.jpg",
+          "img_tag": "Wuhan’s Huanan Seafood Wholesale Market was sealed off on 1 January 2020"
+        },
+        {
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/1360B/production/_116617397_1200-sars-2003-gettyimages-1194872129.jpg",
+          "img_tag": "Robert Maguire of the WHO and a Chinese doctor visit a Sars patient in Guangzhou, China – April 2003"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "30 December 2019: Virus alert",
+          "sub_description": "At around 16:00 on 30 December, the head of the Emergency Department at Wuhan Central Hospital was handed the results of a test carried out by sequencing lab Capital Bio Medicals in Beijing. She went into a cold sweat as she read the report, according to an interview given later to Chinese state media. At the top were the alarming words: 'SARS CORONAVIRUS'. She circled them in bright red, and passed it on to colleagues over the Chinese messaging site WeChat. Within an hour and a half, the grainy image with its large red circle reached a doctor in the hospital's ophthalmology department, Li Wenliang. He shared it with his hundreds-strong university class group, adding the warning, 'Don't circulate the message outside this group. Get your family and loved ones to take precautions.' When Sars spread through southern China in late 2002 and 2003, Beijing covered up the outbreak, insisting that everything was under control. This allowed the virus to spread around the world. Beijing's response invoked international criticism and - worryingly for a regime deeply concerned about stability - anger and protests within China. Between 2002 and 2004, Severe Acute Respiratory Syndrome (Sars) went on to infect more than 8,000 people and kill almost 800 worldwide."
+        },
+        {
+          "sub_title": "2 January: Silencing the doctors",
+          "sub_description": "The number of people infected by the virus was doubling in size every few days, and more and more people were turning up at Wuhan's hospitals. But now - instead of allowing doctors to share their concerns publicly - state media began a campaign that effectively silenced them. On 2 January, China Central Television ran a story about the doctors who spread the news about an outbreak four days earlier. The doctors, referred to only as 'rumour mongers' and 'internet users', were brought in for questioning by the Wuhan Public Security Bureau and 'dealt with' 'in accordance with the law'. One of the doctors was Li Wenliang, the eye doctor whose warning had gone viral. He signed a confession. In February, the doctor died of Covid-19."
+        }
+      ]
+    },
+    {
+      "id": 100028,
+      "headline": "Covid in California: The state is struggling to contain the virus",
+      "description": "California was praised for acting swiftly to contain the coronavirus last spring. Now more than 31,000 people have died of the virus in the state. What went wrong? California was the first to issue a state-wide stay-at-home order, and experts at the time predicted the pandemic would peak here in April with fewer than 2,000 lives lost. But since November, deaths have surged by more than 1,000%. In Los Angeles alone, nearly 2,000 people died this week. Makeshift morgues have been set up across the state, ICUs are full, oxygen is being rationed and ambulance teams have been told not to transport those unlikely to survive the night because hospitals are too full. Disneyland, which has been closed since March, is now being turned into a massive vaccination centre, along with Dodger Stadium, in the hopes of controlling what's become a super surge.",
+      "published_at": "25/02/2021",
+      "category": "Coronavirus",
+      "sub_category": "Coronavirus",
+      "img": [{
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/502A/production/_116522502_gettyimages-1296234046.jpg",
+          "img_tag": "Disneyland has opened a mass vaccination site"
+        },
+        {
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/4E42/production/_116543002_gettyimages-1230547594.jpg",
+          "img_tag": "Santa Monica Pier has been temporarily closed January weekends in an effort to mitigate spread"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "Covid-19 can infect anyone",
+          "sub_description": "While Covid-19 can infect anyone, it's definitely more cruel to the have-nots than the haves. For every case of Covid in Beverly Hills, there are six times more in Compton. While two people from Bel Air have died, more than 230 people have lost their lives in working-class East LA. And now, the virus is surging through LA's vast homeless population. People who live in Los Angeles are used to driving past dozens, hundreds or even thousands of people living on the streets every day. At the beginning of the pandemic, they were largely spared from infection - likely because they're so isolated as a population. Cities and counties are using trailers and motels to house Covid positive people without shelter. The Union Rescue Mission on LA's Skid Row is normally buzzing with lively dinner guests and residents. But in these pandemic days it's quiet, with most of its residents isolated in quarantine."
+        },
+        {
+          "sub_title": "There is concern about a surge of Covid in LA's Skid Row community",
+          "sub_description": "Behind the building, a fabric tent meant to house the most vulnerable women on the streets is now a field hospital full of men with Covid, tended to by doctors and nurses covered head-to-toe in the now familiar protective gear. 'The Covid situation is the worst ever and this is the most horrific battle we've ever been in,' says Reverend Andy Bales, who runs the mission. 'It's like playing chess with a monster genius - every move we make, it gets overcome by Covid.' At the beginning of the pandemic in March, Mr Bales was relieved that the homeless population seemed spared from the coronavirus. But then in April, a beloved staff member at the mission, Gerald Shiroma, died of the virus. He was 56."
+        }
+      ]
+    },
+    {
+      "id": 100029,
+      "headline": "Coronavirus: Why are infections rising again in US?",
+      "description": "The news of President Donald Trump's positive coronavirus test, and his subsequent hospitalisation, has reminded the country that no-one is protected from this virus. So where is the US right now in dealing with the pandemic?",
+      "published_at": "25/02/2021",
+      "category": "Coronavirus",
+      "sub_category": "Coronavirus",
+      "img": [{
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/13D13/production/_114817118_us_cases-nc.png",
+          "img_tag": "Cases have been rising recently"
+        },
+        {
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/16423/production/_114817119_us_cases_regions-nc.png",
+          "img_tag": "Stark regional difference in US"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "What's the overall picture?",
+          "sub_description": "With about 7.5 million coronavirus cases, the US has the highest number of confirmed infections in the world - about one fifth of the global total despite having only 4% of the population. After the initial spike in late March, social distancing restrictions gradually brought infections to heel. By May, case numbers had stabilised. But as states peeled back lockdown measures, cases began to rise, reaching a countrywide high in July."
+        },
+        {
+          "sub_title": "Why are cases rising?",
+          "sub_description": "It's difficult to explain precisely why. One contributing factor has been the return to school for US students. A recent study from the US Centers for Disease Control on the almost 100,000 coronavirus cases reported between 2 August and 5 September - around when college students began their return to school - found that weekly cases among those aged 18-22 increased by 55% nationally. The greatest increases came from the Northeast (which includes New York, Connecticut and New Jersey) and the Midwest, which is a region located west of the Northeast, including Illinois, Indiana, Ohio and Wisconsin. There have now been more than 130,000 cases identified at more than 1,300 American colleges, according to reporting from the New York Times."
+        }
+      ]
+    },
+    {
+      "id": 100030,
+      "headline": "Coronavirus: Is India's test and tracing strategy working?",
+      "description": "Indian Prime Minister Narendra Modi has called on the country's worst-affected states to give top priority to testing and contact tracing to combat coronavirus. Daily cases in India have been falling since mid-September, but there's concern that varied testing strategies may be hindering the battle against the disease.",
+      "published_at": "04/12/2020",
+      "category": "Coronavirus",
+      "sub_category": "Coronavirus",
+      "img": [{
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/8B79/production/_115750753_gettyimages-1229764604.jpg",
+          "img_tag": "A faster but less reliable method of testing has gained ground in many states"
+        },
+        {
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/405F/production/_115697461_kolkata_test.jpg",
+          "img_tag": "Kanpur district has the second-highest number of cases in the state"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "What type of testing is India doing?",
+          "sub_description": "India had been using the what's known as a PCR test - regarded as the gold standard of testing - very widely. But currently, only 60% of all tests use this method, and many Indian states - who are in charge of their own health policies - have switched to rapid antigen testing (RAT), a faster but less reliable method. RAT tests are known to miss up to 50% of cases due to false negatives (where infected people are not detected), although some experts believe they are still useful in areas which have become virus hotspots. 'The ability to detect cases depends on a relative mix of the less sensitive RAT test and the gold standard PCR test,' says Prof Gautam Menon, an infectious disease expert from Ashoka University in Haryana. India isn't alone in using these tests, and some European countries grappling with further waves of infection have also resorted to rapid testing."
+        },
+        {
+          "sub_title": "Is testing consistent across the country?",
+          "sub_description": "No, it's not. Maharashtra is the worst-affected state in India, with 17% of all cases.In terms of total coronavirus cases, it's followed by states with smaller populations such as Karnataka, Andhra Pradesh, Tamil Nadu and Kerala. But Uttar Pradesh and Bihar - two other states with large populations - appear to be doing much better. They have lower proportions of confirmed cases at 2.9% and 1.6%.What the testing data reveals is that in both Bihar and Uttar Pradesh (and some other states) less than 50% of total tests use the PCR method - so cases are being missed. In Maharashtra, nearly 60% of tests have been PCR tests (although they are increasingly using rapid testing in the state capital, Mumbai.) And Tamil Nadu state has relied totally on PCR testing, which means it is likely to have a far more accurate idea of the spread of the virus."
+        }
+      ]
+    },
+    {
+      "id": 100031,
+      "headline": "Farm laws: Are India's new reforms a 'death warrant' for farmers?",
+      "description": "Three contentious laws that will change the way India's farmers do business have sparked one of India's biggest protests and a months-long standoff with the government. Since November, tens of thousands of protesting farmers demanding repeal of the laws have been camping out on highways on the outskirts of Delhi. The parliament passed the three bills in September, which were then signed into law by the president. Opposition parties accused the government of flouting parliamentary procedure by passing the bills hurriedly and not listening to their demand of sending the bills to a parliamentary committee for further deliberations. But beyond the political fracas, the bills have also split opinions - while Prime Minister Narendra Modi called the reforms a 'watershed moment for Indian agriculture, opposition parties have termed them 'anti-farmer and likened them to a 'death warrant'. Angry and worried farmer groups see them as unfair and exploitative. Pro-reform economists have largely welcomed the move, saying the new laws will help improve farm incomes, attract investment and technology, and increase productivity. Nearly a dozen rounds of talks between the 30-odd farmer unions and the government have yielded no results.",
+      "published_at": "16/02/2021",
+      "category": "Trending",
+      "sub_category": "Trending",
+      "img": [{
+        "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/2CB9/production/_116994411_cdf9330b-a82b-47d0-bd03-0ee13eb28d3d.jpg",
+        "img_tag": "The farmers are demanding the repeal of three farm laws"
+      },
+        {
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/920E/production/_114509373_gettyimages-1197872954.jpg",
+          "img_tag": "Many farmers sell produce at large wholesale markets or mandis"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "What exactly do the bills propose?",
+          "sub_description": "Taken together, the reforms will loosen rules around sale, pricing and storage of farm produce - rules that have protected India's farmers from the free market for decades. They also allow private buyers to hoard essential commodities for future sales, which only government-authorised agents could do earlier; and they outline rules for contract farming, where farmers tailor their production to suit a specific buyer's demand. One of the biggest changes is that farmers will be allowed to sell their produce at a market price directly to private players - agricultural businesses, supermarket chains and online grocers. Most Indian farmers currently sell the majority of their produce at government-controlled wholesale markets or mandis at assured floor prices."
+        },
+        {
+          "sub_title": "So, what is the issue?",
+          "sub_description": "The issue is that it's unclear how this will play out in reality. For one, farmers can already sell to private players in many states but what these bills do is offer a national framework. But farmers are mainly concerned that this will eventually lead to the end of wholesale markets and assured prices, leaving them with no back-up option. That is, if they are not satisfied with the price offered by a private buyer, they cannot return to the mandi or use it as a bargaining chip during negotiations."
+        }
+      ]
+    },
+    {
+      "id": 100032,
+      "headline": "India Supreme Court: Calls for Justice Sharad Bobde to quit over rape remarks",
+      "description": "Calls have been growing in India for the chief justice of the Supreme Court to resign 'without a moment's delay' after his recent remarks in two cases of alleged rape. In an 'open letter' to Chief Justice Sharad Bobde, more than 5,000 feminists, rights activists and concerned citizens wrote that they were 'outraged' and asked him to retract his statements and apologise. So what did the chief justice say that has angered people so much? He asked two 'atrocious' questions.",
+      "published_at": "03/03/2021",
+      "category": "Trending",
+      "sub_category": "Trending",
+      "img": [{
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/87EC/production/_117369743_gettyimages-1182563379-594x594.jpg",
+          "img_tag": "Chief Justice Sharad Bobde"
+        },
+        {
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/1869C/production/_117369999_gettyimages-1128820368-594x594-1.jpg",
+          "img_tag": "Campaigners say Justice Bobde's comments are 'extremely problematic' in a country"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "The first: 'Will you marry her?'",
+          "sub_description": "Justice Bobde, who was heading a three-judge bench, asked a 23-year-old man accused of raping a girl whether he would marry her. 'If you want to marry (her) we can help you. If not, you lose your job and go to jail,' he said. His comments shocked many, especially considering the horrific accusations the girl - who was 16 at the time of the alleged rapes in 2014-15 - had made against the man, a distant relative. According to the letter, he 'is accused of stalking, tying up, gagging, repeatedly raping a minor school-going girl, and threatening to douse her in petrol and set her alight, to hurl acid at her, and to have her brother killed'. It added that 'the rape came to light when the minor school-going victim attempted suicide'. The girl's family also alleged that they had agreed not to go to the police because they were promised by the accused's mother that once the girl became an adult, they would marry the two."
+        },
+        {
+          "sub_title": "What's been the response?",
+          "sub_description": "The open letter, signed by some of India's best-known feminists and non-governmental organisations, borrows the term 'atrocious' from the Bombay High Court order to describe Justice Bobde's remarks. 'Your proposal of marriage as an amicable solution to settle the case of rape of a minor girl is worse than atrocious and insensitive for it deeply erodes the right of victims to seek justice. 'By suggesting that this [alleged] rapist marry the victim-survivor, you, the Chief Justice of India, sought to condemn her to a lifetime of rape at the hands of the tormentor who drove her to attempt suicide' it says."
+        }
+      ]
+    },
+    {
+      "id": 100033,
+      "headline": "Covid: What is the Oxford-AstraZeneca vaccine?",
+      "description": "A single shot of the Oxford-AstraZeneca vaccine is highly protective, reducing the chance of someone getting ill and needing hospital treatment by more than 80%. The findings, from Public Health England are based on people aged over 80 who were some of the first to be immunised in the UK's vaccine rollout. Scientists say the results are 'very strong', and apply to the Pfizer-BioNTech vaccine too.",
+      "published_at": "03/03/2021",
+      "category": "Trending",
+      "sub_category": "Trending",
+      "img": [{
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/F1B6/production/_116787816_jabber.jpg",
+          "img_tag": "A single shot of the Oxford-AstraZeneca vaccine is highly protective"
+        },
+        {
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/3A97/production/_116299941_oxford_coronavirus_vaccine_640_3x-nc.png",
+          "img_tag": "How the Oxford vaccine works"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "How does the Oxford vaccine work?",
+          "sub_description": "t is made from a weakened version of a common cold virus (known as an adenovirus) from chimpanzees. It has been modified to look more like coronavirus - although it can't cause illness. Once injected, it teaches the body's immune system how to fight the real virus, should it need to. Unlike Pfizer's jab - which has to be kept at an extremely cold temperature (-70C) - the Oxford vaccine can be stored in a normal fridge. This makes it much easier to distribute."
+        },
+        {
+          "sub_title": "Is the Oxford vaccine as good as the Pfizer?",
+          "sub_description": "Large trials showed the Pfizer vaccine was 95% effective, while the figure for the Oxford one was 62%. But directly comparing results is difficult because there are differences in the way the trials were carried out. And it's important to remember that even the lower 62% figure is a better result than the best flu jab, which is about 50% effective. No-one who received the Oxford vaccine was hospitalised or became seriously ill due to Covid. A recent study found a single dose of the Oxford vaccine offered 76% protection for three months, and this went up to 82% after the second dose."
+        }
+      ]
+    },
+    {
+      "id": 100034,
+      "headline": "Covid: Germany approves AstraZeneca vaccine for over-65s",
+      "description": "Germany's vaccine commission has approved the use of the Oxford-AstraZeneca jab in people aged over 65. The country previously approved it for under-65s only, citing insufficient data on its effects on older people. That led to public scepticism about its effectiveness, with some Germans spurning it and leaving many doses unused. But German Chancellor Angela Merkel said recent studies had now provided enough data to approve it for all ages.Announcing the commission's decision on Thursday, Health Minister Jens Spahn said the move was 'good news for older people who are waiting for an injection'. 'The new data also shows that the vaccine is even more effective when the first and second jabs are administered 12 weeks apart,' the minister said, adding that the law would be updated to incorporate the new recommendations. Mrs Merkel said on Wednesday that Germany would follow the UK example of stretching the interval between vaccine doses in order to offer as many people as possible an initial shot.",
+      "published_at": "05/03/2021",
+      "category": "Trending",
+      "sub_category": "Trending",
+      "img": [{
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/12E60/production/_117380477_tv066024256.jpg",
+          "img_tag": "Germany's vaccine commission has approved the use of the Oxford-AstraZeneca jab"
+        },
+        {
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/4233/production/_117474961_0aa65265-6a06-4dce-b61b-a989e9875c48.jpg",
+          "img_tag": "Sen Joe Manchin (centre) had raised objections"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "How is Germany planning to ease restrictions?",
+          "sub_description": "Separately, Mrs Merkel said she had agreed to a phased easing of restrictions with leaders of Germany's federal states but added that there was the option of an 'emergency brake' if case numbers got out of control. 'We are at the threshold of a new phase of the pandemic that we can go into not carelessly but still with justified hope,' Mrs Merkel said. From Monday up to five people from two households will be allowed to meet, with children under 14 exempt. Some shops will reopen provided that regional case numbers are below 50 per 100,00 people. If cases rise over 50 per 100,000 then customers will have to book slots to visit shops. If cases rise to over 100 per 100,000 over three days in a row then restrictions will be reimposed."
+        },
+        {
+          "sub_title": "What do we know about the AstraZeneca vaccine?",
+          "sub_description": "The UK has been using the vaccine made by AstraZeneca, a UK-Swedish pharmaceutical firm, in its mass immunisation programme since December. UK health officials say it provides 'high levels of protection' for all ages. Covid vaccines cut risk of serious illness by 80% No one who received the vaccine in trials was admitted to hospital or became seriously ill with Covid-19. The vaccine is given via two injections to the arm, the second between four and 12 weeks after the first."
+        }
+      ]
+    },
+    {
+      "id": 100035,
+      "headline": "Coronavirus: Is the epidemic finally coming to an end in India?",
+      "description": "Is the sharp drop in India's coronavirus cases as dramatic and curious as some believe? Is the epidemic firmly in retreat in a country where many early modellers had predicted millions of deaths due to Covid-19? In October, I had written extensively on why the epidemic appeared to be slowing down in India. Cases had hit a record peak in the middle of September - there were more than a million active cases. After that daily deaths and caseloads began declining despite consistent testing and some short and fierce spikes of infections in cities like Delhi.",
+      "published_at": "15/02/2021",
+      "category": "Trending",
+      "sub_category": "Trending",
+      "img": [{
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/119E2/production/_116926127_mediaitem116926126.jpg",
+          "img_tag": "Case numbers and deaths have been swiftly dropping in India"
+        },
+        {
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/CF46/production/_116926035_mediaitem116926034.jpg",
+          "img_tag": "Hindu devotees have gathered for the Kumbh Mela as Covid cases drop"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "So why are cases dropping?",
+          "sub_description": "Experts say there could be a couple of different reasons. For one, India has seen a 'patchwork pandemic with cases waxing and waning at different times in different parts of the country. More people have been infected in cities - especially in packed slums - and in developed, urbanised districts than in smaller towns or villages. In all of these places, their exposure to the virus has varied significantly. Cases have now slowed down in most urban areas, but rural India still remains a bit of a mystery."
+        },
+        {
+          "sub_title": "Is the low death rate a mystery?",
+          "sub_description": "Most scientists believe that many more Indians died of the infection than what the official figures reveal. India has a poor record of certifying deaths and a large number of people die at home. But even such a scale of under-reporting has not caused public panic or overwhelmed hospitals. Consider this. India has some 600,000 villages. Even one undiagnosed and unreported death from Covid in each village every day would not overwhelm the public health system. India imposed a sweeping, early shutdown in late March to halt the spread of the virus. Scientists believe that the shutdown, which stretched to nearly 70 days, did prevent a lot of infections and deaths. Transmission slowed in the badly-hit cities because of the expanded use of face masks, physical distancing, school and office closures and people working from home."
+        }
+      ]
+    },
+    {
+      "id": 100036,
+      "headline": "Myanmar coup: India asked to return police officers who crossed border",
+      "description": "Myanmar has asked neighbouring India to return several police officers who crossed the border seeking refuge after refusing to carry out orders. Indian officials said the officers and their families had crossed the border in recent days. In a letter, Myanmar authorities asked for their return 'in order to uphold friendly relations'. Myanmar has been gripped by mass protests and strikes following a military coup last month. Security forces have taken a hard line against the demonstrations and at least 55 deaths have been reported.",
+      "published_at": "07/03/2021",
+      "category": "Trending",
+      "sub_category": "Trending",
+      "img": [{
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/144FD/production/_117479138_066071725.jpg",
+          "img_tag": "Fresh clashes broke out between police and protesters in Yangon on Saturday"
+        },
+        {
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/F878/production/_117480636_hi066076045.jpg",
+          "img_tag": "A ceremony was held late on Saturday in honour of the lives lost during the anti-coup protests"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "What about the police officers seeking refuge?",
+          "sub_description": "Deputy Commissioner Maria CT Zuali, a senior official in Champhai district in the Indian state of Mizoram, told Reuters news agency that she had received a letter from her counterpart in Myanmar's Falam district requesting the return of the police officers. The letter said that Myanmar had information about eight police officers who had crossed into India. 'In order to uphold friendly relations between the two neighbour countries, you are kindly requested to detain eight Myanmar police personnel who had arrived to Indian territories and hand-over to Myanmar,' the letter read."
+        },
+        {
+          "sub_title": "How did the unrest start?",
+          "sub_description": "Myanmar's military seized power at the beginning of February after detaining the democratically elected leader, Aung San Suu Kyi. Days later, a civil disobedience movement began, with many people refusing to return to work and some taking part in huge street protests. Myanmar's security forces responded with a violent crackdown - firing live rounds at unarmed protesters. The military has not commented on the deaths. More than 1,700 people have been detained since the coup, according to UN human rights chief Michelle Bachelet, including members of parliament, protesters, and at least 29 journalists. Ms Bachelet said the figures could be much higher due to the large scale of the protests and difficulty in monitoring developments."
+        }
+      ]
+    },
+    {
+      "id": 100037,
+      "headline": "China zoo 'tries to pass dog off as wolf'",
+      "description": "A zoo in central China has raised eyebrows this week after it was caught seemingly trying to pass off a dog as a wolf.Social media footage appeared on Tuesday showing a visitor to the Xiangwushan Zoo in Xianning, Hubei province, visiting the zoo's wolf enclosure. He filmed an animal that looked like a Rottweiler lying on its side in a cage, and said to the animal: 'Woof! Are you a wolf?' in a short video that has since gone viral. It has led to a lot of jokes online, but has also sparked debate about whether zoos are necessary in a post-Covid era, with many voicing concern about their maintenance.",
+      "published_at": "06/03/2021",
+      "category": "Trending",
+      "sub_category": "Trending",
+      "img": [{
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/BB18/production/_117469874_1.jpg",
+          "img_tag": "The zoo's wolf enclosure contained a more docile inhabitant"
+        },
+        {
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/10D8F/production/_117470096_gettyimages-1278547362-594x594.jpg",
+          "img_tag": "The Nanjing Hongshan Forest Zoo is one of many that has suffered financial losses during the pandemic"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "Wolf had 'died of old age",
+          "sub_description": "Mr Xu, who filmed the footage, told Beijing News that he had asked staff at the park why there was a dog in the wolf's cage. He said he was told that there had been a wolf, but that it had 'died of old age'. An employee confirmed this to local media, and said that the dog, which had been raised as a watchdog by the park, was only being kept there temporarily. But as the Shine.cn news website notes, he did also hint that the zoo had been financially struggling, saying it 'didn't have enough visitors to keep the zoo up and running well'. The park, which charges 15 yuan ($2.30; £1.70) and also keeps lions and tigers, has now been told by the local forestry bureau to remove the sign leading to the enclosure."
+        },
+        {
+          "sub_title": "'At least get a husky'",
+          "sub_description": "The incident has sparked a lot of discussion online. Many users on the popular Sina Weibo microblog say that it has given them a good laugh, although others say that they are 'shocked' and that it actually makes them 'a little sad'. 'At least get a husky,' one Weibo user says, noting that the breed would at least look more similar to a wolf. Their post received more than 6,000 likes. Many users said they were relieved just to learn that the dog was not the wolf's dinner. Some are talking about their own experiences as kids of visiting 'poorly run' zoos, saying that reality never quite meets up to expectation. There have been a number of well-publicised instances of zoos providing poor substitutes for wild animals. In 2019, similar video footage showed a domestic dog in a wolf enclosure at the Jiufengshan Forest Park in the nearby city of Wuhan."
+        }
+      ]
+    },
+    {
+      "id": 100038,
+      "headline": "Covishield and Covaxin: What we know about India's Covid-19 vaccines",
+      "description": "India's Covaxin, the homegrown government-backed vaccine, has an efficacy rate of 81%, preliminary data from its phase 3 trial shows. India's regulators gave the vaccine an emergency approval in January while the third phase of the trial was still under way, sparking scepticism and questions from experts. Bharat Biotech, the vaccine's manufacturer, said the latest findings were 'an important milestone in vaccine discovery, for science and our fight against coronavirus'. 'With today's results from our phase 3 clinical trials, we have now reported data on our Covid-19 vaccine from phase 1, 2, and 3 trials involving around 27,000 participants,' the firm said.",
+      "published_at": "09/03/2021",
+      "category": "Trending",
+      "sub_category": "Trending",
+      "img": [{
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/10C8F/production/_116615786_mediaitem116615784.jpg",
+          "img_tag": "India's Covaxin"
+        },
+        {
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/852A/production/_116609043_gettyimages-1230630497.jpg",
+          "img_tag": "Bharat Biotech is a Hyderabad-based pharmaceutical company"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "How does Covaxin work?",
+          "sub_description": "Bharat Biotech, a 24-year-old vaccine maker, has a portfolio of 16 vaccines and it exports to 123 countries. Covaxin is an inactivated vaccine which means that it is made up of killed coronaviruses, making it safe to be injected into the body. Bharat Biotech used a sample of the coronavirus, isolated by India's National Institute of Virology. When administered, immune cells can still recognise the dead virus, prompting the immune system to make antibodies against the pandemic virus."
+        },
+        {
+          "sub_title": "What was the controversy around Covaxin?",
+          "sub_description": "It all began when the regulator in January said the vaccine had been approved for 'restricted use in emergency situations in public interest as an abundant precaution, in clinical trial mode, especially in the context of infection by mutant strains'. Experts wondered how a vaccine was cleared for emergency use by millions of vulnerable people when its trials were still underway. The All India Drug Action Network at the time said that it was 'baffled to understand the scientific logic' to approve 'an incompletely studied vaccine'. It said that there were 'intense concerns arising from the absence of the efficacy data'. Both the manufacturer and drug regulator had defended Covaxin, saying it was 'safe and provides a robust immune response.'"
+        }
+      ]
+    },
+    {
+      "id": 100039,
+      "headline": "Why do India's farmers feel insecure?",
+      "description": "On the face of it, India's farmers shouldn't be complaining. The government provides them generous subsidies, exemption from income tax and crop insurance. They are guaranteed prices for 23 crops and debts are often waived when they are unable to pay off loans. But farmers have been on the boil for some years now. Although more than half of Indians work on farms, farming accounts for barely a sixth of the country's GDP.",
+      "published_at": "16/02/2021",
+      "category": "Trending",
+      "sub_category": "Trending",
+      "img": [{
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/16539/production/_116994419_022b36ca-eb68-4843-924f-250349178f6b.jpg",
+          "img_tag": "More than half of Indians work on farms"
+        },
+        {
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/C8F9/production/_116994415_11028de4-4ea8-4698-bc33-ef2337ff83cd.jpg",
+          "img_tag": "Protesting farmers broke through police barricades to storm Delhi's Red Fort complex in January"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "What has the government proposed?",
+          "sub_description": "The government suggested tweaks to the laws, and later offered to suspend them altogether for up to 18 months even as negotiations continue. But the farmers have remained firm, saying they will not settle for anything less than a repeal of the laws."
+        },
+        {
+          "sub_title": "Why did the protests turn violent?",
+          "sub_description": "On 26 January a rally against the laws turned violent, after protesting farmers broke through police barricades to storm Delhi's historic Red Fort complex. On foot and in tractors, the protesters were part of a huge rally planned for India's Republic Day. Many protesters diverted from agreed routes and clashes broke out with police. One protester died and some 500 policemen were injured. Farm union leaders condemned the violence and blamed the chaos on rogue elements among an otherwise peaceful march. Many said the protests have lost their legitimacy after the violence. Others said the farmers should accept the government's offer to put the reforms on hold and return home. Since early February, iron nails, rods, barbed wire, boulders and makeshift walls have been used to barricade the capital's borders against the protesters. But the farmers have refused to leave and are not budging from their demand. The protest is now in its third month, and there is no solution in sight."
+        }
+      ]
+    },
+    {
+      "id": 100040,
+      "headline": "Covid: Biden promises vaccines for all US adults by end of May",
+      "description": "The US will have enough coronavirus vaccines for every adult by the end of May, President Joe Biden has said. This will be two months earlier than previously expected, but Mr Biden said the vaccination drive must be extended, too, and people convinced to take it. And he warned people to 'stay vigilant' because 'this fight is far from over', with new variants a major concern. His caution is at odds with some states, which are relaxing restrictions in order to boost their economies. Mr Biden's new timeline does not mean all adults in the US will be vaccinated by the end of May, as the jabs will take longer to administer. Although there has been a sharp fall in confirmed cases since the start of the year - the figure of 68,000 a day now is well down on the 8 January peak of 300,000 - that drop has levelled off over the past week, fuelling fears of another wave.",
+      "published_at": "17/01/2021",
+      "category": "Trending",
+      "sub_category": "Trending",
+      "img": [{
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/A0C4/production/_117365114_823757b3-a67d-4fcf-ac60-ab1e4d948a8d.jpg",
+          "img_tag": "A queue for vaccinations in New York. A key task for President Biden is getting the supplies into arms"
+        },
+        {
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/0484/production/_117365110_23cca382-8e98-4afd-8923-d64292bfceeb.jpg",
+          "img_tag": "Drive-through vaccination in Texas. The governor says it is time to open the state '100%'"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "What was in Mr Biden's latest announcement?",
+          "sub_description": "The president said that drug manufacturer Merck - which this year discontinued work on its own vaccine - would now be helping Johnson & Johnson to produce its newly approved one-shot drug. 'We're now on track to have enough vaccine supply for every adult in America by the end of May,' he said, adding it was 'the type of collaboration between companies we saw in World War Two'. But the president acknowledged that supply was only one issue, with the nation needing to extend its vaccination drive and convince people to take the shots. 'We need vaccinators, people who put the shots in people's arms, millions of Americans' arms,' he said. 'reat news, but stay vigilant,' Mr Biden said. 'It's not over yet.'"
+        },
+        {
+          "sub_title": "What are the states doing on reopenings?",
+          "sub_description": "Some are now relaxing rules, despite a warning from top federal health officials last week not to ease up. Mr Biden repeated that, saying: 'We cannot let our guard down now or assure that victory is inevitable. We can't assume that.' Individual states are in charge of public health policy in the US. At the start of the coronavirus pandemic, most introduced restrictions on businesses and travel. About 35 required face coverings to be worn in public places, although enforcement of these mask mandates has been patchy."
+        }
+      ]
+    },
+    {
+      "id": 200011,
+      "headline": "Winchcombe meteorite: ‘A kind of splatter on our driveway’      ",
+      "description": "Rob Wilcock, his wife Cathryn and daughter Hannah are astounded to find themselves at the centre of a major scientific discovery.It was their property in Winchcombe, Gloucestershire, that was hit by the most valuable space rock ever to fall on the UK.The meteorite has had British scientists in raptures of joy.It's a carbonaceous chondrite - a dark stony material that retains unaltered chemistry from the formation of our Solar System 4.6 billion years ago, and, as such, could give us fresh insights on how the planets came into being.",
+      "published_at": "25/02/2021",
+      "category": "Science",
+      "sub_category": "Science",
+      "img": [{
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/8318/production/_117506533_img_6323.jpg",
+          "img_tag": "Hannah, Rob and Cathryn are celebrating an extraordinary find"
+        },
+        {
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/1503/production/_117497350_impactsite.jpg",
+          "img_tag": "Splat: The meteorite landed on the Wilcock family's driveway"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "China's poverty figures",
+          "sub_description": "Poverty is defined by China as anyone in rural areas earning less than about $2.30 a day (adjusted for inflation). It was fixed in 2010 and looks at income but also living conditions, healthcare and education. Provinces have been racing to reach the goal. Jiangsu, for example, announced in January last year that only 17 of its 80 million residents still lived in poverty. The national benchmark used by the Chinese government is slightly higher than the $1.90 a day poverty line used by the World Bank to look at poverty globally."
+        },
+        {
+          "sub_title": "World Bank data",
+          "sub_description": "Using these figures gives us a better standard measurement used by the World Bank across all countries. In 1990 there were more than 750 million people in China living below the international poverty line - about two-thirds of the population. By 2012, that had fallen to fewer than 90 million, and by 2016 - the most recent year for which World Bank figures are available - it had fallen to 7.2 million people (0.5% of the population). So clearly, even in 2016 China was well on the way to reaching its target. This suggests that overall, 745 million fewer people were living in extreme poverty in China than were 30 years ago. World Bank figures do not take us to the present day, but the trend is certainly in line with the Chinese government's announcement. Elsewhere in the region, Vietnam has also seen a dramatic fall in extreme poverty rates over a similar period. Another large country, India, had 22% of its population living below the international poverty line in 2011 (the most recent data available). Brazil has 4.4% of its people earning less than $1.90 a day."
+        }
+      ]
+    },
+    {
+      "id": 200012,
+      "headline": "Nasa's Perseverance rover begins its exploration of Mars",
+      "description": "It didn't move far - just 6.5m (21ft) in total.But Nasa's deputy project scientist Katie Stack Morgan said it was a significant moment.While the rover is still doing a lot of engineering checkouts, the minute the rover begins to move we can consider ourselves explorers on the surface of Mars,she told BBC News.It's two weeks now since the one-tonne robot made its dramatic descent to the Red Planet.",
+      "published_at": "25/02/2021",
+      "category": "Science",
+      "sub_category": "Science",
+      "img": [{
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/C3A6/production/_117468005_nrf_0014_0668192003_410ecm_n0030110ncam03014_01_285j01.png",
+          "img_tag": "Tracks in the dust: The rover should cover some 15km in its first Martian year"
+        },
+        {
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/18688/production/_117467999_wiggle.jpg",
+          "img_tag": "Perseverance has gone to Mars with tougher wheels than its predecessors"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "China's poverty figures",
+          "sub_description": "Poverty is defined by China as anyone in rural areas earning less than about $2.30 a day (adjusted for inflation). It was fixed in 2010 and looks at income but also living conditions, healthcare and education. Provinces have been racing to reach the goal. Jiangsu, for example, announced in January last year that only 17 of its 80 million residents still lived in poverty. The national benchmark used by the Chinese government is slightly higher than the $1.90 a day poverty line used by the World Bank to look at poverty globally."
+        },
+        {
+          "sub_title": "World Bank data",
+          "sub_description": "Using these figures gives us a better standard measurement used by the World Bank across all countries. In 1990 there were more than 750 million people in China living below the international poverty line - about two-thirds of the population. By 2012, that had fallen to fewer than 90 million, and by 2016 - the most recent year for which World Bank figures are available - it had fallen to 7.2 million people (0.5% of the population). So clearly, even in 2016 China was well on the way to reaching its target. This suggests that overall, 745 million fewer people were living in extreme poverty in China than were 30 years ago. World Bank figures do not take us to the present day, but the trend is certainly in line with the Chinese government's announcement. Elsewhere in the region, Vietnam has also seen a dramatic fall in extreme poverty rates over a similar period. Another large country, India, had 22% of its population living below the international poverty line in 2011 (the most recent data available). Brazil has 4.4% of its people earning less than $1.90 a day."
+        }
+      ]
+    },
+    {
+      "id": 200013,
+      "headline": "Sarah Everard disappearance: Met Police officer arrested",
+      "description": "Ms Everard, 33, was last seen via a doorbell camera in Clapham at about 21:30 GMT on 3 March. Police said they had arrested a man in Kent on Tuesday evening in connection with her disappearance, adding that the fact he was a serving officer was shocking and deeply disturbing.A woman was also arrested on suspicion of assisting an offender.Police said Ms Everard's family was being kept updated.In a statement, the Met police said the man and the woman had both been taken into custody at a London police station.",
+      "published_at": "25/02/2021",
+      "category": "UK",
+      "sub_category": "England",
+      "img": [{
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/7F9A/production/_117466623_b215a3e4-77f1-470a-b459-512b824e1a1d.jpg",
+          "img_tag": "Sarah Everard has been described as `beautiful, thoughtful and incredibly kind`"
+        },
+        {
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/3F84/production/_117506261_gettyimages-1231598002.jpg",
+          "img_tag": "Officers have been searching drains along the street where Ms Everard was last seen"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "China's poverty figures",
+          "sub_description": "Poverty is defined by China as anyone in rural areas earning less than about $2.30 a day (adjusted for inflation). It was fixed in 2010 and looks at income but also living conditions, healthcare and education. Provinces have been racing to reach the goal. Jiangsu, for example, announced in January last year that only 17 of its 80 million residents still lived in poverty. The national benchmark used by the Chinese government is slightly higher than the $1.90 a day poverty line used by the World Bank to look at poverty globally."
+        },
+        {
+          "sub_title": "World Bank data",
+          "sub_description": "Using these figures gives us a better standard measurement used by the World Bank across all countries. In 1990 there were more than 750 million people in China living below the international poverty line - about two-thirds of the population. By 2012, that had fallen to fewer than 90 million, and by 2016 - the most recent year for which World Bank figures are available - it had fallen to 7.2 million people (0.5% of the population). So clearly, even in 2016 China was well on the way to reaching its target. This suggests that overall, 745 million fewer people were living in extreme poverty in China than were 30 years ago. World Bank figures do not take us to the present day, but the trend is certainly in line with the Chinese government's announcement. Elsewhere in the region, Vietnam has also seen a dramatic fall in extreme poverty rates over a similar period. Another large country, India, had 22% of its population living below the international poverty line in 2011 (the most recent data available). Brazil has 4.4% of its people earning less than $1.90 a day."
+        }
+      ]
+    },
+    {
+      "id": 200014,
+      "headline": "Cyclist 'jumped red light and killed pedestrian Peter McCombie'",
+      "description": "Ermir Loka, of Manor Road, Leyton, east London, is accused of the manslaughter of Peter McCombie, who was struck on Bow Road, Tower Hamlets on 3 July.Mr McCombie died from severe brain injuries eight days after the crash. Mr Loka denied manslaughter and causing bodily harm by wanton or furious driving at Snaresbrook Crown Court.The court heard Mr Loka, 23, was travelling at about 15mph (24km/h) when he collided with Mr McCombie, who was on his way home from working as a hospital administrator. Prosecutor Deanna Heer said the defendant had been cycling with a degree of purpose and had overtaken other cyclists in his approach to the pedestrian crossing where Mr McCombie was waiting.",
+      "published_at": "25/02/2021",
+      "category": "UK",
+      "sub_category": "England",
+      "img": [{
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/B226/production/_113660654_mediaitem113659326.jpg",
+          "img_tag": "Peter McCombie, aged 73, died in hospital after he was struck on Bow Road on 3 July"
+        },
+        {
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/B7F2/production/_117509074_f9219e84-fd44-4b65-a942-a5e801948c64.jpg",
+          "img_tag": "Peter McCombie, aged 73, died"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "China's poverty figures",
+          "sub_description": "Poverty is defined by China as anyone in rural areas earning less than about $2.30 a day (adjusted for inflation). It was fixed in 2010 and looks at income but also living conditions, healthcare and education. Provinces have been racing to reach the goal. Jiangsu, for example, announced in January last year that only 17 of its 80 million residents still lived in poverty. The national benchmark used by the Chinese government is slightly higher than the $1.90 a day poverty line used by the World Bank to look at poverty globally."
+        },
+        {
+          "sub_title": "World Bank data",
+          "sub_description": "Using these figures gives us a better standard measurement used by the World Bank across all countries. In 1990 there were more than 750 million people in China living below the international poverty line - about two-thirds of the population. By 2012, that had fallen to fewer than 90 million, and by 2016 - the most recent year for which World Bank figures are available - it had fallen to 7.2 million people (0.5% of the population). So clearly, even in 2016 China was well on the way to reaching its target. This suggests that overall, 745 million fewer people were living in extreme poverty in China than were 30 years ago. World Bank figures do not take us to the present day, but the trend is certainly in line with the Chinese government's announcement. Elsewhere in the region, Vietnam has also seen a dramatic fall in extreme poverty rates over a similar period. Another large country, India, had 22% of its population living below the international poverty line in 2011 (the most recent data available). Brazil has 4.4% of its people earning less than $1.90 a day."
+        }
+      ]
+    },
+    {
+      "id": 200015,
+      "headline": "Stalking protection orders: Police 'not using' new powers to protect victims",
+      "description": "Stalking protection orders were introduced in January 2020 to police forces in Wales and England.They are civil orders which aim to protect victims, and it is a criminal offence to breach the terms of an order.Police apply to magistrates for an order, which usually remains in place for two years. The idea is that it can be used quickly and an interim order provides immediate protection while a decision is being made.",
+      "published_at": "25/02/2021",
+      "category": "UK",
+      "sub_category": "Wales",
+      "img": [{
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/D34E/production/_99649045_gettyimages-487729465.jpg",
+          "img_tag": "Some 3,000 stalking offences have been reported to police in Wales since January 2020"
+        },
+        {
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/EEEF/production/_99476116_gettyimages-901145834.jpg",
+          "img_tag": "Police now have extra powers with stalking protection orders"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "China's poverty figures",
+          "sub_description": "Poverty is defined by China as anyone in rural areas earning less than about $2.30 a day (adjusted for inflation). It was fixed in 2010 and looks at income but also living conditions, healthcare and education. Provinces have been racing to reach the goal. Jiangsu, for example, announced in January last year that only 17 of its 80 million residents still lived in poverty. The national benchmark used by the Chinese government is slightly higher than the $1.90 a day poverty line used by the World Bank to look at poverty globally."
+        },
+        {
+          "sub_title": "World Bank data",
+          "sub_description": "Using these figures gives us a better standard measurement used by the World Bank across all countries. In 1990 there were more than 750 million people in China living below the international poverty line - about two-thirds of the population. By 2012, that had fallen to fewer than 90 million, and by 2016 - the most recent year for which World Bank figures are available - it had fallen to 7.2 million people (0.5% of the population). So clearly, even in 2016 China was well on the way to reaching its target. This suggests that overall, 745 million fewer people were living in extreme poverty in China than were 30 years ago. World Bank figures do not take us to the present day, but the trend is certainly in line with the Chinese government's announcement. Elsewhere in the region, Vietnam has also seen a dramatic fall in extreme poverty rates over a similar period. Another large country, India, had 22% of its population living below the international poverty line in 2011 (the most recent data available). Brazil has 4.4% of its people earning less than $1.90 a day."
+        }
+      ]
+    },
+    {
+      "id": 200016,
+      "headline": "Covid in Wales: Hairdressers 'excited' over chance to reopen",
+      "description": "First Minister Mark Drakeford has said there could be `opportunities` for likes of hairdressers to reopen on Monday.Only the likes of supermarkets and pharmacies can currently open but a review of lockdown measures in Wales is due on Friday. All non-essential shops went into lockdown on 20 December.Hairdressers and other non-essential retailers in England are not due to reopen until 12 April.",
+      "published_at": "25/02/2021",
+      "category": "UK",
+      "sub_category": "Wales",
+      "img": [{
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/1002C/production/_117508556_sally.jpg",
+          "img_tag": "Sallylouise Jones would like to see a five-miles from home travel rule imposed"
+        },
+        {
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/3CDC/production/_117508551_pvt.jpg",
+          "img_tag": "Pretty Vintage Things in Llantwit Major has been closed since December's lockdown began"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "China's poverty figures",
+          "sub_description": "Poverty is defined by China as anyone in rural areas earning less than about $2.30 a day (adjusted for inflation). It was fixed in 2010 and looks at income but also living conditions, healthcare and education. Provinces have been racing to reach the goal. Jiangsu, for example, announced in January last year that only 17 of its 80 million residents still lived in poverty. The national benchmark used by the Chinese government is slightly higher than the $1.90 a day poverty line used by the World Bank to look at poverty globally."
+        },
+        {
+          "sub_title": "World Bank data",
+          "sub_description": "Using these figures gives us a better standard measurement used by the World Bank across all countries. In 1990 there were more than 750 million people in China living below the international poverty line - about two-thirds of the population. By 2012, that had fallen to fewer than 90 million, and by 2016 - the most recent year for which World Bank figures are available - it had fallen to 7.2 million people (0.5% of the population). So clearly, even in 2016 China was well on the way to reaching its target. This suggests that overall, 745 million fewer people were living in extreme poverty in China than were 30 years ago. World Bank figures do not take us to the present day, but the trend is certainly in line with the Chinese government's announcement. Elsewhere in the region, Vietnam has also seen a dramatic fall in extreme poverty rates over a similar period. Another large country, India, had 22% of its population living below the international poverty line in 2011 (the most recent data available). Brazil has 4.4% of its people earning less than $1.90 a day."
+        }
+      ]
+    },
+    {
+      "id": 200017,
+      "headline": "Teachers say return to school for S1-3 'counterproductive'",
+      "description": "Nicola Sturgeon announced last week that all secondary pupils in Scotland would have some in-school time from 15 March.But teachers' groups have criticised the plan as counterproductive with workload disproportionate to benefits.The first minister has said giving pupils even a small amount of time in school would have benefits.Part-time return for all secondary pupils in Scotland from 15 MarchScottish schools to start phased returnWhat rules are changing, and when?",
+      "published_at": "25/02/2021",
+      "category": "UK",
+      "sub_category": "Scottland",
+      "img": [{
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/9A49/production/_116779493_064188036.jpg",
+          "img_tag": "All secondary pupils will be able to get some in-class time before the Easter holidays"
+        },
+        {
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/119E5/production/_117356127_school4_pa.jpg",
+          "img_tag": "Masks will now have to be worn by all pupils in secondary schools"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "China's poverty figures",
+          "sub_description": "Poverty is defined by China as anyone in rural areas earning less than about $2.30 a day (adjusted for inflation). It was fixed in 2010 and looks at income but also living conditions, healthcare and education. Provinces have been racing to reach the goal. Jiangsu, for example, announced in January last year that only 17 of its 80 million residents still lived in poverty. The national benchmark used by the Chinese government is slightly higher than the $1.90 a day poverty line used by the World Bank to look at poverty globally."
+        },
+        {
+          "sub_title": "World Bank data",
+          "sub_description": "Using these figures gives us a better standard measurement used by the World Bank across all countries. In 1990 there were more than 750 million people in China living below the international poverty line - about two-thirds of the population. By 2012, that had fallen to fewer than 90 million, and by 2016 - the most recent year for which World Bank figures are available - it had fallen to 7.2 million people (0.5% of the population). So clearly, even in 2016 China was well on the way to reaching its target. This suggests that overall, 745 million fewer people were living in extreme poverty in China than were 30 years ago. World Bank figures do not take us to the present day, but the trend is certainly in line with the Chinese government's announcement. Elsewhere in the region, Vietnam has also seen a dramatic fall in extreme poverty rates over a similar period. Another large country, India, had 22% of its population living below the international poverty line in 2011 (the most recent data available). Brazil has 4.4% of its people earning less than $1.90 a day."
+        }
+      ]
+    },
+    {
+      "id": 200018,
+      "headline": "Nicola Sturgeon 'cannot turn a blind eye' to Rangers crowds ",
+      "description": "There were mass gatherings in Glasgow after Rangers clinched its first league title since 2011.Ms Sturgeon said the club could have done more to stop it happening. Rangers earlier wrote to the first minister saying strong criticism from the Scottish government and Police Scotland was `disappointing`.Ms Sturgeon told MSPs during her Tuesday Covid update that discussions were taking place to make sure the scenes were not repeated.Police condemn club's 'lack of support' When fans fall foul of coronavirus rules'More to come' after title win - Gerrard",
+      "published_at": "25/02/2021",
+      "category": "UK",
+      "sub_category": "Scottland",
+      "img": [{
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/C633/production/_117493705_ibrox_reuters-1.jpg",
+          "img_tag": "First Minister Nicola Sturgeon has said "
+        },
+        {
+          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/C736/production/_117489905_gettyimages-1231581997.jpg",
+          "img_tag": "Officers made 28 arrests, of suspects aged 18 to 44, and seven people were issued with fixed penalty notices"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "China's poverty figures",
+          "sub_description": "Poverty is defined by China as anyone in rural areas earning less than about $2.30 a day (adjusted for inflation). It was fixed in 2010 and looks at income but also living conditions, healthcare and education. Provinces have been racing to reach the goal. Jiangsu, for example, announced in January last year that only 17 of its 80 million residents still lived in poverty. The national benchmark used by the Chinese government is slightly higher than the $1.90 a day poverty line used by the World Bank to look at poverty globally."
+        },
+        {
+          "sub_title": "World Bank data",
+          "sub_description": "Using these figures gives us a better standard measurement used by the World Bank across all countries. In 1990 there were more than 750 million people in China living below the international poverty line - about two-thirds of the population. By 2012, that had fallen to fewer than 90 million, and by 2016 - the most recent year for which World Bank figures are available - it had fallen to 7.2 million people (0.5% of the population). So clearly, even in 2016 China was well on the way to reaching its target. This suggests that overall, 745 million fewer people were living in extreme poverty in China than were 30 years ago. World Bank figures do not take us to the present day, but the trend is certainly in line with the Chinese government's announcement. Elsewhere in the region, Vietnam has also seen a dramatic fall in extreme poverty rates over a similar period. Another large country, India, had 22% of its population living below the international poverty line in 2011 (the most recent data available). Brazil has 4.4% of its people earning less than $1.90 a day."
+        }
+      ]
+    },
+    {
+      "id": 100042,
+      "headline": "How Surya tasted sweet success by giving up brownie with ice-cream",
+      "description": "Self-abstinence and hours of sweat saw Mumbai Indian batsman Suryakumar Yadav burn 12 kgs in 3 months and refine his skills. Sandip G counts the ten thousand small steps that the IPL super star took before the decisive India leap.",
+      "published_at": "09/03/2021",
+      "category": "Sports",
+      "sub_category": "Cricket",
+      "img": [{
+          "img_url": "https://images.indianexpress.com/2021/03/SuryaKumar-Yadav-India-lg.jpg",
+          "img_tag": "Suryakumar Yadav's story has a gripping coming-of-age narrative of desire and determination. It’s the story of ten thousand small steps that went behind the making of one decisive leap. (File Photo/BCCI)"
+        },
+        {
+          "img_url": "https://images.indianexpress.com/2020/10/Surya.png",
+          "img_tag": "Suryakumar Yadav (Twitter/RaviShastri)"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "Light at end of tunnel",
+          "sub_description": "It was not a one-off. His numbers in white-ball cricket have been staggering. In 46 IPL games in the last three years, he amassed 1416 runs at an average of 36 and a strike rate of 136. In the same span, in 29 Syed Mushtaq Ali Trophy games, he plundered 969 runs at 53.89, striking at around 167 runs per hundred balls. If the doors of selection remained shut, he would barge into the room.A lot went into his recalibration, beginning with harsh self-assessment at the start of the 2017 season, when he realised that “it was high time I did some smart work to my game, which can help me go one step ahead.” A frank chat with Mumbai Indians coach Mahela Jayawardene before the start of the 2019 season too benefitted, wherein he dwelled on his plummeting strike rate after the powerplay overs. “Just try and hit a lot of gaps, take twos, run hard between wickets and there won’t be any pressure and the strike rate will be amazing,” he advised Surya."
+        },
+        {
+          "sub_title": "Strict diet, doubling exercise",
+          "sub_description": "At times, motivation was difficult to find. “For, we didn’t know when the next game would be or how long we would be in lockdown. Aage ka raasta saaf nahin dikhta tha,” (the path ahead wasn’t clear) he says. The road ahead might have been hazy, but Surya was determined to tread.At times, motivation was difficult to find. “For, we didn’t know when the next game would be or how long we would be in lockdown. Aage ka raasta saaf nahin dikhta tha,” (the path ahead wasn’t clear) he says. The road ahead might have been hazy, but Surya was determined to tread"
+        }
+      ]
+    },
+    {
+      "id": 100043,
+      "headline": "Ronaldo's nightmare, goal-machine Haaland and a crazy night of Champions League football",
+      "description": "India has rebuked UK MPs for criticising its handling of long-running farmers' protests in Delhi. Several Labour, Liberal Democrat and Scottish National Party MPs on Monday expressed concern over the safety of protesters and the status of press freedom in India. But India's High Commission in London said the parliamentary discussion was full of 'false assertions'. Indian farmers have been protesting for months against agricultural reforms. Thousands of them have been camped on the outskirts of the capital Delhi, demanding the government repeal the laws, which seek to further open up India's farming sector to private players. Prime Minister Narendra Modi and his Bharatiya Janata Party-led government insist the laws will improve farmers' incomes. But farmers say the opposite will happen since the reforms give corporate companies greater bargaining power. The protests - which have lasted for more than 100 days - have dominated headlines and social media feeds, and the government's response has drawn international attention and even rebuke. India's government has shut down the internet around the protest sites for brief spells, arrested protesters, sympathetic activists and even journalists covering the strike. Citing these instances, UK MPs said human rights and democratic freedoms were not being upheld in India, reports the BBC's Yogita Limaye. 'Water cannons and tear gas and repeated clashes between police and farmers and interruption in internet connectivity have been matters of concern. Several farmers have reportedly committed suicide,' SNP MP Martin Day said.",
+      "published_at": "09/03/2021",
+      "category": "Sports",
+      "sub_category": "Football",
+      "img": [{
+          "img_url": "https://ichef.bbci.co.uk/onesport/cps/800/cpsprodpb/F493/production/_117511626_pics.jpg",
+          "img_tag": "Contrasting fortunes - Ronaldo is distraught but Pepe, his Porto team-mates and Haaland celebrate"
+        },
+        {
+          "img_url": "https://i.guim.co.uk/img/media/35eeb4f8297b0a0771a8dd6312e71058a3249e4a/0_102_2441_1464/master/2441.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=3960b3510fc62983d7fbe6ba096238b5",
+          "img_tag": "Ronaldo is distraught but Pepe, his Porto team-mates and Haaland celebrate"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "A red card, an extra-time upset, a goal disallowed and a penalty awarded in the same 30 seconds by VAR - Wednesday served up another dramatic night of Champions League football.",
+          "sub_description": "In Turin, European heavyweights Juventus crashed out after extra time, despite playing for more than an hour against 10-man Porto - a result that could have huge implications for Cristiano Ronaldo and Andrea Pirlo.Meanwhile, in Dortmund, Erling Braut Haaland was among the goals again as Dortmund snuck past Sevilla, but only after video technology had its say. With the dust still settling, BBC Sport looks at the major talking points from a gripping evening in Europe's premier club competition."
+        },
+        {
+          "sub_title": "'One of Porto's greatest nights'",
+          "sub_description": "It was in 2004 that Jose Mourinho famously sprinted down the touchline at Old Trafford to celebrate the injury-time equaliser that saw his side beat Manchester United 3-2 on aggregate in the last 16.Now, 17 years later, Porto have another last-16 moment to match it after eliminating Italian champions Juve in heroic fashion.They looked to have blown it when Mehdi Taremi was sent off in the 54th minute with his side 1-0 up, and that feeling got stronger when Federico Chiesa's second goal of the night brought Juve back level at 3-3 on aggregate.But a stunning rearguard action and Sergio Oliveira's 115th-minute goal sent them through, even if Adrien Rabiot's strike meant it was on away goals."
+        }
+      ]
+    },
+    {
+      "id": 100044,
+      "headline": "Joey Benjamin: Former England, Warwickshire and Surrey bowler dies at the age of 60",
+      "description": "Benjamin was born in St Kitts but made his name in English cricket and went on to take 387 first-class wickets in an 11-year career.His only Test came at the Oval against South Africa in 1994 when he took 4-42 in the first innings.It was remembered for Devon Malcolm's match-winning nine-wicket haul.He also played two one-day internationals for England.Benjamin signed for Warwickshire in 1988 after a spell in the minor counties before seven years with Surrey between 1992 and 1999.He hustled batsmen and nicked them off with his outswinger. He was a fine bowler and even though he didn't start until pretty late he was unlucky not to play more Test cricket,his former team-mate Martin Bicknell told Surrey's website.",
+      "published_at": "09/03/2021",
+      "category": "Sports",
+      "sub_category": "Cricket",
+      "img": [{
+          "img_url": "https://ichef.bbci.co.uk/onesport/cps/800/cpsprodpb/B1BD/production/_117510554_joey_benjamin_getty_body.jpg",
+          "img_tag": "Joey Benjamin finished his first-class career with a bowling average of 29.94"
+        },
+        {
+          "img_url": "https://lh3.googleusercontent.com/proxy/383BJ-ozkivGSYp5stO67slBSaX14t0p_D58ldaxG_orPDriDs7GvOJqIUxVoaSt8srLCyp3A8QisIHJmWCpOZ_DeZamv8b-KqUh5i8CQ1WfQcTDaemXe83POqkwgNJKqMpl9EPtoTJzRrlAGJxHEg",
+          "img_tag": "Joey Benjamin – 1961-2021" 
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "Former England, Warwickshire and Surrey bowler Joey Benjamin has died at the age of 60 after reportedly suffering a heart attack.",
+          "sub_description": "It is with great sadness that today Warwickshire County Cricket Club has learned of the passing of former fast bowler Joey Benjamin."
+        },
+        {
+          "sub_title": "#OnceABearAlwaysABear",
+          "sub_description": "I was looking through some old stuff for @WCSTUCO found my mom's diploma from 1956.  She passed away from cancer in 1992, I think she would be happy with me teaching at her Alma Mater. #OnceABearAlwaysABear"
+        }
+      ]
+    },
+    {
+      "id": 100045,
+      "headline": "India are favourites for the T20 World Cup, says England vice-captain Jos Buttler",
+      "description": "The two sides meet in the first of a five-match T20 series in Ahmedabad on Friday.India who won the T20 World Cup in 2007 - will host the tournament in October and November.Previous World Cups have shown that host nations tend to perform very well and India are of course phenomenally strong in every format,'Buttler said'.It's great exposure for us to play against one of the best teams in the tournament in these conditions,the 30-year-old added.And it's a huge benefit to us playing in Ahmedabad, a brand new stadium which will play a big part in the World Cup.The wicketkeeper-batsman played in England's win over India in the first Test last month but was rested for the remainder of the 3-1 series loss.He says he feels good for the rest and supports England's policy of squad rotation during the winter tours to Sri Lanka and India.I've spent a long time in the bubbles over the past year or so since the pandemic started,It's been talked about how we can best look after players and what is an incredibly packed schedule at the moment.",
+      "published_at": "09/03/2021",
+      "category": "Sports",
+      "sub_category": "Cricket",
+      "img": [{
+          "img_url": "https://ichef.bbci.co.uk/onesport/cps/800/cpsprodpb/16206/production/_117503609_gettyimages-1288874635.jpg",
+          "img_tag": "Buttler has played in 74 T20s for England, averaging 29.26 at a strike rate of 140.36"
+        },
+        {
+          "img_url": "https://www.bbc.com/sport/cricket/56334093",
+          "img_tag": "Playing in IPL hugely beneficial to England"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "England limited-overs vice-captain Jos Buttler says India are favourites for this year's Twenty20 World Cup.",
+          "sub_description": "They demanded that UK officials address these concerns with India when Prime Minister Boris Johnson visits the country, which is expected later this year. The UK government has said they have already raised these issues and will continue to do so while respecting that the farm laws are a domestic matter. We deeply regret that rather than a balanced debate, false assertions - without substantiation or facts - were made, casting aspersions on the largest functioning democracy in the world and its institutions, India's High Commission said in a statement."
+        },
+        {
+          "sub_title": "Playing in IPL hugely beneficial to England",
+          "sub_description": "The T20 series will be followed by three one-day-internationals later this month, before Buttler links up with the Rajasthan Royals for this year's Indian Premier League.Buttler will be joined by international team-mates Ben Stokes and Jofra Archer in the Royals squad, with the T20 franchise tournament starting 9 April.t's been obvious in the upturns in the results for England's white-ball team and how beneficial the IPL is to all of us. So it makes it a tough decision,There are 13 England players taking part in the competition, although bowler Mark Wood pulled out of the auction last month to spend more time with his family."
+        }
+      ]
+    },
+    {
+      "id": 1000046,
+      "headline": "Test cricket dead' if England rest and rotate in Ashes, says Michael Vaughan",
+      "description": "Speaking on The Tuffers and Vaughan Cricket Show, Vaughan added: You make sure you get your best players available for every single Ashes Test match.England have opted to rest players in order to manage their workload, with 16 or 17 Tests and a Twenty20 World Cup being played in 2021.If you said to me that Jos Buttler is struggling and may only be able to play one of those, the T20 World Cup or the Ashes, I'd hate to think the Ashes comes second,Vaughan said.",
+      "published_at": "09/03/2021",
+      "category": "Sports",
+      "sub_category": "Cricket",
+      "img": [{
+          "img_url": "https://ichef.bbci.co.uk/onesport/cps/800/cpsprodpb/A29E/production/_117503614_gettyimages-1230401231.jpg",
+          "img_tag": "All-rounder Moeen Ali was one of several England Test players to be rested this winter"
+        },
+        {
+          "img_url": "https://ichef.bbci.co.uk/onesport/cps/800/cpsprodpb/E87E/production/_117481595_bairstow.jpg",
+          "img_tag": "Jonny Bairstow recorded three ducks in four innings after being rested for two Tests"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "Former captain Michael Vaughan says Test cricket is dead if England rest and rotate players in the Ashes",
+          "sub_description": "Coach Chris Silverwood has said England may continue to rotate the squad in this winter's tour of Australia.Under England's rotation policy, Ben Stokes, Jofra Archer, Jos Buttler, Jonny Bairstow, Sam Curran and Mark Wood missed parts of the winter series in Sri Lanka and India."
+        },
+        {
+          "sub_title": "England's rotation plan has not worked - Agnew",
+          "sub_description": "t is clear that if England knew the plan for Moeen was for him to leave after the second Test, then their request for him to stay should have come before they picked him,If Moeen was always going to leave - which he was perfectly within his rights to do - then Bess should not have been dropped, because England were always likely to need him again.The knock-on for a young bowler has clearly been really damaging.England have made it clear the Ashes and Twenty20 World Cup next winter are the prizes driving their planning. Whether we like it or not, series against Australia and global tournaments are what the national side revolve around.That is not to say what comes before them is not important, particularly home Tests against a very good New Zealand side and then India.But, bar a couple of exceptions, I doubt England will lose a great deal a confidence from the defeat in India, and their team will largely revert back to what we knew at the end of last summer."
+        }
+      ]
+    },
+    {
+      "id": 100047,
+      "headline": "Maracana stadium to be named after Brazil legend Pele",
+      "description": "The move follows a vote by the Rio de Janeiro state legislature to change the venue's name to the Edson Arantes do Nascimento - Rei Pele stadium.Edson Arantes do Nascimento is the 80-year-old's full name, while Rei means king in Portuguese.The Rio de Janeiro's state governor must approve the name change before it becomes official.Pele, who won three World Cups as a player for Brazil, scored his 1,000th goal at the stadium in 1969 when playing for Santos against Vasco da Gama.The Maracana held the 1950 and 2014 World Cup finals, as well as the opening ceremony of the 2016 Olympics.More than 200,000 spectators are reported to have been in the stadium to watch Uruguay beat Brazil in the 1950 final, although its capacity is now 78,838.It was named after Mario Filho, a journalist who lobbied for its construction in the 1940s, but was known as the Maracana after the area in which it is located.",
+      "published_at": "09/03/2021",
+      "category": "Sports",
+      "sub_category": "Football",
+      "img": [{
+          "img_url": "https://ichef.bbci.co.uk/onesport/cps/800/cpsprodpb/18219/production/_117514889_maracana_epa.jpg",
+          "img_tag": "Club sides Flamengo and Fluminense use the stadium as their home"
+        },
+        {
+          "img_url": "https://ichef.bbci.co.uk/onesport/cps/800/cpsprodpb/10CE9/production/_117514886_gettyimages-1220867.jpg",
+          "img_tag": "John Barnes scored one of England's most iconic goals against Brazil in 1984 at the Maracana"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "Brazil's iconic Maracana stadium is to be named in honour of the country's legendary footballer Pele.",
+          "sub_description": "It was named after Mario Filho, a journalist who lobbied for its construction in the 1940s, but was known as the Maracana after the area in which it is located."
+        },
+        {
+          "sub_title": "Monday's debate in the UK parliament",
+          "sub_description": "When aspersions are cast on India by anyone, irrespective of their claims of friendship and love for India or domestic political compulsions, there is a need to set the record straight,' it added. Monday's debate in the UK parliament follows a recent report on global political rights and liberties that changed India's status from a free country to 'partly free'. It attributed the downgrade to increased pressure on human rights groups, journalists and activists, and targeting of minorities, since 2014, when Mr Modi swept to power. But the Indian government's response to the protest - which has included criminal charges against eight journalists, the controversial arrest of a 22-year-old activist and a spat with pop star Rihanna - has sparked anger and criticism in India as well."
+        }
+      ]
+    },
+    {
+      "id": 100048,
+      "headline": "Six Nations: England pay split 'an easy decision' - Ben Youngs",
+      "description":  "It was an 'easy decision' for England's players to share their fees and ensure fringe members were paid the same for the Six Nations, says Ben Youngs. Covid-19 protocols mean England have a smaller-than-usual 28-man squad with all players staying within a 'bubble' for the seven-week tournament.Usually, players outside the 23 matchday squad would not receive a full match fee of about £17,000.Only 23 get to take the field but that doesn't mean that only 23 are training hard and doing everything they can to prep the team.Everyone is pulling their weight to make this team as good as they can",
+      "published_at": "09/03/2021",
+      "category": "Sports",
+      "sub_category": "Football",
+      "img": [{
+          "img_url": "https://ichef.bbci.co.uk/onesport/cps/800/cpsprodpb/B72B/production/_117519864_england_getty.jpg",
+          "img_tag": "Youngs (9) scored one of England's two tries in a 40-24 defeat by Wales last month"
+        },
+        {
+          "img_url": "https://ichef.bbci.co.uk/onesport/cps/800/cpsprodpb/A75A/production/_117324824_table.png",
+          "img_tag": "Points Table"
+        }
+      ],
+      "article_data": [
+        {
+          "sub_title": "England polish up on referee etiquette",
+          "sub_description": "England attack coach Simon Amor says England have been working on their etiquette around referees after giving up 41 penalties in their first three games.Captain Owen Farrell was unable to convince French referee Pascal Gauzere that Wales were given an unfair advantage as a quickly-taken penalty resulted in the opening score in the defeat in Cardiff.Test referees Wayne Barnes and Matt Carley have been at England training this week to help England improve their disciplinary record.There are certain questions from the players around how they ask a question of a referee in a game, explained Amo.What is the way, what about the timing, when do I approach someone?"
+        },
+        {
+          "sub_title": "England will 'keep playing on the edge'",
+          "sub_description": "The newspaper adds that the new deal will mean that each player in the squad will receive about £15,000 per match, regardless of if they play or not.England's players agreed to take a year-long 25% pay cut in September in light of the reduction of Rugby Football Union revenue from ticket sales and other matchday activities.England, whose title defence is all but over after defeats by Wales and Scotland in the opening three rounds, meet France at Twickenham on Saturday."
+        }
+      ]
+    }
+  ],
+  "top_stories" : [
+    {
+      "id": 100021,
+      "post_num": 1,
+      "author": "Verna Prosacco",
+      "author_avatar": "https://willowpaule.com/wp-content/uploads/2020/03/square-profile-wp.jpg",
+      "article": "Covid: Germany approves AstraZeneca vaccine for over-65s",
+      "published_at": "05/03/2021"
+    },
+    {
+      "id": 100017,
+      "post_num": 2,
+      "author": "Prof. Juwan Kihn",
+      "author_avatar": "http://www.saasquatch.com/assets/Outdoor-Square-Profile-Derek.jpg",
+      "article": "'Deepfake is the future of content creation'",
+      "published_at": "08/03/2021"
+    },
+    {
+      "id": 100008,
+      "post_num": 3,
+      "author": "Loraine Muller",
+      "author_avatar": "https://dieteticallyspeaking.com/wp-content/uploads/2017/01/profile-square.jpg",
+      "article": "Coronavirus: Is the epidemic finally coming to an end in India?",
+      "published_at": "15/02/2021"
+    },
+    {
+      "id": 100003,
+      "post_num": 4,
+      "author": "Lester Pouros",
+      "author_avatar": "https://darylh.com/wp-content/uploads/2017/05/Profile-Picture-Square.jpg",
+      "article": "Why do India's farmers feel insecure?",
+      "published_at": "16/02/2021"
+    },
+    {
+      "id": 100013,
+      "post_num": 5,
+      "author": "Cara Bailey",
+      "author_avatar": "http://uniteduniformsnj.com/wp-content/uploads/2016/08/Square-Profile-Pic-1.jpg",
+      "article": "China zoo 'tries to pass dog off as wolf'",
+      "published_at": "06/03/2021"
+    },
+    {
+      "id": 100019,
+      "post_num": 6,
+      "author": "Lon Ebert",
+      "author_avatar": "https://i0.wp.com/movile.blog/wp-content/uploads/2019/05/SMall-profile-square.png?ssl=1",
+      "article": "Banksy art burned, destroyed and sold as token in 'money-making stunt'",
+      "published_at": "15/03/2021"
+    },
+    {
+      "id": 100025,
+      "post_num": 7,
+      "author": "Kolby Auer",
+      "author_avatar": "https://sunrift.com/wp-content/uploads/2014/12/Blake-profile-photo-square.jpg",
+      "article": "Covid: What is the Oxford-AstraZeneca vaccine?",
+      "published_at": "03/03/2021"
+    },
+    {
+      "id": 200003,
+      "post_num": 8,
+      "author": "Javon Crooks",
+      "author_avatar": "https://cms-assets.tutsplus.com/uploads/users/810/profiles/19338/profileImage/profile-square-extra-small.png",
+      "article": "European Banking Authority hit by Microsoft Exchange hack",
+      "published_at": "01/02/2021"
+    },
+    {
+      "id": 200008,
+      "post_num": 9,
+      "author": "Mr. Reinhold Ratke V",
+      "author_avatar": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.q8TIjfzeXaQwbAg4__W26AAAAA%26pid%3DApi&f=1",
+      "article": "Have Australians fallen out of love with Sydney and Melbourne?",
+      "published_at": "15/09/2020"
+    },
+    {
+      "id": 200012,
+      "post_num": 10,
+      "author": "Reginald Balistreri",
+      "author_avatar": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIF.g7c3J5ldEsMAeLHtluh8YQ%26pid%3DApi&f=1",
+      "article": "Nasa's Perseverance rover begins its exploration of Mars",
+      "published_at": "25/02/2021"
+    }
+  ]
+}

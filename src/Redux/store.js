@@ -1,14 +1,26 @@
-import { createStore,combineReducers,applyMiddleware,compose } from "redux";
-import { reducer } from "./Search/reducer";
-const middleWare=(store)=>(next)=>(action)=>{
-    if(typeof action == "function"){
-      return  action(store.dispatch,store.getState)
-    }
-    else{
-        return next(action)
-    }
+
+import { applyMiddleware, combineReducers, compose, createStore } from "redux"
+import thunk from "redux-thunk"
+import { newsReducer } from "./news/reducer";
+import { weatherReducer } from "./weather/reducer"
+import { reducer as appReducer } from './app/reducer'
+const rootReducer = combineReducers({
+    weather:weatherReducer,
+    app: appReducer,
+    news:newsReducer
+})
+
+let composeEnhancers = compose;
+
+if (process.env.NODE_ENV !== "production") {
+  composeEnhancers = window.__REDUX_DEVTOOLS_EXTENSION_COMPOSE__
+    ? window.__REDUX_DEVTOOLS_EXTENSION_COMPOSE__({})
+    : compose;
 }
 
-export const store=createStore(reducer,applyMiddleware(middleWare))
+const enhancer = composeEnhancers(applyMiddleware(thunk));
 
-console.log(store.getState())
+// const enhancer = composeEnhancers(applyMiddleware(thunk));
+
+export const store = createStore(rootReducer,enhancer)
+

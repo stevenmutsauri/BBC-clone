@@ -1,0 +1,28 @@
+.weather__wrapper{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    margin-left: 30px;
+}
+
+.weather__topBox{
+    display: flex;
+    align-items: center;
+}
+
+.weather__topBox > h3{
+    margin: 0;
+    padding: 0;
+}
+
+.weather__topBox__btn_1{
+    cursor: pointer;
+    padding: .5rem .5rem;
+    background: #f2f2f2;
+    font-size: .625rem;
+    font-weight: normal;
+    text-transform: uppercase;
+    color: #8c8c8c;
+    margin-left: 1rem;
+    transform: translateY(-50%);
+}

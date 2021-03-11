@@ -1,0 +1,37 @@
+
+
+.topHeadlines_wrapper{
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+
+.para{
+    overflow: hidden;
+    text-align: left;
+    font-size: 1.1rem;
+    color: black;
+    font-weight:700;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+}
+
+.news__card_linkwrap_link{
+    border-left: 1px solid grey;
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.815);
+    margin:0 8px;
+    padding-left: 8px;
+}
+
+.news__card_linkwrap_link:hover{
+    color: rgb(9, 82, 179);
+    text-decoration:underline;
+}
+
+.headings{
+    width: 19%;
+}

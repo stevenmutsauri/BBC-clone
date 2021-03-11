@@ -1,0 +1,29 @@
+.outerList{
+    margin: 0;
+    display: flex;
+    width: 60%;
+    flex-wrap: wrap;
+    padding: 0;
+    margin-left: 10px;
+}
+
+.list{
+    width: 45%;
+    font-size: 1rem;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    color: rgba(0, 0, 0, 0.671);
+    font-weight: 600;
+    margin: 10px;
+    font-family: Helvetica,Arial,freesans,sans-serif;
+}
+
+.span{
+    color: #BB1919;
+    font-size: 2.77rem;
+    margin-right: 25px;
+    width: 30px;
+    font-family: Helvetica,Arial,freesans,sans-serif;
+    font-weight: 400;
+}
