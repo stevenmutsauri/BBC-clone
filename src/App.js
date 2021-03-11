@@ -1,5 +1,8 @@
 import './App.css';
 import Navbar from './Component/Navbar/Navbar';
+import { SmallNewsCards } from './Component/Home/SmallNewsCards';
+import { MediaImage } from './Component/Home/MediaImage';
+import { WeatherForecast } from './Component/Home/WeatherForecast';
 import Footer from './Component/Footer/Footer';
 import { Home } from './Routes/Home';
 import Welcome from './Component/Home/Welcome';
@@ -21,6 +24,10 @@ function App() {
      <Business/>
      <Business2/>
      <World/>
+     {/* <SmallNewsCards/> */}
+     <br/>
+     {/* <MediaImage/> */}
+     {/* <WeatherForecast/> */}
      <Footer></Footer>
     </div>
   );

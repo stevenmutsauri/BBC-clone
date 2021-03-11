@@ -1,25 +1,22 @@
-//test
-import { combineReducers, createStore, applyMiddleware, compose } from 'redux'
+import { applyMiddleware, combineReducers, compose, createStore } from "redux"
+import thunk from "redux-thunk"
+import { weatherReducer } from "./weather/reducer"
 import { reducer as appReducer } from './app/reducer'
-import thunk from 'redux-thunk'
-
 const rootReducer = combineReducers({
+    weather:weatherReducer,
     app: appReducer
 })
 
-const logger = (store) => (next) => (action) => {
-    // console.log("Dispatching Action Logger1", action, store.getState())
-    const value = next(action)
+let composeEnhancers = compose;
 
-    // console.log("Now State in Logger1", store.getState());
-    return value
+if (process.env.NODE_ENV !== "production") {
+  composeEnhancers = window.__REDUX_DEVTOOLS_EXTENSION_COMPOSE__
+    ? window.__REDUX_DEVTOOLS_EXTENSION_COMPOSE__({})
+    : compose;
 }
 
-const createComposer = window.__REDUX_DEVTOOLS_EXTENSION_COMPOSE__ || compose
+const enhancer = composeEnhancers(applyMiddleware(thunk));
 
-const store = createStore(rootReducer,
-    createComposer( applyMiddleware(logger, thunk))
-    
-)
+// const enhancer = composeEnhancers(applyMiddleware(thunk));
 
-export {store}
+export const store = createStore(rootReducer,enhancer)
