@@ -1,13 +1,26 @@
 import './App.css';
 import Navbar from './Component/Navbar/Navbar';
 import Footer from './Component/Footer/Footer';
+import { Home } from './Routes/Home';
 import Welcome from './Component/Home/Welcome';
+import Reel from './Component/Home/Reel';
+import Future from './Component/Home/Future';
+import Business from './Component/Home/Business';
+import Business2 from './Component/Home/Business2';
+import World from './Component/Home/World';
+
 
 function App() {
   return (
     <div className="App">
      <Navbar></Navbar>
-     
+     <Home/>
+     <Welcome/>
+     <Reel/>
+     <Future/>
+     <Business/>
+     <Business2/>
+     <World/>
      <Footer></Footer>
     </div>
   );
