@@ -1,4 +1,4 @@
-import {GET_NEWS_DATA_REQUEST, GET_NEWS_DATA_SUCCESS, GET_NEWS_DATA_FAILURE, GET_CORONA_NEWS_SUCCESS, GET_INDIA_NEWS_SUCCESS} from './actionType'
+import {GET_TOP_STORIES_SUCCESS, GET_NEWS_DATA_REQUEST, GET_NEWS_DATA_SUCCESS, GET_NEWS_DATA_FAILURE, GET_CORONA_NEWS_SUCCESS, GET_INDIA_NEWS_SUCCESS} from './actionType'
 import axios from 'axios'
 
 const getNewsDataRequest = () =>{
@@ -30,6 +30,14 @@ const getCoronaNewsSuccess = (payload) =>{
 const getIndiaNewsSuccess = (payload) =>{
     return {
         type: GET_INDIA_NEWS_SUCCESS,
+        payload
+    }
+}
+
+
+const getTopStoriesSuccess = (payload) =>{
+    return {
+        type: GET_TOP_STORIES_SUCCESS,
         payload
     }
 }
@@ -90,10 +98,26 @@ const fetchIndiaNews = () => (dispatch) => {
     })
 }
 
+
+const fetchTopStories = () => (dispatch) => {
+    dispatch(getNewsDataRequest())
+
+    return axios.get("https://fake---api.herokuapp.com/top_stories")
+    .then((res) => {
+        const getData = getTopStoriesSuccess(res.data)
+        dispatch(getData)
+    })
+    .catch((err) => {
+        const errCaught = getNewsDataFailure()
+        dispatch(errCaught)
+    })
+}
+
 export { getNewsDataRequest, 
         getNewsDataSuccess, 
         getNewsDataFailure, 
         fetchNewsData,
         fetchCoronaNews,
-        fetchIndiaNews
+        fetchIndiaNews,
+        fetchTopStories
 }

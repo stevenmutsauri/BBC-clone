@@ -1,11 +1,12 @@
-import {GET_NEWS_DATA_REQUEST, GET_NEWS_DATA_SUCCESS, GET_NEWS_DATA_FAILURE, GET_CORONA_NEWS_SUCCESS, GET_INDIA_NEWS_SUCCESS, GET_ENTERTAINMENT_NEWS_SUCCESS} from './actionType'
+import {GET_TOP_STORIES_SUCCESS, GET_NEWS_DATA_REQUEST, GET_NEWS_DATA_SUCCESS, GET_NEWS_DATA_FAILURE, GET_CORONA_NEWS_SUCCESS, GET_INDIA_NEWS_SUCCESS, GET_ENTERTAINMENT_NEWS_SUCCESS} from './actionType'
 
 export const initialState = {
     isLoading: false,
     isError: false,
     data: [],
     coronaNews: [],
-    indiaNews: []
+    indiaNews: [],
+    topStories: []
 }
 
 const reducer = (state = initialState, {type, payload}) => {
@@ -20,7 +21,7 @@ const reducer = (state = initialState, {type, payload}) => {
                 ...state,
                 isLoading: false,
                 isError: false,
-                data: payload
+                data: [...payload]
             }
         case GET_NEWS_DATA_FAILURE:
             return {
@@ -41,6 +42,13 @@ const reducer = (state = initialState, {type, payload}) => {
                 isLoading : false,
                 isError: false,
                 indiaNews: payload
+            }
+        case GET_TOP_STORIES_SUCCESS:
+            return {
+                ...state,
+                isLoading : false,
+                isError: false,
+                topStories: payload
             }
         default:
             return state
