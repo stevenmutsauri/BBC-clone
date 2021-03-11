@@ -1,30 +1,43 @@
-import { GET_WEATHER_FAILURE, GET_WEATHER_REQUEST, GET_WEATHER_SUCCESS } from "./actionTypes"
+import { GET_NEWSDATA_FAILURE, GET_NEWSDATA_REQUEST, GET_NEWSDATA_SUCCESS } from "./actionTypes"
 
 
 const initState = {
-    weather:null,
+    newsData:[],
+    mostWatched:[],
+    coronaData:[],
+    sportsData:[],
+    continentData:[],
     isError:false,
     isLoading:false,
 }
 
-const weatherReducer = (state = initState, {type,payload}) => {
+const newsReducer = (state = initState, {type,payload}) => {
     switch (type){
-        case GET_WEATHER_REQUEST:{
+        case GET_NEWSDATA_REQUEST:{
             return {
                 ...state,
                 isLoading:true,
                 isError:false,
             }
         }
-        case GET_WEATHER_SUCCESS:{
+        case GET_NEWSDATA_SUCCESS:{
+            const corona = payload.filter(item => item.category === "Coronavirus")
+            const sports = payload.filter(item => item.category === "Sports")
+            const mostWatched = payload.filter(item => item.category === "Trending" )
+            const continent = payload.filter(item =>item.category === "UK"  )
+            console.log(continent)
             return {
                 ...state,
-                weather:payload,
+                newsData:[...payload],
+                mostWatched,
+                coronaData:corona,
+                sportsData:sports,
+                continentData:continent,
                 isLoading:false,
                 isError:false,
             }
         }
-        case GET_WEATHER_FAILURE:{
+        case GET_NEWSDATA_FAILURE:{
             return {
                 ...state,
                 isLoading:false,
@@ -37,4 +50,4 @@ const weatherReducer = (state = initState, {type,payload}) => {
     }
 }
 
-export {weatherReducer}
+export {newsReducer}

@@ -39,12 +39,12 @@ const WeatherForecast =() => {
                     <div className={styles.weather__topBox__btn_1} onClick={e => setShow(!show)}>{!show ? "EDIT" : "CLOSE"}</div>
                 </div>
                 {show && (
-                    <div>
+                    <div style={{display:"flex",alignItems:"center"}}>
                         <input value={query} onChange={e => setQuery(e.target.value)} placeholder="enter city"/>
                         <button  onClick={handleClick}>EDIT</button>
                     </div>
                 )}
-                {isLoading ? <div>...load</div>  : isError ? (
+                {isLoading ? <div>...loading</div>  : isError ? (
                     <>
                         <div>Location Not Found</div>
                         <div>
