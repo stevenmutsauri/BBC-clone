@@ -11,10 +11,10 @@ function App() {
     <div className="App">
      <Navbar></Navbar>
      <Home/>
-     <SmallNewsCards/>
+     {/* <SmallNewsCards/> */}
      <br/>
-     <MediaImage/>
-     <WeatherForecast/>
+     {/* <MediaImage/>
+     <WeatherForecast/> */}
      <Footer></Footer>
     </div>
   );
