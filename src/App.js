@@ -6,7 +6,7 @@ import { WeatherForecast } from './Component/Home/WeatherForecast';
 import Footer from './Component/Footer/Footer';
 
 import { NewsMain } from './Component/News/NewsHome/NewsMain';
-import { AllRoutes } from './Routes/AllRoutes';
+import AllRoutes  from './Routes/AllRoutes';
 import { Home } from './Routes/Home';
 import Welcome from './Component/Home/Welcome';
 import Reel from './Component/Home/Reel';
@@ -25,8 +25,8 @@ function App() {
     
 
         <AllRoutes/>
-     <Footer/>
-     <Home/>
+     
+    
      {/* <Welcome/>
      <Reel/>
      <Future/>

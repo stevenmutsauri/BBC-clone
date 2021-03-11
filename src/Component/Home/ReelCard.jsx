@@ -2,10 +2,10 @@ import React from "react"
 import styles from "./reel.module.css"
 import { BiChevronRight, BiArrowFromRight } from "react-icons/bi";
 const ReelCard = ({data})=>{
-    console.log(data)
+  const {item} = data
     return(
         <>
-        {data[0] !== undefined && (<div className={styles.main}>
+        {item && (<div className={styles.main}>
             
                 <img src = "https://ychef.files.bbci.co.uk/1200x675/p08h02kk.jpg" style={{zIndex:"0",width:"100%",height:"400px"}}/>
                 <div className={styles.top}>

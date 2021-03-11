@@ -7,7 +7,7 @@ import { Link } from "react-router-dom";
 import { BiTime } from "react-icons/bi";
 
 export default function SingleDescription() {
-  const searchList = useSelector((state) => state.searchList);
+  const searchList = useSelector((state) => state.search.searchList);
   const { singleId } = useParams();
   console.log(searchList);
   var list = [...searchList];
