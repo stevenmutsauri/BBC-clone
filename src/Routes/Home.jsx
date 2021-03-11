@@ -12,12 +12,12 @@ import World from '../Component/Home/World';
 const Home = () => {
 
     return (
-        <div>    
+        <div> 
+            <Welcome/>   
             <NewsCard />
             <CoronaNewsCard />
             <IndiaNewsCard />
             <EditorCard />
-            <Welcome/>
             <Reel/>
             <Future/>
             <Business/>

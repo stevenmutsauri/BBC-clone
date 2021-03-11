@@ -2,9 +2,10 @@ import React from "react"
 
 import styles from "./business.module.css"
 const BusinessCard = ({data})=>{
+    const {item} = data
     return(
     <>
-       {data[0] !== undefined && (
+       {item && (
        <div className={styles.main}>
            <div class={styles.innerbox}>
                 <p>TECHNOLOGY OF BUSINESS</p>

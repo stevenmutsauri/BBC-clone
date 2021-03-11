@@ -8,12 +8,12 @@ import SearchSingleArticle from "./SearchSingleArticle";
 import style from "../Styles/searchBlue.module.css";
 import Skeleton from "react-loading-skeleton";
 export default function SearchList() {
-  const isLoading = useSelector((state) => state.isLoading);
-  const isError = useSelector((state) => state.isError);
+  const isLoading = useSelector((state) => state.search.isLoading);
+  const isError = useSelector((state) => state.search.isError);
 
   const perPage = 8;
   const dispatch = useDispatch();
-  const searchList = useSelector((state) => state.searchList);
+  const searchList = useSelector((state) => state.search.searchList);
   let totalPages = Math.ceil(searchList.length / perPage);
   const location = useLocation();
   console.log(location);
