@@ -12,6 +12,7 @@ export default function SingleDescLeft({single,desc1,desc2,desc3}) {
              {single &&  <div>
         <h1 className={style.single__head1}>{single.headline}</h1>
         <p > <span className={style.single__icon}><BiTime/></span> <span className={style.icon__text}>{single.published_at}</span></p>
+        <div className={style.left__line} ></div>
         <img className={style.single__img} src={single.img[0].img_url} alt="img" />
         <h4  className={style.single__head4} >{single.article_data[0].sub_title}</h4>
         <div className={style.singleItem__desc}>
@@ -41,6 +42,14 @@ export default function SingleDescLeft({single,desc1,desc2,desc3}) {
           {desc3?.map((item1) => (
             <div>{item1}</div>
           ))}
+        </div>
+        <div className={style.singleArticle__leftLine}></div>
+        <h2 className={style.relatedTopics__h2}>Related Topics</h2>
+        <div className={style.relatedTopics}>
+          <button>Asia</button>
+        <button>us</button>
+        <button>India</button>
+        <button>uk</button>
         </div>
       </div> }
      
