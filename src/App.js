@@ -21,7 +21,7 @@ function App() {
      <Navbar></Navbar>
         <AllRoutes/>
      <Footer/>
-     <Home/>
+     {/* <Home/> */}
      {/* <Welcome/>
      <Reel/>
      <Future/>

@@ -4,15 +4,18 @@ import style from "../Styles/navbar.module.css"
 import SearchBar from "../Search/SearchBar";
 import { RiArrowDropDownFill } from "react-icons/ri";
 import Dropdown from "./Dropdown";
+import { useSelector } from "react-redux";
 
+export default function Navbar() {
+const {data_auth,isAuth}=useSelector(state=>state.login)
 const linkLeft = [
   {
     to: "/",
     title: "BBC",
   },
   {
-    to: "/",
-    title: "Your account",
+    to: !isAuth?"/Sign":"/Account",
+    title:!isAuth? "Your account":`${data_auth[0].name}`,
   },
 ];
 
@@ -55,8 +58,6 @@ const linkMiddle = [
   },
 ];
 
-export default function Navbar() {
- 
   const [moreDrop, setMoreDrop] = React.useState(false);
   const showDropDown=()=>{
     setMoreDrop(!moreDrop)
