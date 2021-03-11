@@ -629,14 +629,14 @@
       "category": "Coronavirus",
       "sub_category": "Coronavirus",
       "img": [{
-          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/A0C4/production/_117365114_823757b3-a67d-4fcf-ac60-ab1e4d948a8d.jpg",
-          "img_tag": "A queue for vaccinations in New York. A key task for President Biden is getting the supplies into arms"
-        },
-        {
-          "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/0484/production/_117365110_23cca382-8e98-4afd-8923-d64292bfceeb.jpg",
-          "img_tag": "Drive-through vaccination in Texas. The governor says it is time to open the state '100%'"
-        }
-      ],
+        "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/A0C4/production/_117365114_823757b3-a67d-4fcf-ac60-ab1e4d948a8d.jpg",
+        "img_tag": "A queue for vaccinations in New York."
+      },
+      {
+        "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/0484/production/_117365110_23cca382-8e98-4afd-8923-d64292bfceeb.jpg",
+        "img_tag": "The governor says it is time to open the state '100%'"
+      }
+    ],
       "article_data": [
         {
           "sub_title": "What was in Mr Biden's latest announcement?",

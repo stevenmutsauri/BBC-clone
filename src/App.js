@@ -13,8 +13,8 @@ function App() {
      <Home/>
      {/* <SmallNewsCards/> */}
      <br/>
-     {/* <MediaImage/>
-     <WeatherForecast/> */}
+     {/* <MediaImage/> */}
+     {/* <WeatherForecast/> */}
      <Footer></Footer>
     </div>
   );

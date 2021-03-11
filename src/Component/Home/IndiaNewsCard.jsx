@@ -2,7 +2,7 @@ import React, { useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import {fetchIndiaNews} from "../../Redux/app/action"
 import styles from './Home.module.css'
-import { IndiaNewsCardBox } from './IndiaNewsCardBox';
+import { SmallCardBox } from './SmallCardBox';
 
 const IndiaNewsCard = () => {
 
@@ -20,7 +20,7 @@ const IndiaNewsCard = () => {
             <p className={styles.category__name}>India</p>
             <div className={styles.box__div}>
                 {
-                    indiaDataSet?.map((el) => <IndiaNewsCardBox key={el.id} data={el}/>)
+                    indiaDataSet?.map((el) => <SmallCardBox key={el.id} data={el}/>)
                 }
             </div>
         </div>
