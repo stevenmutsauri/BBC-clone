@@ -18,12 +18,12 @@ function App() {
     <div className="App">
      <Navbar></Navbar>
      <Home/>
-     <Welcome/>
+     {/* <Welcome/>
      <Reel/>
      <Future/>
      <Business/>
      <Business2/>
-     <World/>
+     <World/> */}
      {/* <SmallNewsCards/> */}
      <br/>
      {/* <MediaImage/> */}
