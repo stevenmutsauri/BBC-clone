@@ -1,5 +1,6 @@
 import React from 'react'
 import { Route, Switch } from 'react-router'
+import SingleDescription from '../Component/Search/SingleDescription'
 import SearchListPage from './SearchListPage'
 
 export default function AllRoutes() {
@@ -10,6 +11,9 @@ export default function AllRoutes() {
                 <SearchListPage>
                     hi
                 </SearchListPage>
+                </Route>
+                <Route path="/singleArticle/:singleId">
+                   <SingleDescription></SingleDescription>
                 </Route>
                 <Route>
                     <h1>page not found</h1>

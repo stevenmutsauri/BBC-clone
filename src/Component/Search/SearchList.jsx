@@ -39,7 +39,7 @@ export default function SearchList() {
               (item, index) => index + 1 >= startIndex && index + 1 <= endIndex
             )
             .map((item) => (
-              <SearchSingleArticle item={item} isLoading={isLoading}></SearchSingleArticle>
+              <SearchSingleArticle key={item.id} item={item} isLoading={isLoading}></SearchSingleArticle>
             ))}
         </div>
       ) : isError ? (

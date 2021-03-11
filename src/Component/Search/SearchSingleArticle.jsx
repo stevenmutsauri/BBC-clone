@@ -1,9 +1,15 @@
 import React from "react";
 import style from "../Styles/searchSingleArticle.module.css";
 import { BiTimeFive } from 'react-icons/bi';
-import { Link } from "react-router-dom";
+import { Link, useLocation } from "react-router-dom";
 import Skeleton from "react-loading-skeleton";
 export default function SearchSingleArticle({item,isLoading}) {
+  const location=useLocation()
+  console.log(location)
+  var pathname=location.pathname
+  console.log(pathname)
+  var search=location.search
+  console.log(search)
   
   return (
     <div className={style.single__article}>
@@ -12,7 +18,7 @@ export default function SearchSingleArticle({item,isLoading}) {
      
       <div className={style.single__article__text}>
         <div>
-         <Link className={style.single__article__heading}><p>{!isLoading?item.headline:<Skeleton count={2}/>}</p></Link>
+         <Link to={"/singleArticle/"+item.id} className={style.single__article__heading}><p>{!isLoading?item.headline:<Skeleton count={2}/>}</p></Link>
           <p>{!isLoading?item.article_data[0].sub_title:
           <Skeleton count={1}/>}
           </p>
