@@ -5,16 +5,15 @@ import { SmallNewsCards } from './Component/Home/SmallNewsCards';
 import { MediaImage } from './Component/Home/MediaImage';
 import { WeatherForecast } from './Component/Home/WeatherForecast';
 import Footer from './Component/Footer/Footer';
+import { NewsMain } from './Component/News/NewsHome/NewsMain';
+import { AllRoutes } from './Routes/AllRoutes';
 
 function App() {
   return (
     <div className="App">
      <Navbar></Navbar>
-     <SmallNewsCards/>
-     <br/>
-     <MediaImage/>
-     <WeatherForecast/>
-     <Footer></Footer>
+        <AllRoutes/>
+     <Footer/>
     </div>
   );
 }
