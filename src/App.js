@@ -25,8 +25,7 @@ function App() {
     
 
         <AllRoutes/>
-     
-    
+
      {/* <Welcome/>
      <Reel/>
      <Future/>
