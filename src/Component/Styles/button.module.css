@@ -1,0 +1,37 @@
+.active__btn{
+    width:35px;
+    height:35px;
+    border: none;
+    outline: none;
+    background-color: grey;
+    color: black;
+    margin: 5px;
+
+}
+.passive__btn{
+    width:35px;
+    height:35px;
+    margin: 5px;
+    border: none;
+    outline: none;
+    border: none;
+    outline: none;
+}
+.prev__btn{
+    width:35px;
+    height:35px;
+   
+    text-align: center;
+    margin: 5px;
+    border: none;
+    outline: none;
+}
+.next__btn{
+   
+    width:33px;
+    height:35px;
+    text-align: center;
+    margin: 5px;
+    border: none;
+    outline: none;
+}
