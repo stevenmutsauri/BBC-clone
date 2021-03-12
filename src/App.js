@@ -13,6 +13,8 @@ import Future from './Component/Home/Future';
 import Business from './Component/Home/Business';
 import Business2 from './Component/Home/Business2';
 import World from './Component/Home/World';
+import { BannerAd } from './Component/Advertisement/BannerAd';
+import { PopupAd } from './Component/Advertisement/PopupAd';
 
 
 function App() {
@@ -20,6 +22,8 @@ function App() {
     <div className="App">
      <Navbar/>
       <AllRoutes/>
+      <BannerAd />
+      <PopupAd />
       <Home/>
      <Footer/>
      

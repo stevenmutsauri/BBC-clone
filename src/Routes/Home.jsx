@@ -1,4 +1,5 @@
 import React from 'react';
+import { PopupAd } from '../Component/Advertisement/PopupAd';
 import Business from '../Component/Home/Business';
 import Business2 from '../Component/Home/Business2';
 import { NewsCard } from '../Component/Home/CommonNewsCard';
@@ -14,17 +15,17 @@ const Home = () => {
 
     return (
         <div>    
-            <Welcome/>
+            {/* <Welcome/> */}
             <NewsCard />
             <CoronaNewsCard />
-            <Reel/>
+            {/* <Reel/> */}
             <IndiaNewsCard />
             <EditorCard />
-            <Future/>
-            <Business/>
+            {/* <Future/> */}
+            {/* <Business/> */}
             <MoreAroundBBC />
-            <Business2/>
-            <World/>
+            {/* <Business2/> */}
+            {/* <World/> */}
         </div>
     )
 }
