@@ -2,10 +2,10 @@ import React from "react"
 
 import styles from "./world.module.css"
 const WorldCard = ({data})=>{
-    const {item} = data
+    // const {item} = data
     return(
     <>
-       {item  && (
+       {data.length!==0  && (
        <div className={styles.main}>
            <div class={styles.innerbox}>
                 <p style={{borderLeft:"3px solid blue" ,margin:"5px 10px 35px",paddingLeft:"10px",fontSize:"40px"}}>World In Picture</p>

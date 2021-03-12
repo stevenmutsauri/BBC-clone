@@ -16,13 +16,13 @@ const Home = () => {
             <Welcome/>   
             <NewsCard />
             <CoronaNewsCard />
+            <Reel/>
             <IndiaNewsCard />
             <EditorCard />
-            <Reel/>
             <Future/>
             <Business/>
-            <Business2/>
             <World/>
+            <Business2/>
         </div>
     )
 }
