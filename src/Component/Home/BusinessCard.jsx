@@ -2,6 +2,7 @@ import React from "react"
 
 import styles from "./business.module.css"
 const BusinessCard = ({data})=>{
+
     const {item} = data
     return(
     <>
@@ -25,8 +26,8 @@ const BusinessCard = ({data})=>{
                 </div>
                 
             </div>
+
        
-            </div>)}
         </>
     )
 }

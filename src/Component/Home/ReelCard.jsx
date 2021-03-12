@@ -5,6 +5,7 @@ const ReelCard = ({data})=>{
   const {item} = data
     return(
         <>
+
         {item && (<div className={styles.main}>
             
                 <img src = "https://ychef.files.bbci.co.uk/1200x675/p08h02kk.jpg" style={{zIndex:"0",width:"100%",height:"400px"}}/>
@@ -41,6 +42,7 @@ const ReelCard = ({data})=>{
                 </div>
            
         </div>)}
+
         </>
     )
 }
