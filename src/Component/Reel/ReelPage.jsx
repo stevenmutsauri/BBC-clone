@@ -5,8 +5,11 @@ import "react-awesome-slider/dist/styles.css";
 import withAutoplay from "react-awesome-slider/dist/autoplay";
 import "react-awesome-slider/dist/styles.css";
 import "./reel.css";
+import style from "../Styles/reelPage.module.css";
+import ReelVedioList from "./ReelVedioList";
 const AutoplaySlider = withAutoplay(AwesomeSlider);
 export default function ReelPage() {
+
   return (
     <>
       <AwesomeSlider play={true}>
@@ -79,19 +82,19 @@ export default function ReelPage() {
           />
         </div>
       </AwesomeSlider>
-      <div>
-        <div>
-          <div>line</div>
+
+      <div className={style.most__watched}>
+        <div className={style.most__part1}>
+          <div></div>
           <h1>Most Watched</h1>
-          <div> line</div>
-          <div>See the videos our audience loves.</div>
+          <div> </div>
         </div>
         <div>
-            <div>
-            <img src="" alt=""/>
-            <div></div>
-            </div>
-           
+          <div>See the videos our audience loves.</div>
+        </div>
+
+        <div className={style.reel__wrap} >
+         <ReelVedioList></ReelVedioList>
         </div>
       </div>
     </>

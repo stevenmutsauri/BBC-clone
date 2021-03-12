@@ -1,21 +1,35 @@
 import React from "react";
 import { useParams } from "react-router";
-import { useSelector } from "react-redux";
+import { useSelector, useDispatch } from "react-redux";
 import SingleDescLeft from "./SingleDescLeft";
 import style from "../Styles/singleDescription.module.css";
 import { Link } from "react-router-dom";
 import { BiTime } from "react-icons/bi";
+import { getSearchFetchData } from "../../Redux/Search/action";
 
 export default function SingleDescription() {
   const searchList = useSelector((state) => state.search.searchList);
+  const dispatch = useDispatch();
   const { singleId } = useParams();
   console.log(searchList);
   var list = [...searchList];
-  var single = list?.filter((item) => {
-    if (item.id == singleId) {
-      return true;
-    }
-  })[0];
+  const [single, setSingle] = React.useState("");
+  React.useEffect(() => {
+    (async () => {
+      await dispatch(getSearchFetchData(""));
+    })();
+  }, []);
+
+  React.useEffect(() => {
+    let _single = list?.filter((item) => {
+      if (item.id == singleId) {
+        return true;
+      }
+    })[0];
+    setSingle(_single);
+    console.log("single");
+    console.log(_single);
+  }, [searchList]);
 
   const desc1 = single && single.description.split(".");
   const desc2 = single && single.description.split(".");
@@ -86,7 +100,7 @@ export default function SingleDescription() {
             desc2={desc1}
             desc3={desc3}
           ></SingleDescLeft>
-          
+
           <div className={style.singleDesc__right}>
             <div className={style.singleDesc__right__sec1}>
               <div></div>
@@ -132,12 +146,18 @@ export default function SingleDescription() {
               {mostRead?.map((item, i) => (
                 <>
                   <div className={style.mostread__unit}>
-                   <Link to={"/singleArticle/"+item.id} className={style.mostread__text}><div  className={style.mostread__text}>{item.headline}</div>
-                    <div  className={style.mostread__text2}>{i + 1}</div></Link>
+                    <Link
+                      to={"/singleArticle/" + item.id}
+                      className={style.mostread__text}
+                    >
+                      <div className={style.mostread__text}>
+                        {item.headline}
+                      </div>
+                      <div className={style.mostread__text2}>{i + 1}</div>
+                    </Link>
                   </div>
-                    <div className={style.mostread__line}></div>
-                  </>
-                
+                  <div className={style.mostread__line}></div>
+                </>
               ))}
             </div>
           </div>
