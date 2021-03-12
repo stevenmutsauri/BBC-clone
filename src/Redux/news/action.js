@@ -1,41 +1,36 @@
 import axios from "axios"
 import {GET_NEWSDATA_REQUEST,GET_NEWSDATA_SUCCESS,GET_NEWSDATA_FAILURE} from "./actionTypes"
 
-const getWeatherRequest = () => {
+const getNewsDataRequest = () => {
     return {
         type:GET_NEWSDATA_REQUEST,
     }
 }
 
-const getWeatherSuccess = (payload) => {
+const getNewsDataSuccess = (payload) => {
     return {
         type:GET_NEWSDATA_SUCCESS,
         payload
     }
 }
-const getWeatherFailure = (payload) => {
+const getNewsDataFailure = (payload) => {
     return {
         type:GET_NEWSDATA_FAILURE,
         payload
     }
 }
 
-const getWeather = (q) => dispatch => {
-    dispatch(getWeatherRequest())
-    return axios.get(`http://api.weatherapi.com/v1/forecast.json`,{
-        params:{
-            key:process.env.REACT_APP_WEATHER_API_KEY,
-            q,
-        }
-    })
+const getNewsData = (q) => dispatch => {
+    dispatch(getNewsDataRequest())
+    return axios.get(`https://fake---api.herokuapp.com/news`)
     .then(res => {
-        dispatch(getWeatherSuccess(res.data.current))
-        return {q,data:res.data.current}
+        dispatch(getNewsDataSuccess(res.data))
+        // return {q,data:res.data.current}
     })
     .catch(err => {
-        dispatch(getWeatherFailure(err))
-        return null
+        dispatch(getNewsDataFailure(err))
+        // return null
     })
 }
 
-export {getWeatherFailure,getWeatherSuccess,getWeatherRequest,getWeather}
+export {getNewsDataFailure,getNewsDataSuccess,getNewsDataRequest,getNewsData}

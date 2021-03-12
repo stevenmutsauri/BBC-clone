@@ -1,0 +1,38 @@
+.wrapper{
+    width: 95%;
+    margin: auto;
+    text-align: left;
+    color: rgba(0, 0, 0, 0.733);
+}
+
+.h2 {
+    display: flex;
+    width: 100%;
+    align-items: center;
+  }
+  
+  .h2::after {
+    content: '';
+    flex: 1;
+    margin-left: 1rem;
+    height: 1px;
+    background-color: #000;
+  }
+
+.section__Wrapper
+  {
+    display: flex;
+    gap: 10px;
+    justify-content: left;
+  }
+
+  .largeImageTags{
+    width: 35%;
+  }
+
+  .smallImageTags{
+    width: 65%;
+  }
+  .headings{
+    width: 100%;
+  }

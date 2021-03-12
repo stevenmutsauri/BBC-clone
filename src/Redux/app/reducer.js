@@ -21,7 +21,7 @@ const reducer = (state = initialState, {type, payload}) => {
                 ...state,
                 isLoading: false,
                 isError: false,
-                data: payload
+                data: [...payload]
             }
         case GET_NEWS_DATA_FAILURE:
             return {
