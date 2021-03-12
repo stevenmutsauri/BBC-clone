@@ -7,13 +7,14 @@ import { reducer as appReducer } from './app/reducer'
 
 import {loginDataSet} from './Auth/Reducer'
 import {reducer as searchReducer} from "./Search/reducer"
+import { reducer } from "./worklife/reducer";
 
 const rootReducer = combineReducers({
     weather:weatherReducer,
     search:searchReducer,
     app: appReducer,
     news:newsReducer,
-
+    work:reducer,
     login:loginDataSet
 
   

@@ -10,6 +10,7 @@ import ReelPage from "../Component/Reel/ReelPage";
 import Sign from '../Component/SignPage/Sign'
 import Account from '../Component/SignPage/Account'
 import Overview from '../Component/SignPage/Overview'
+import Work from "../Component/WorkLife/Work";
 
 
 export default function AllRoutes() {
@@ -49,6 +50,9 @@ export default function AllRoutes() {
             <Route path="/Account/Comments">
             <Account/>
                 <h3>Comments</h3>
+            </Route>
+            <Route>
+              <Work/>
             </Route>
         <Route>
           <h1>page not found</h1>
