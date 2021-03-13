@@ -1,10 +1,7 @@
-
 import React from "react";
-
 import { Route, Switch } from "react-router";
 import SingleDescription from "../Component/Search/SingleDescription";
 import SearchListPage from "./SearchListPage";
-import { NewsMain } from "../Component/News/NewsHome/NewsMain";
 import { Home } from "./Home";
 import ReelPage from "../Component/Reel/ReelPage";
 import Sign from '../Component/SignPage/Sign'
@@ -12,6 +9,8 @@ import Account from '../Component/SignPage/Account'
 import Overview from '../Component/SignPage/Overview'
 import Work from "../Component/WorkLife/Work";
 
+import { News } from "./News";
+import { NewsSingleArticles } from "../Component/News/NewsArticles/NewsSingleArticles";
 
 export default function AllRoutes() {
   return (
@@ -27,7 +26,7 @@ export default function AllRoutes() {
           <SingleDescription></SingleDescription>
         </Route>
         <Route path="/news" exact>
-          <NewsMain />
+             <News />
         </Route>
         <Route path="/reel" exact>
             <ReelPage></ReelPage>
@@ -54,10 +53,10 @@ export default function AllRoutes() {
             <Route>
               <Work/>
             </Route>
-        <Route>
-          <h1>page not found</h1>
+         
+        <Route path="/news/:category-:id" >
+          <NewsSingleArticles/>
         </Route>
-      </Switch>
     </div>
   );
 }

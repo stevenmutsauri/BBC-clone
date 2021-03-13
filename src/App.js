@@ -20,25 +20,15 @@ import World from './Component/Home/World';
 function App() {
   return (
     <div className="App">
-     <Navbar></Navbar>
+     <Navbar/>
+      <AllRoutes/>
+      <Home/>
+     <Footer/>
+     
 
-    
+   
 
-        <AllRoutes/>
 
-     {/* <Welcome/>
-     <Reel/>
-     <Future/>
-     <Business/>
-     <Business2/>
-     <World/> */}
-     {/* <SmallNewsCards/> */}
-     <br/>
-     {/* <MediaImage/> */}
-     {/* <WeatherForecast/> */}
-
-     <Footer></Footer>
-    
     </div>
   );
 }

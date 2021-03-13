@@ -3,7 +3,7 @@ import axios from 'axios'
 import { Redirect } from 'react-router'
 import  './Sign.css'
 import { useDispatch, useSelector } from 'react-redux'
-import { loginData, loginSuccess } from '../../Redux/Auth/ActioType'
+import { loginData, loginSuccess } from '../../Redux/Auth/Action'
 function Sign() {
     const dispatch = useDispatch()
     const {data_auth,isAuth}=useSelector(state=>state.login)

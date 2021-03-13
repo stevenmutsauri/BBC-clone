@@ -98,8 +98,11 @@ p {
     margin-right: 25px;
 }
 
+.editor_box__div:hover{
+    filter: brightness(1.2);
+}
+
 .latest__news {
-    border: 1px solid red;
     width: 30px;
     height: 200px;
 }
@@ -135,9 +138,8 @@ p {
     height: fit-content;
 }
 
-.editor__right {
-    width: 30%;
-    height: 400px;
+.editor__right, .author__box {
+    width: 27%;
 }
 
 .editor__left {
@@ -151,5 +153,126 @@ p {
 .test{
     width: 100%;
     height: 200px;
-    border: 1px solid red;
+}
+
+.big__box__div {
+    position: relative;
+    width: 95%;
+}
+
+.big__box__div:hover {
+    filter: brightness(1.1);
+}
+.big__box__img {
+    width: 100%;
+    height: 90%;
+    margin: 0px;
+    filter: brightness(0.7);
+}
+
+.big__box__title {
+    position: absolute;
+    bottom: 20%;
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+    margin-left: 20px;
+    position: absolute;
+}
+
+.big__box__description {
+    color: white;
+    position: absolute;
+    bottom: 10%;
+    padding: 0px 10px;
+    margin: 20px;
+    border-left: 3px solid red;
+}
+
+.bbc__header {
+    color: white;
+    background-color: red;
+    font-size: 23px;
+    text-align: left;
+    height: 20px;
+    line-height: 20px;
+    padding: 10px;
+    width: 95%;
+}
+
+.latest__news {
+    width: 100%;
+    display: flex;
+    height: fit-content;
+    justify-content: start;
+    align-items: center;
+    text-align: center;
+    background-color: #2f3640;
+    border: 1px solid #646464;
+}
+
+.author__box {
+    margin-left: 50px;
+}
+.latest__news:hover {
+    filter: brightness(0.8);
+}
+
+.latest__num {
+    width: 20px;
+    height: 20px;
+    background-color: red;
+    color: white;
+    border-radius: 50%;
+    padding: 10px;
+    margin: 10px;
+}
+
+.latest__News__para {
+    text-align: left;
+    display: flex;
+    padding: 15px ;
+    color: white;
+    font-size: 20px;
+}
+
+.author__div {
+    display: flex;
+    background-color: #2f3640;
+    border: 1px solid #646464;
+    
+}
+
+.author__img {
+    width: 50px;
+    border-radius: 50%;
+    margin: 20px;
+}
+
+.author__info {
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    text-align: left;
+    justify-content: center;
+}
+
+.author__name {
+    text-align: left;
+    color: rgb(201, 201, 201);
+    font-size: 13px;
+}
+
+.author__article {
+    font-size: 18px;
+    color: rgb(201, 201, 201);
+}
+
+.author__div:hover {
+    filter: brightness(0.8);
+}
+
+.author__article:hover {
+    color: rgb(255, 255, 255);
+    filter: brightness(1);
 }
