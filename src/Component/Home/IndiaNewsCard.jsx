@@ -10,7 +10,7 @@ const IndiaNewsCard = () => {
     const indiaNews = useSelector(state => state.app.indiaNews)
     const indiaDataSet = indiaNews.splice(1,4)
 
-    console.log(indiaDataSet)
+    // console.log(indiaDataSet)
     useEffect(()=> {
         dispatch(fetchIndiaNews())
     }, [dispatch])

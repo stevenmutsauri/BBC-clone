@@ -6,13 +6,14 @@ import { CoronaNewsCard } from '../Component/Home/CoronaNewsCard';
 import { EditorCard } from '../Component/Home/EditorCard';
 import Future from '../Component/Home/Future';
 import {IndiaNewsCard} from '../Component/Home/IndiaNewsCard'
+import { MoreAroundBBC } from '../Component/Home/MoreAroundBBC';
 import Reel from '../Component/Home/Reel';
 import Welcome from '../Component/Home/Welcome';
 import World from '../Component/Home/World';
 const Home = () => {
     return (
-        <div> 
-            <Welcome/>   
+        <div>    
+            <Welcome/>
             <NewsCard />
             <CoronaNewsCard />
             <Reel/>
@@ -20,8 +21,9 @@ const Home = () => {
             <EditorCard />
             <Future/>
             <Business/>
-            <World/>
+            <MoreAroundBBC />
             <Business2/>
+            <World/>
         </div>
     )
 }
