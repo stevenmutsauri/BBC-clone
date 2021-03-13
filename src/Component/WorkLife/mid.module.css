@@ -1,0 +1,23 @@
+.main{
+    widows: 100%;
+    height:400px;
+    border:1px solid black;
+    margin: 10px 0px;
+    position: relative;
+}
+.main>img{
+    z-index: 0;
+}
+.centerdiv{
+    z-index: 1;
+    width:40%;
+    height:350px;
+    margin:-380px 450px;
+    position: absolute;
+    /* border:1px solid white; */
+    color:white;
+    font-weight: bold;
+}
+img:hover{
+    filter:brightness(40%)
+}

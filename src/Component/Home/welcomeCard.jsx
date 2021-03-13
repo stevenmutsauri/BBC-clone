@@ -1,5 +1,6 @@
 import React from "react"
 import styles from "./welcomecard.module.css"
+import {WeatherForecast} from "./WeatherForecast"
 const WelcomeCard = ({data})=>{
     const date = new Date()
     const day = date.getDay()
@@ -19,6 +20,7 @@ const WelcomeCard = ({data})=>{
                 <div style={{textAlign:"left",margin:"35px auto",fontSize:"30px",fontWeight:"bolder",color:"rgb(74,74,74)",display:"flex",justifyContent:"space-between",width:"92%"}}>
                     <p>Welcome to BBC.com</p>
                      <p>{dd +"/"+ mnth+"/"+year}</p>
+                     {/* <WeatherForecast/> */}
                 </div>
                 <div className={styles.outermain}>
 
