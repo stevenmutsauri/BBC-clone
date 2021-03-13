@@ -2,10 +2,11 @@ import React from "react"
 import styles from "./future.module.css"
 import { BiChevronRight, BiArrowFromRight } from "react-icons/bi";
 const FutureCard = ({data})=>{
-    console.log(data)
+    // const {item} = data
     return(
         <>
-        {data[0] !== undefined && (<div className={styles.main}>
+
+        { data.length!==0 && (<div className={styles.main}>
             
                 <img src = "https://ychef.files.bbci.co.uk/976x549/p0836dcl.jpg" style={{zIndex:"0",width:"100%",height:"400px"}}/>
                 <div className={styles.top}>
@@ -41,6 +42,7 @@ const FutureCard = ({data})=>{
                 </div>
            
         </div>)}
+
         </>
     )
 }

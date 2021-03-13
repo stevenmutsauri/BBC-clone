@@ -1,5 +1,7 @@
 .imageTag__wrap{
     width: 100%;
+    cursor: pointer;
+    margin: 30px 0;
 }
 
 .imageTag__wrap_img{
@@ -14,8 +16,18 @@
     text-decoration: none;
     font-weight:600;
 }
+.imageTag__wrap:hover{
+   text-decoration: none;
+}
 
 .imageTag__wrap_link:hover{
-    color: rgb(19,128,161);
+    color: rgba(19, 128, 161, 0.911);
+    text-decoration:underline;
+}
+
+
+.largeImageTags:hover{
+    opacity: 0.8;
+    color: rgba(19, 128, 161, 0.911);
     text-decoration:underline;
 }

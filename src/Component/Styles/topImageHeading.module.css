@@ -1,4 +1,5 @@
 .topImageTag__wrap{
+    cursor: pointer;
     width: 100%;
     display: flex;
     justify-content: space-between;

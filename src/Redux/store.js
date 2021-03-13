@@ -1,12 +1,23 @@
+
 import { applyMiddleware, combineReducers, compose, createStore } from "redux"
 import thunk from "redux-thunk"
 import { newsReducer } from "./news/reducer";
 import { weatherReducer } from "./weather/reducer"
 import { reducer as appReducer } from './app/reducer'
+
+import {loginDataSet} from './Auth/Reducer'
+import {reducer as searchReducer} from "./Search/reducer"
+
 const rootReducer = combineReducers({
     weather:weatherReducer,
+    search:searchReducer,
     app: appReducer,
-    news:newsReducer
+    news:newsReducer,
+
+    login:loginDataSet
+
+  
+
 })
 
 let composeEnhancers = compose;
@@ -22,3 +33,4 @@ const enhancer = composeEnhancers(applyMiddleware(thunk));
 // const enhancer = composeEnhancers(applyMiddleware(thunk));
 
 export const store = createStore(rootReducer,enhancer)
+
