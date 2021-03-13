@@ -13,17 +13,17 @@ import World from '../Component/Home/World';
 const Home = () => {
     return (
         <div>    
-            <Welcome/>
-            <NewsCard />
-            <CoronaNewsCard />
-            <Reel/>
-            <IndiaNewsCard />
-            <EditorCard />
-            <Future/>
-            <Business/>
-            <MoreAroundBBC />
-            <Business2/>
-            <World/>
+            {/* <Welcome/> */}
+            {/* <NewsCard /> */}
+            {/* <CoronaNewsCard /> */}
+            {/* <Reel/> */}
+            {/* <IndiaNewsCard /> */}
+            {/* <EditorCard /> */}
+            {/* <Future/> */}
+            {/* <Business/> */}
+            {/* <MoreAroundBBC /> */}
+            {/* <Business2/> */}
+            {/* <World/> */}
         </div>
     )
 }

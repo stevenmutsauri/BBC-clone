@@ -9,7 +9,7 @@ import Account from "../Component/SignPage/Account";
 import Overview from "../Component/SignPage/Overview";
 import SingleReel from "../Component/Reel/SingleReel";
 import PageNot from "./PageNot";
-import Settings from '../Component/SignPage/Setting'
+import Settings from "../Component/SignPage/Setting";
 import Work from "../Component/WorkLife/Work";
 
 import { News } from "./News";
@@ -29,42 +29,44 @@ export default function AllRoutes() {
           <SingleDescription></SingleDescription>
         </Route>
         <Route path="/news" exact>
-             <News />
+          <News />
         </Route>
         <Route path="/reel" exact>
           <ReelPage></ReelPage>
         </Route>
-        <Route path="/videos/:reelId">
+        <Route path="/videos/:reelId" exact>
           <SingleReel></SingleReel>
         </Route>
+
+        <Route path="/Sign">
+          <Sign />
+        </Route>
+        <Route path="/Account" exact>
+          <Account />
+          <Overview />
+        </Route>
+        <Route path="/Account/Overview" exact>
+          <Account />
+          <Overview />
+        </Route>
+        <Route path="/Account/Settings" exact>
+          <Account />
+          <Settings />
+        </Route>
+        <Route path="/Account/Comments" exact>
+          <Account />
+          <h3>Comments</h3>
+        </Route>
+        <Route path="/worklife" exact>
+          <Work />
+        </Route>
+        <Route path="/news/:category-:id" exact>
+          <NewsSingleArticles />
+        </Route>
         <Route>
-            <ReelPage></ReelPage>
+          <PageNot></PageNot>
         </Route>
-     <Route path="/Sign">
-                <Sign/>
-            </Route>
-       <Route path="/Account" exact>
-                <Account/>
-                <Overview/>
-            </Route>
-            <Route path="/Account/Overview" exact>
-                <Account/>
-                <Overview/>
-            </Route>
-            <Route path="/Account/Settings">
-            <Account/>
-                <Settings/>
-            </Route>
-            <Route path="/Account/Comments">
-            <Account/>
-                <h3>Comments</h3>
-            </Route>
-            <Route>
-              <Work/>
-            </Route>
-        <Route path="/news/:category-:id" >
-          <NewsSingleArticles/>
-        </Route>
+      </Switch>
     </div>
   );
 }
