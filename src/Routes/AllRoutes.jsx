@@ -10,6 +10,7 @@ import ReelPage from "../Component/Reel/ReelPage";
 import Sign from '../Component/SignPage/Sign'
 import Account from '../Component/SignPage/Account'
 import Overview from '../Component/SignPage/Overview'
+import Settings from '../Component/SignPage/Setting'
 
 
 export default function AllRoutes() {
@@ -44,7 +45,7 @@ export default function AllRoutes() {
             </Route>
             <Route path="/Account/Settings">
             <Account/>
-                <h3>Settings</h3>
+                <Settings/>
             </Route>
             <Route path="/Account/Comments">
             <Account/>
