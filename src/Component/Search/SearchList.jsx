@@ -6,7 +6,7 @@ import PaginationS from "../SearchPagination/PaginationS";
 import SearchBar from "./SearchBar";
 import SearchSingleArticle from "./SearchSingleArticle";
 import style from "../Styles/searchBlue.module.css";
-import Skeleton from "react-loading-skeleton";
+// import Skeleton from "react-loading-skeleton";
 export default function SearchList() {
   const isLoading = useSelector((state) => state.search.isLoading);
   const isError = useSelector((state) => state.search.isError);
