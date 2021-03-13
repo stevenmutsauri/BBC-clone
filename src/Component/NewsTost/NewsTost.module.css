@@ -1,0 +1,15 @@
+.toast__div {
+    display: flex;
+    align-items: flex-start;
+}
+
+.toast__logo {
+    width: 35px;
+    height: 18px;
+    margin-right: 10px;
+}
+
+.toast__title {
+    color: black;
+    text-align: left;
+}

@@ -11,6 +11,8 @@ p {
 .commonCard__div {
     margin: 60px;
     margin-top: 0px;
+    min-height: 500px;
+    height: fit-content;
 }
 
 .box__div {

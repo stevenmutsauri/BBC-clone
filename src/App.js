@@ -15,18 +15,19 @@ import Business2 from './Component/Home/Business2';
 import World from './Component/Home/World';
 import { BannerAd } from './Component/Advertisement/BannerAd';
 import { PopupAd } from './Component/Advertisement/PopupAd';
+import { NewsTost } from './Component/NewsTost/NewsTost';
 
 
 function App() {
   return (
     <div className="App">
      <Navbar/>
-      <AllRoutes/>
-      <BannerAd />
+     <NewsTost />
+     <BannerAd />
       <PopupAd />
+      <AllRoutes/>
       <Home/>
      <Footer/>
-     
      {/* <SmallNewsCards/> */}
      <br/>
      {/* <MediaImage/> */}
