@@ -1,6 +1,6 @@
 import React from "react";
-import { useParams } from "react-router";
-import { useSelector, useDispatch } from "react-redux";
+import { useLocation, useParams } from "react-router";
+import { useSelector,useDispatch } from "react-redux";
 import SingleDescLeft from "./SingleDescLeft";
 import style from "../Styles/singleDescription.module.css";
 import { Link } from "react-router-dom";
@@ -9,27 +9,36 @@ import { getSearchFetchData } from "../../Redux/Search/action";
 
 export default function SingleDescription() {
   const searchList = useSelector((state) => state.search.searchList);
-  const dispatch = useDispatch();
-  const { singleId } = useParams();
-  console.log(searchList);
+  const dispatch = useDispatch()
+  
+ 
+  const { cat,singleId } = useParams();
+  console.log("vamshi")
+  console.log(singleId)
+  // const location=useLocation()
+  
   var list = [...searchList];
-  const [single, setSingle] = React.useState("");
-  React.useEffect(() => {
-    (async () => {
-      await dispatch(getSearchFetchData(""));
-    })();
-  }, []);
+  const [single,setSingle] = React.useState("")
+  React.useEffect(()=>{
+    (async ()=>{
 
-  React.useEffect(() => {
+    
+    await dispatch(getSearchFetchData(""))
+    
+  })()
+
+  },[])
+
+  React.useEffect(()=>{
     let _single = list?.filter((item) => {
       if (item.id == singleId) {
         return true;
       }
     })[0];
-    setSingle(_single);
-    console.log("single");
-    console.log(_single);
-  }, [searchList]);
+    setSingle(_single)
+    // console.log("single")
+    // console.log(_single)
+  },[searchList])
 
   const desc1 = single && single.description.split(".");
   const desc2 = single && single.description.split(".");
@@ -63,7 +72,7 @@ export default function SingleDescription() {
   })[0];
   arr.push(right1, right2, right3);
   arr = arr.filter((item) => item != undefined);
-  console.log(arr);
+  // console.log(arr);
 
   const desc4 =
     arr.length > 0 &&
@@ -71,7 +80,7 @@ export default function SingleDescription() {
       (item) =>
         item.article_data && item.article_data[0].sub_description.split(".")
     );
-  console.log("hello");
+  // console.log("hello");
   // console.log(desc4);
 
   // console.log(desc1);
@@ -86,7 +95,7 @@ export default function SingleDescription() {
   };
 
   const features = [...searchList].reverse().splice(1, 7);
-  console.log(features);
+  // console.log(features);
 
   const mostRead = [...searchList].splice(1, 8);
 
@@ -100,7 +109,7 @@ export default function SingleDescription() {
             desc2={desc1}
             desc3={desc3}
           ></SingleDescLeft>
-
+          
           <div className={style.singleDesc__right}>
             <div className={style.singleDesc__right__sec1}>
               <div></div>
@@ -146,18 +155,12 @@ export default function SingleDescription() {
               {mostRead?.map((item, i) => (
                 <>
                   <div className={style.mostread__unit}>
-                    <Link
-                      to={"/singleArticle/" + item.id}
-                      className={style.mostread__text}
-                    >
-                      <div className={style.mostread__text}>
-                        {item.headline}
-                      </div>
-                      <div className={style.mostread__text2}>{i + 1}</div>
-                    </Link>
+                   <Link to={"/singleArticle/"+item.id} className={style.mostread__text}><div  className={style.mostread__text}>{item.headline}</div>
+                    <div  className={style.mostread__text2}>{i + 1}</div></Link>
                   </div>
-                  <div className={style.mostread__line}></div>
-                </>
+                    <div className={style.mostread__line}></div>
+                  </>
+                
               ))}
             </div>
           </div>

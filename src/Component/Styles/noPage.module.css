@@ -1,0 +1,41 @@
+.nopage__wrap{
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+}
+
+.nopage__img{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+}
+.blue{
+    background-color: #2daae0;
+    height: 100px;
+    
+    
+}
+.blue>div{
+    color: white;
+    font-size: 30px;
+    font-weight: 700;
+    text-align: left;
+    margin-left: 200px;
+   padding-top: 20px;
+}
+.empty{
+    height: 200px;
+    background-color: white;
+}
+.no__page__wrap>div{
+    margin: 10px;
+}
+.nopage__search{
+    text-align: center;
+   
+}
+.nopage__search .search__icon{
+    position: relative !important;
+    top: 100px !important;
+}

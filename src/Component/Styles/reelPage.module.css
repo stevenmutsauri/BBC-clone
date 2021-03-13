@@ -22,7 +22,7 @@
     margin: 15px;
 }
 .reel__img{
-    margin-top: 20px;
+    margin-top: 30px;
     max-width:500px;
     height: 400px;
 }
@@ -34,11 +34,11 @@
     /* color: white; */
     display: flex;
     flex-direction: column;
-    justify-content: flex-start;
-    align-items: center;
+    /* justify-content: flex-start;
+    align-items: center; */
     text-align: left;
-    position: relative;
-    top: -150px;
+    position: absolute;
+    top: 280px;
     left: 20px;
     color: white;
     margin: 10px;
@@ -70,5 +70,19 @@
     align-items: center;
     position: relative;
     
+    
 }
+.reel__wrap>div>div{
+    margin: 10px;
+}
+.single__image{
+    text-decoration: none;
 
+}
+.image__parent{
+    position: relative;
+}
+.image__parent>div>img:hover{
+cursor: pointer;
+
+}

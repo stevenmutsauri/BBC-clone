@@ -16,7 +16,7 @@ export default function SearchList() {
   const searchList = useSelector((state) => state.search.searchList);
   let totalPages = Math.ceil(searchList.length / perPage);
   const location = useLocation();
-  console.log(location);
+  // console.log(location);
   const searchQ = location.search;
   const currentPage =
     searchQ.split("page").length > 1

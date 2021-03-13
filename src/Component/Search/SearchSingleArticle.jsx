@@ -11,6 +11,10 @@ export default function SearchSingleArticle({item,isLoading}) {
   var search=location.search
   console.log(search)
   
+  
+ 
+
+  
   return (
     <div className={style.single__article}>
       {!isLoading?
@@ -18,7 +22,7 @@ export default function SearchSingleArticle({item,isLoading}) {
      
       <div className={style.single__article__text}>
         <div>
-         <Link to={"/singleArticle/"+item.id} className={style.single__article__heading}><p>{!isLoading?item.headline:<Skeleton count={2}/>}</p></Link>
+         <Link to={`/news/${item.id}`} className={style.single__article__heading}><p>{!isLoading?item.headline:<Skeleton count={2}/>}</p></Link>
           <p>{!isLoading?item.article_data[0].sub_title:
           <Skeleton count={1}/>}
           </p>
