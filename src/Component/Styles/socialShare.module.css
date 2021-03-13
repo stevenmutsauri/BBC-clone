@@ -1,0 +1,12 @@
+.shareBtn{
+    width: 40px;
+    height: 40px;
+    background-color: rgba(0, 0, 255, 0.747);
+   border: none;
+   outline: none;
+   border-radius: 4px;
+   margin-bottom: 20px;
+}
+.shareBtn:hover{
+    cursor: pointer;
+}

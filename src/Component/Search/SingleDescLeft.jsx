@@ -1,18 +1,26 @@
 import React from 'react'
-import { Link } from "react-router-dom";
+import { Link, useLocation, useParams } from "react-router-dom";
 import { BiTime } from 'react-icons/bi';
 import style from "../Styles/singleDescription.module.css";
+import SocialShare from './socialShare';
+
 
 
 
 
 export default function SingleDescLeft({single,desc1,desc2,desc3}) {
+  const location=useLocation()
+  console.log(location)
+  let singleId="https://bbc-clone.herokuapp.com"+location.pathname
+  console.log("shareId"+ singleId)
     return (
         <div>
              {single &&  <div>
         <h1 className={style.single__head1}>{single.headline}</h1>
+
         <p > <span className={style.single__icon}><BiTime/></span> <span className={style.icon__text}>{single.published_at}</span></p>
         <div className={style.left__line} ></div>
+        <SocialShare shareId={singleId}></SocialShare>
         <img className={style.single__img} src={single.img[0].img_url} alt="img" />
         <h4  className={style.single__head4} >{single.article_data[0].sub_title}</h4>
         <div className={style.singleItem__desc}>

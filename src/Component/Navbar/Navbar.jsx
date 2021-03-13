@@ -11,7 +11,7 @@ const {data_auth,isAuth}=useSelector(state=>state.login)
 const linkLeft = [
   {
     to: "/",
-    title: "BBC",
+    title: "",
   },
   {
     to: !isAuth?"/Sign":"/Account",
@@ -68,6 +68,7 @@ const linkMiddle = [
         <div>
           {linkLeft?.map(({ to, title }, index) => (
             <Link className={style.navBar__left} to={to}>
+              {index==0 && <img className={style.bbclogo} src="/bbclogo.png" alt=""/>}
               {title}
             </Link>
           ))}

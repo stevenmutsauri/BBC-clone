@@ -4,9 +4,11 @@ import SingleDescription from "../Component/Search/SingleDescription";
 import SearchListPage from "./SearchListPage";
 import { Home } from "./Home";
 import ReelPage from "../Component/Reel/ReelPage";
-import Sign from '../Component/SignPage/Sign'
-import Account from '../Component/SignPage/Account'
-import Overview from '../Component/SignPage/Overview'
+import Sign from "../Component/SignPage/Sign";
+import Account from "../Component/SignPage/Account";
+import Overview from "../Component/SignPage/Overview";
+import SingleReel from "../Component/Reel/SingleReel";
+import PageNot from "./PageNot";
 import Settings from '../Component/SignPage/Setting'
 import Work from "../Component/WorkLife/Work";
 
@@ -23,13 +25,19 @@ export default function AllRoutes() {
         <Route path="/search" exact>
           <SearchListPage></SearchListPage>
         </Route>
-        <Route path="/singleArticle/:singleId" exact>
+        <Route path="/news/:singleId" exact>
           <SingleDescription></SingleDescription>
         </Route>
         <Route path="/news" exact>
              <News />
         </Route>
         <Route path="/reel" exact>
+          <ReelPage></ReelPage>
+        </Route>
+        <Route path="/videos/:reelId">
+          <SingleReel></SingleReel>
+        </Route>
+        <Route>
             <ReelPage></ReelPage>
         </Route>
      <Route path="/Sign">
@@ -54,7 +62,6 @@ export default function AllRoutes() {
             <Route>
               <Work/>
             </Route>
-         
         <Route path="/news/:category-:id" >
           <NewsSingleArticles/>
         </Route>

@@ -1,0 +1,88 @@
+.most__watched{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top:50px;
+   
+    
+
+}
+.most__part1{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin:10px
+}
+.most__part1>div:nth-child(1),.most__part1>DIV:nth-child(3){
+    background-color: rgba(128, 128, 128, 0.432);
+    width: 100px;
+    height: 2px;
+    margin: 15px;
+}
+.reel__img{
+    margin-top: 30px;
+    max-width:500px;
+    height: 400px;
+}
+.most__part1>h1{
+    color: rgba(0, 0, 0, 0.699);
+    min-height: 40px;
+}
+.image__text{
+    /* color: white; */
+    display: flex;
+    flex-direction: column;
+    /* justify-content: flex-start;
+    align-items: center; */
+    text-align: left;
+    position: absolute;
+    top: 280px;
+    left: 20px;
+    color: white;
+    margin: 10px;
+    min-height: 130px;
+    cursor: pointer;
+  
+}
+.image__text>div:nth-child(1){
+    font-size: 15px;
+
+}
+.image__text>div:nth-child(2){
+    height: 120px;
+
+}
+.image__text>h1{
+  font-size: 30px;
+  max-width: 500px;
+}
+.watchnow{
+    position: relative;
+    top: -5px;
+}
+.reel__wrap{
+    display: flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    
+    
+}
+.reel__wrap>div>div{
+    margin: 10px;
+}
+.single__image{
+    text-decoration: none;
+
+}
+.image__parent{
+    position: relative;
+}
+.image__parent>div>img:hover{
+cursor: pointer;
+
+}

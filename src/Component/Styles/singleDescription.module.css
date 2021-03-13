@@ -1,6 +1,8 @@
 .singleDescription__page {
   display: flex;
   flex-direction: row;
+  min-height: 700px;
+  max-height: 5800px;
 }
 .singleDescription__page > div:nth-child(1) {
   width: 70%;
