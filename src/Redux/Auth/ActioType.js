@@ -1,15 +1,8 @@
-import { LOGIN_DATA, LOGIN_SUCCESS } from "./Action"
-
-export const loginData=(payload)=>{
-    return {
-        type: LOGIN_DATA,
-        payload
-    }
-}
-
-export const loginSuccess=(payload)=>{
-    return {
-        type: LOGIN_SUCCESS,
-        payload
-    }
-}
+export const LOGIN_DATA = "LOGIN_DATA"
+export const LOGIN_SUCCESS="LOGIN_SUCCESS"
+export const POST_NEWS_DATA_REQUEST = "POST_NEWS_DATA_REQUEST"
+export const POST_NEWS_DATA_SUCCESS = "POST_NEWS_DATA_SUCCESS"
+export const POST_NEWS_DATA_FAILURE = "POST_NEWS_DATA_FAILURE"
+export const GET_NEWS_DATA_REQUEST = "GET_NEWS_DATA_REQUEST"
+export const GET_NEWS_DATA_SUCCESS = "GET_NEWS_DATA_SUCCESS"
+export const GET_NEWS_DATA_FAILURE = "GET_NEWS_DATA_FAILURE"
