@@ -5,7 +5,7 @@ const LargeImageTags = ({data}) => {
     const dataTop = data[0]
     const history = useHistory()
     const handleClick = (id,category,) => {
-        return history.push(`/news/${category}-${id}`)
+        return history.push(`/news/${id}`)
     }
     return dataTop ? (
             <div className={styles.largeImageTags} onClick={(e) => handleClick(dataTop.id,dataTop.category)}>

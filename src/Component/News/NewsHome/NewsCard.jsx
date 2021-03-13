@@ -15,7 +15,7 @@ const NewsCard = ({data}) => {
 
        const history = useHistory()
        const handleClick = (id,category,) => {
-           return history.push(`/news/${category}-${id}`)
+           return history.push(`/news/${id}`)
        }
     return (
         <div className={styles.newsCard_Wrapper} >

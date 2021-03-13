@@ -5,7 +5,7 @@ import styles from "../../Styles/smallImageTags.module.css"
 const SmallImageTags = ({data}) => {
     const history = useHistory()
        const handleClick = (id,category,) => {
-           return history.push(`/news/${category}-${id}`)
+           return history.push(`/news/${id}`)
        }
     return (
         <div className={styles.smallTag__wrapper}  >
