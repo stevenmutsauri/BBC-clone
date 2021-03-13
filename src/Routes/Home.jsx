@@ -10,7 +10,6 @@ import Reel from '../Component/Home/Reel';
 import Welcome from '../Component/Home/Welcome';
 import World from '../Component/Home/World';
 const Home = () => {
-
     return (
         <div> 
             <Welcome/>   

@@ -1,14 +1,16 @@
 import React from 'react'
 import { IoMdTime } from 'react-icons/io'
-import { Link } from 'react-router-dom'
+import { Link, useHistory } from 'react-router-dom'
 import styles from "../../Styles/topImageHeading.module.css"
 
 const TopImageHeading = ({data,getHrsAgo}) => {
     const dataTop = data[0]
-    
-
-    return (
-            <>
+    const history = useHistory()
+    const handleClick = (id,category,) => {
+        return history.push(`/news/${category}-${id}`)
+    }
+    return dataTop ? (
+            <div  onClick={(e) => handleClick(dataTop.id,dataTop.category)}>
                 {dataTop?.img.map((item,i) => i=== 0 && (
                     <div key ={i} className={styles.topImageTag__wrap}   >
                         
@@ -21,7 +23,7 @@ const TopImageHeading = ({data,getHrsAgo}) => {
                         <img src={item.img_url} className={styles.topImageTag__wrap_img} alt="imagetag" />
                     </div>
                 ))}
-            </>)
+            </div>) : null
 }
 
 export  {TopImageHeading}
