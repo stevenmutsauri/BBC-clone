@@ -87,7 +87,10 @@ const WelcomeCard = ({data})=>{
                                 </div>
                             </div>
                     </div>
+            
+
                 </div>
+              
            </> )}
         </>
     )

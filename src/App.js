@@ -14,15 +14,20 @@ import Future from './Component/Home/Future';
 import Business from './Component/Home/Business';
 import Business2 from './Component/Home/Business2';
 import World from './Component/Home/World';
+import { bindActionCreators } from 'redux';
 
+import { NewsTost } from './Component/NewsTost/NewsTost'
 
 
 function App() {
   return (
     <div className="App">
      <Navbar/>
+     
+      <NewsTost />
+      {/* <NewsTost/> */}
       <AllRoutes/>
-      <Home/>
+      {/* <Home/> */}
      <Footer/>
      
 

@@ -60,9 +60,9 @@ export default function AllRoutes() {
         <Route path="/worklife" exact>
           <Work />
         </Route>
-        <Route path="/news/:category-:id" exact>
+        {/* <Route path="/news/:id" exact>
           <NewsSingleArticles />
-        </Route>
+        </Route> */}
         <Route>
           <PageNot></PageNot>
         </Route>

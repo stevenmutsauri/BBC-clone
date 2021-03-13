@@ -140,9 +140,9 @@ function Sign() {
                 </form>
                 </>:<><h2>Created Successfully</h2><button onClick={handleContinue}>Continue</button></>}
             </div>
-            {exit && <Redirect to="/"/>}
+            {exit && <Redirect to="/news"/>}
         </div>
-    ):<Redirect to="/"/>
+    ):<Redirect to="/news"/>
 }
 
 export default Sign

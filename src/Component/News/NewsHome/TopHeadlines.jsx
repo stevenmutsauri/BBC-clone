@@ -6,7 +6,7 @@ import styles from "../../Styles/topHeadlines.module.css"
 const TopHeadlines = ({data}) => {
     const history = useHistory()
     const handleClick = (id,category,) => {
-        return history.push(`/news/${category}-${id}`)
+        return history.push(`/news/${id}`)
     }
     const getHrAgo=()=>{
         var min = 1;

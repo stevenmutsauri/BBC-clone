@@ -10,6 +10,7 @@ function Account() {
         dispatch(loginData([]))
         dispatch(loginSuccess(false))
     }
+    
     return (
         <div className={"account_bar"}>
             <div className={"your_account"}>

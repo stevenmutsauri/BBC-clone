@@ -1,44 +1,42 @@
 import React from "react";
 import { useLocation, useParams } from "react-router";
-import { useSelector,useDispatch } from "react-redux";
+import { useSelector, useDispatch } from "react-redux";
 import SingleDescLeft from "./SingleDescLeft";
 import style from "../Styles/singleDescription.module.css";
 import { Link } from "react-router-dom";
 import { BiTime } from "react-icons/bi";
 import { getSearchFetchData } from "../../Redux/Search/action";
-
+import Skeleton from "react-loading-skeleton";
+import { getNewsDataPost } from "../../Redux/Auth/Action";
 export default function SingleDescription() {
   const searchList = useSelector((state) => state.search.searchList);
-  const dispatch = useDispatch()
-  
- 
-  const { cat,singleId } = useParams();
-  console.log("vamshi")
-  console.log(singleId)
-  // const location=useLocation()
-  
+  const isLoading = useSelector((state) => state.search.isLoading);
+  const adminAuthData =  useSelector((state) => state.login.adminAuthData);
+  console.log("admin auth data")
+  console.log(adminAuthData)
+  const dispatch = useDispatch();
+
+  const { singleId } = useParams();
+
   var list = [...searchList];
-  const [single,setSingle] = React.useState("")
-  React.useEffect(()=>{
-    (async ()=>{
+  const [single, setSingle] = React.useState("");
+  React.useEffect(() => {
+    (async () => {
+      await dispatch(getSearchFetchData(""));
+      await dispatch(getNewsDataPost())
+    })();
+  }, [singleId]);
 
-    
-    await dispatch(getSearchFetchData(""))
-    
-  })()
-
-  },[])
-
-  React.useEffect(()=>{
+  React.useEffect(() => {
     let _single = list?.filter((item) => {
       if (item.id == singleId) {
         return true;
       }
     })[0];
-    setSingle(_single)
+    setSingle(_single);
     // console.log("single")
     // console.log(_single)
-  },[searchList])
+  }, [searchList]);
 
   const desc1 = single && single.description.split(".");
   const desc2 = single && single.description.split(".");
@@ -99,7 +97,9 @@ export default function SingleDescription() {
 
   const mostRead = [...searchList].splice(1, 8);
 
-  return (
+  return isLoading ? (
+    <Skeleton  width="100vw" height="500vh"/>
+  ) : (
     <>
       {single && (
         <div className={style.singleDescription__page}>
@@ -109,15 +109,36 @@ export default function SingleDescription() {
             desc2={desc1}
             desc3={desc3}
           ></SingleDescLeft>
-          
+
           <div className={style.singleDesc__right}>
             <div className={style.singleDesc__right__sec1}>
               <div></div>
-              <h2>Top Stories</h2>
+              <h2>Latest Stories</h2>
+              {adminAuthData?.map((item) => (
+                <div>
+                  <Link
+                    to={"/news/" + item.id}
+                    className={style.single__topStories}
+                  >
+                    {" "}
+                    <div className={style.single__topStories}>
+                      {item && item.headline}
+                    </div>
+                  </Link>
+                  <div className={style.singleTime}>
+                    <span className={style.singleTime__icon}>
+                      <BiTime />
+                    </span>{" "}
+                    {getHrAgo()}
+                  </div>
+                </div>
+              ))}
+
+
               {arr?.map((item) => (
                 <div>
                   <Link
-                    to={"/singleArticle/" + item.id}
+                    to={"/news/" + item.id}
                     className={style.single__topStories}
                   >
                     {" "}
@@ -141,7 +162,7 @@ export default function SingleDescription() {
                 <>
                   <img src={item.img[0].img_url} alt="" />
                   <Link
-                    to={"/singleArticle/" + item.id}
+                    to={"/news/" + item.id}
                     className={style.single__topStories}
                   >
                     <div>{item.headline}</div>
@@ -155,12 +176,18 @@ export default function SingleDescription() {
               {mostRead?.map((item, i) => (
                 <>
                   <div className={style.mostread__unit}>
-                   <Link to={"/singleArticle/"+item.id} className={style.mostread__text}><div  className={style.mostread__text}>{item.headline}</div>
-                    <div  className={style.mostread__text2}>{i + 1}</div></Link>
+                    <Link
+                      to={"/news/" + item.id}
+                      className={style.mostread__text}
+                    >
+                      <div className={style.mostread__text}>
+                        {item.headline}
+                      </div>
+                      <div className={style.mostread__text2}>{i + 1}</div>
+                    </Link>
                   </div>
-                    <div className={style.mostread__line}></div>
-                  </>
-                
+                  <div className={style.mostread__line}></div>
+                </>
               ))}
             </div>
           </div>

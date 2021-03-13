@@ -1,8 +1,15 @@
 .weather__wrapper{
     display: flex;
     flex-direction: column;
+    justify-content: flex-start;
+    margin-left: 100px;
     text-align: left;
-    margin-left: 30px ;
+    width: fit-content;
+  
+}
+.weather__topBox__h3{
+    margin:-30px 5px;
+    color: rgba(0, 0, 0, 0.548);
 }
 
 .weather__topBox{
@@ -26,4 +33,6 @@
     color: #8c8c8c;
     margin-left: 1rem;
     transform: translateY(-50%);
+    
+   
 }

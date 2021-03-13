@@ -1,13 +1,15 @@
-import React from 'react'
-import { NewsMain } from '../Component/News/NewsHome/NewsMain'
-
+import React from "react";
+import { NewsMain } from "../Component/News/NewsHome/NewsMain";
+import { BannerAd} from '../Component/Advertisement/BannerAd';
+import { PopupAd } from '../Component/Advertisement/PopupAd';
 const News = () => {
-    
-    return (
-        <div>
-            <NewsMain/>
-        </div>
-    )
-}
+  return (
+    <div>
+      <BannerAd />
+      <PopupAd />
+      <NewsMain />
+    </div>
+  );
+};
 
-export  {News}
+export { News };
