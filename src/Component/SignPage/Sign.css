@@ -1,114 +1,137 @@
-.login_box{
-    width: 400px;
-    margin: 50px;
-    margin-left: 150px;
-    margin-bottom: 0px;
-    font-size: 25px;
-    font-style: bold;
-    padding: 30px;
-    background-color: #fff;
-    text-align: left;
-  }
-  
-  .login_box>form>input,.login_box>form>select{
-    margin-top:20px;
-    margin-bottom:30px;
-    width: 380px;
-    height: 50px;
-    font-size: 25px;
-    border:none;
-    border-bottom: 2px solid black;
-  }
-  
-  
-  .login_box>img{
-    height: 50px;
-    width:150px;
-  }
-  
-  .sign_btn{
-    background-color: #4267B2;
-    color: white;
-    font-size: 20px;
-  }
-  .login_box h6{
-    margin-top: 0px;
-  }
-  .signin_back{
-    background-image: url('https://ichef.bbci.co.uk/images/ic/800xn/p092shyv.jpg');
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: 100%;
-  }
-  .verify_data{
-    font-size: 10px;
-    color: red;
-  }
-  .exit_btn{
-    text-align: right;
-    margin-right: 20px;
-  }
-  .exit_btn>button{
-    padding: 5px;
-    width: 50px;
-    height: 50px;
-    font-size: 35px;
-  }
-
-
-  .login_box>button{
-    background-color: none;
-    border: none;
-    color: blue;
-    cursor: pointer;
-  }
-
-
-  .account_bar{
-    font-size: 20px;
-    height: 35px;
-    padding: 15px;
-    background-color:rgb(43, 43, 131);
-    color:white;
-    text-align: right;
-    display: grid;
-    grid-template-columns: 50% 50%;
-    padding-right: 60px;
-  }
-  .account_link{
-    text-decoration: none;
-    padding: 25px;
-    height: 20px;
-    margin-bottom: 20px;
-    color: white;
-    border-right: 2px solid white;
-    
-  }
-.your_account{
+.login_box,.data_personal,.post_data{
+  width: 400px;
+  margin: 50px;
+  margin-left: 150px;
+  margin-bottom: 0px;
+  font-size: 25px;
+  font-style: bold;
   text-align: left;
-  padding-left:40px ;
+  padding: 30px;
+  /* line-height: 20px; */
+  background-color: #fff;
+}
+
+.post_data>form>textarea,.login_box>form>input,.login_box>form>select,.data_personal>input,.post_data>form>input,.post_data>form>label,.post_data>form>select{
+  margin-top:20px;
+  margin-bottom:30px;
+  width: 380px;
+  height: 50px;
+  font-size: 25px;
+  border:none;
+  border-bottom: 2px solid black;
+}
+
+.post_data>form>label{
+  border-bottom: none;
+}
+.post_data>form>textarea{
+  border: 1px solid black;
+  height: 100px;
+}
+.login_box>img{
+  height: 50px;
+  width:150px;
+}
+
+.sign_btn,.cancel_btn,.delete_btn,.post_data_submit{
+  background-color: #4267B2;
+  color: white;
+  font-size: 20px;
+}
+.login_box h6{
+  margin-top: 0px;
+}
+.signin_back{
+  background-image: url('https://ichef.bbci.co.uk/images/ic/800xn/p092shyv.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100%;
+}
+.verify_data{
+  font-size: 10px;
+  color: red;
+}
+.exit_btn{
+  text-align: right;
+  margin-right: 20px;
+}
+.exit_btn>button{
+  padding: 5px;
+  width: 50px;
+  height: 50px;
+  font-size: 35px;
+}
+
+
+.login_box>button,.dete_btn{
+  background-color: none;
+  border: none;
+  color: blue;
+  cursor: pointer;
+}
+
+
+.account_bar{
+  font-size: 20px;
+  height: 35px;
+  padding: 15px;
+  background-color:rgb(43, 43, 131);
+  color:white;
+  text-align: right;
+  display: grid;
+  grid-template-columns: 50% 50%;
+  padding-right: 60px;
+}
+.account_link{
+  text-decoration: none;
+  padding: 25px;
+  height: 20px;
+  margin-bottom: 20px;
+  color: white;
+  border-right: 2px solid white;
+  
+}
+.your_account{
+text-align: left;
+padding-left:40px ;
 }
 
 .account_link:active{
-  border-bottom: 3px solid white;
+border-bottom: 3px solid white;
 }
-  .Overview_background{
-    background-image: url('https://static.files.bbci.co.uk/account/id-profile/1060/css/img/david-attenborough-16x9-1700x956.jpg');
-    background-repeat: repeat;
-    background-attachment:fixed;
-    background-size: 100%;
-  }
+.Overview_background>img{
+ width: 100%;
+ height: 500px; 
+}
 
-  .Overview_background>div{
-    width:100%;
-    height: 500px;
-  }
+.signout_btn{
+ background:none;
+ border:none;
+ font-size: 18px;
+ color: white;
+ padding-right: 10px;
+ cursor: pointer;
+}
 
- .signout_btn{
-   background:none;
-   border:none;
-   font-size: 18px;
-   color: white;
-   padding-right: 10px;
-   cursor: pointer;
- }
+
+
+
+
+.data_personal{
+ width: 600px;
+ height: 600px;
+ margin: 50px auto;
+}
+.ui>li{
+ font-size: 20px;
+line-height: 25px;
+}
+
+.cancel_btn,.delete_btn{
+ margin: 8px;
+ padding: 5px;
+}
+
+.data_personal{
+ box-shadow: 3px 3px 5px 5px gray ;
+}

@@ -9,6 +9,7 @@ import { NewsCard } from "./NewsCard";
 import { Headings } from "./Headings";
 import { TopImageHeading } from "./TopImageHeading";
 import { TopHeadlines } from "./TopHeadlines";
+import AboveFooter from "./AboveFooter";
 
 const NewsMain = () => {
   const dispatch = useDispatch();
@@ -26,7 +27,7 @@ const NewsMain = () => {
     dispatch(getNewsData());
   }, [dispatch]);
 
-  return (
+  return isLoading ? <div className={styles.junk}></div> :(
     <div className={styles.wrapper}>
       <div>
         <NewsCard data={continentData} />
@@ -86,6 +87,7 @@ const NewsMain = () => {
       </div>
       {/* Sports - Ends */}
 
+      <AboveFooter/>
     </div>
   );
 };

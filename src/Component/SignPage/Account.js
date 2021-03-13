@@ -1,7 +1,7 @@
 import React from 'react'
 import { useDispatch, useSelector } from 'react-redux'
 import { Link, Redirect } from 'react-router-dom'
-import { loginData, loginSuccess } from '../../Redux/Auth/ActioType'
+import { loginData, loginSuccess } from '../../Redux/Auth/Action.js'
 import "./Sign.css"
 function Account() {
     const {isAuth}=useSelector(state=>state.login)

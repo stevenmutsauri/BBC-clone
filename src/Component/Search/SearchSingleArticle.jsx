@@ -10,11 +10,6 @@ export default function SearchSingleArticle({item,isLoading}) {
   console.log(pathname)
   var search=location.search
   console.log(search)
-  
-  
- 
-
-  
   return (
     <div className={style.single__article}>
       {!isLoading?
@@ -26,17 +21,16 @@ export default function SearchSingleArticle({item,isLoading}) {
           <p>{!isLoading?item.article_data[0].sub_title:
           <Skeleton count={1}/>}
           </p>
-        </div>
-       
-        {!isLoading?<div>
-              <div> <span class={style.single__time__icon}><BiTimeFive/></span> {item.published_at}</div>
+        </div>   
+   {!isLoading?<div>
+         <div> <span class={style.single__time__icon}><BiTimeFive/></span> {item.published_at}</div>
             
-            <div>Programmes</div>
-            <div>BBC one</div>
+          <div>Programmes</div>
+           <div>BBC one</div>
             
         </div>:
-        <Skeleton count={1}/>}
-      </div>
-    </div>
+      <Skeleton count={1}/>}
+     </div>
+   </div>
   );
 }

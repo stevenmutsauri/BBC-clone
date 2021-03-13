@@ -15,7 +15,7 @@ const linkLeft = [
   },
   {
     to: !isAuth?"/Sign":"/Account",
-    title:!isAuth? "Your account":`${data_auth[0].name}`,
+    title:!isAuth? "Your account":data_auth[0].category=="admin"?`${data_auth[0].name} *`:`${data_auth[0].name}`,
   },
 ];
 

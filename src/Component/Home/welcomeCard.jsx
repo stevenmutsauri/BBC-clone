@@ -1,30 +1,16 @@
 import React from "react"
 import styles from "./welcomecard.module.css"
+import {WeatherForecast} from "./WeatherForecast"
 const WelcomeCard = ({data})=>{
     const date = new Date()
     const day = date.getDay()
     const month = date.getMonth()
-    const dd = date.getDate()
-    console.log(day,month,dd)
+    const mnth = Number(month)+1
+     const dd = date.getDate()
+    const year = date.getFullYear()
+    console.log(year,month,dd)
 
-    function getDate(month) {
-        switch(month){
-            case 0:{
-                return "January"
-            }
-            case 0:{
-                return "January"
-            }
-            case 0:{
-                return "January"
-            }
-            case 0:{
-                return "January"
-            }
-        }
-    }
-
-    // const item = items
+    
     const handleClick = (e)=>{
         console.log(e.key)
     }
@@ -33,7 +19,8 @@ const WelcomeCard = ({data})=>{
             {data[0]!== undefined && (<>
                 <div style={{textAlign:"left",margin:"35px auto",fontSize:"30px",fontWeight:"bolder",color:"rgb(74,74,74)",display:"flex",justifyContent:"space-between",width:"92%"}}>
                     <p>Welcome to BBC.com</p>
-                     <p>get</p>
+                     <p>{dd +"/"+ mnth+"/"+year}</p>
+                     {/* <WeatherForecast/> */}
                 </div>
                 <div className={styles.outermain}>
 

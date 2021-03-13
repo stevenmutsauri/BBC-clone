@@ -1,5 +1,5 @@
 import React from 'react'
-import {Link} from "react-router-dom"
+import {Link, useHistory} from "react-router-dom"
 import styles from "../../Styles/newsCard.module.css"
 import {IoMdTime} from "react-icons/io"
 import { TopImageHeading } from './TopImageHeading'
@@ -13,17 +13,17 @@ const NewsCard = ({data}) => {
         return rand+"h"
        }
 
-    const handleClick = () => {
-
-
-    }
+       const history = useHistory()
+       const handleClick = (id,category,) => {
+           return history.push(`/news/${category}-${id}`)
+       }
     return (
-        <div className={styles.newsCard_Wrapper}>
-            <div className={styles.newsCard_Wrapper_TopHeading}>
+        <div className={styles.newsCard_Wrapper} >
+            <div className={styles.newsCard_Wrapper_TopHeading} >
                 <TopImageHeading data={data} getHrsAgo={getHrAgo}/>
             </div>
-            {data?.map((item,i) => i >= 1 && i <= 5 && (
-                <div onClick={handleClick} className={styles.news__card}>
+            {data?.map((item,i) => i >= 1 && i <= 6 && (
+                <div onClick={(e) => handleClick(item.id,item.category)} className={styles.news__card}>
                     <div className={styles.news__card_image} >
                     {
                         item.img.map((img,j) => j=== 0 && (
