@@ -1,11 +1,16 @@
 import React from "react"
+import { useLocation } from "react-router"
+import {useSelector} from "react-redux"
 
 
 import styles from "./business.module.css"
 
-const BusinessCard2 = ({data})=>{
-    // const [item] = data
-    console.log(data[34])
+const BusinessCard2 = ()=>{
+    const data = useSelector(state => state.app.data)
+    
+    // console.log(data[34])
+    console.log("BusinessCard2")
+    console.log(data)
 
     return(
 

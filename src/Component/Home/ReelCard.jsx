@@ -9,7 +9,6 @@ const ReelCard = ({data})=>{
 
         {data.length!==0 && (
             <>
-            <WeatherForecast/>
         <div className={styles.main}>
             
                 <img src = "https://ychef.files.bbci.co.uk/1200x675/p08h02kk.jpg" style={{zIndex:"0",width:"100%",height:"400px"}}/>

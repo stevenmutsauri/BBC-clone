@@ -18,6 +18,6 @@
     color:white;
     font-weight: bold;
 }
-img:hover{
+.main__img:hover{
     filter:brightness(40%)
 }

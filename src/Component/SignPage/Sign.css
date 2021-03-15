@@ -46,6 +46,7 @@
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100%;
+  min-height: 100vh;
 }
 .verify_data{
   font-size: 10px;
@@ -88,13 +89,14 @@
   height: 20px;
   margin-bottom: 20px;
   color: white;
-  border-right: 2px solid white;
+  /* border-right: 1px solid rgba(255, 255, 255, 0.308); */
   
 }
 .your_account{
 text-align: left;
 padding-left:40px ;
 }
+
 
 .account_link:active{
 border-bottom: 3px solid white;

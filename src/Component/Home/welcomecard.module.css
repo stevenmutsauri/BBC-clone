@@ -1,5 +1,5 @@
 .innermain1>img:hover, .innermain:hover {
-    filter: brightness(120%);
+    
     z-index: 1;
   }
 .main{

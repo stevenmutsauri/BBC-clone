@@ -35,7 +35,7 @@ function NewsSingleArticles({item,isLoading}) {
      
       <div className={style.single__article__text}>
         <div>
-         <Link to={"/singleArticle/"+singleIdData.id} className={style.single__article__heading}><p>{!isLoadingId?singleIdData.headline:<div count={2}/>}</p></Link>
+         <Link to={"/news/"+singleIdData.id} className={style.single__article__heading}><p>{!isLoadingId?singleIdData.headline:<div count={2}/>}</p></Link>
           <p>{!isLoadingId?singleIdData.article_data[0].sub_title:
           <div count={1}/>}
           </p>

@@ -7,7 +7,7 @@ const TopImageHeading = ({data,getHrsAgo}) => {
     const dataTop = data[0]
     const history = useHistory()
     const handleClick = (id,category,) => {
-        return history.push(`/news/${category}-${id}`)
+        return history.push(`/news/${id}`)
     }
     return dataTop ? (
             <div  onClick={(e) => handleClick(dataTop.id,dataTop.category)}>

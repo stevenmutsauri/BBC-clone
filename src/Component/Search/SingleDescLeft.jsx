@@ -9,6 +9,8 @@ import SocialShare from './socialShare';
 
 
 export default function SingleDescLeft({single,desc1,desc2,desc3}) {
+  
+
   const location=useLocation()
   console.log(location)
   let singleId="https://bbc-clone.herokuapp.com"+location.pathname

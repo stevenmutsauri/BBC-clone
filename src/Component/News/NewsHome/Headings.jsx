@@ -5,8 +5,8 @@ import styles from "../../Styles/headings.module.css"
 const Headings = ({data}) => {
 
     const history = useHistory()
-    const handleClick = (id,category,) => {
-        return history.push(`/news/${category}-${id}`)
+    const handleClick = (id) => {
+        return history.push(`/news/${id}`)
     }
     return (
         <>

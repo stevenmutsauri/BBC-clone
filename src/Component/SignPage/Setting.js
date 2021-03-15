@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import { useDispatch, useSelector } from 'react-redux'
 import axios from 'axios'
-import { loginData, loginSuccess } from '../../Redux/Auth/ActioType'
+import { loginData, loginSuccess } from '../../Redux/Auth/Action'
 import { Redirect } from 'react-router'
 function Setting() {
     const dispatch =useDispatch()
