@@ -4,19 +4,16 @@ import {AiOutlineCloseSquare} from 'react-icons/ai'
 
 const PopupAd = () => {
     const [isPopup, setPopup] = useState(false);
-    const audio = new Audio("https://tgdown.eu-gb.mybluemix.net/4292994105966528/ting.mp3")
     setTimeout(() => {
         setPopup(true)
-        audio.play()
-    }, 10000);
+    }, 5000);
 
     const handleClick = () => {
         setPopup(false)
 
         setTimeout(() => {
             setPopup(true)
-            audio.play()
-        }, 30000);
+        }, 10000);
     }
     return isPopup && (
         <div className={styles.popup__div}>

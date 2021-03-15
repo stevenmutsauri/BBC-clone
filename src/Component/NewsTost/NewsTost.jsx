@@ -31,12 +31,12 @@ const NewsTost = () => {
 
     useEffect(() => {
         setTimeout(() => {
-            // displayMsg()
-        }, 5000);
+            displayMsg()
+        }, 20000);
     }, []);
     return (
       <div>
-        {/* <ToastContainer  transition={Slide}/> */}
+        <ToastContainer  transition={Slide}/>
       </div>
     );
 }
