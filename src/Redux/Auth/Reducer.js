@@ -14,7 +14,6 @@ const intial_login ={
 export const loginDataSet=(state=intial_login,action)=>{
     switch(action.type){
         case LOGIN_DATA :
-            console.log(action.payload)
             return {
                 ...state,
                 data_auth:action.payload
