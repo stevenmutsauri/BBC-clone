@@ -8,7 +8,7 @@ const WelcomeCard = ({data})=>{
     const mnth = Number(month)+1
      const dd = date.getDate()
     const year = date.getFullYear()
-    console.log(year,month,dd)
+    // console.log(year,month,dd)
 
     
     const handleClick = (e)=>{
