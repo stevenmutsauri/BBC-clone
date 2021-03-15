@@ -10,6 +10,9 @@ p {
 
 .commonCard__div {
     margin: 60px;
+    margin-top: 0px;
+    min-height: 500px;
+    height: fit-content;
 }
 
 .box__div {
@@ -266,6 +269,7 @@ p {
 .author__article {
     font-size: 18px;
     color: rgb(201, 201, 201);
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
 .author__div:hover {

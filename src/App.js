@@ -17,6 +17,8 @@ import World from './Component/Home/World';
 import { bindActionCreators } from 'redux';
 
 import { NewsTost } from './Component/NewsTost/NewsTost'
+import { BannerAd } from './Component/Advertisement/BannerAd';
+import { PopupAd } from './Component/Advertisement/PopupAd';
 
 
 function App() {
@@ -24,8 +26,10 @@ function App() {
     <div className="App">
      <Navbar/>
      
-      <NewsTost />
       {/* <NewsTost/> */}
+     <NewsTost />
+     <BannerAd />
+      <PopupAd />
       <AllRoutes/>
       {/* <Home/> */}
      <Footer/>
@@ -34,6 +38,10 @@ function App() {
    
 
 
+     {/* <SmallNewsCards/> */}
+     <br/>
+     {/* <MediaImage/> */}
+     {/* <WeatherForecast/> */}
     </div>
   );
 }
