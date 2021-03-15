@@ -28,8 +28,8 @@ function App() {
      
       {/* <NewsTost/> */}
      <NewsTost />
-     <BannerAd />
-      <PopupAd />
+    
+    
       <AllRoutes/>
       {/* <Home/> */}
      <Footer/>
