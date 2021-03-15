@@ -25,7 +25,7 @@
 2. From Navbar any person can login as Normal user or as Admin if they already has an account, or they can register.
 ![<LoginPage>](<https://tgdown.eu-gb.mybluemix.net/7805555799588800/2021-03-15_10:10:35.jpg>)
 
-3. If user is Admin he can Post Stories from XYZ page.
+3. If user is Admin he can Post Stories from Accounts page.
 ![<LoginPage>](https://tgdown.eu-gb.mybluemix.net/7806895829385152/2021-03-15_10:38:16.jpg)
 
 4. Posted Stories will be displayed as Latest Story in News Page.
