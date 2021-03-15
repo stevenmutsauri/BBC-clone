@@ -18,6 +18,7 @@ function Account() {
             </div>
             <div>
             <Link to={"/Account/Overview"} className={"account_link"}>Overview</Link>
+            
             <Link to={"/Account/Settings"} className={"account_link"}>Settings</Link>
             <Link to={"/Account/Comments"} className={"account_link"}>Comments</Link>
             {isAuth?<button className={"signout_btn"} onClick={handleSignout}>Sign Out</button>:<Redirect to={"/"}/>}
