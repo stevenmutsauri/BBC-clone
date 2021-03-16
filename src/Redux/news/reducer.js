@@ -28,7 +28,7 @@ const newsReducer = (state = initState, {type,payload}) => {
             const sports = payload.filter(item => item.category === "Sports")
             const mostWatched = payload.filter(item => item.category === "Trending" )
             const continent = payload.filter(item => item.category === "UK"  )
-            console.log(continent)
+            // console.log(continent)
             return {
                 ...state,
                 newsData:[...payload],

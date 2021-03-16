@@ -15,7 +15,7 @@ const linkLeft = [
   },
   {
     to: !isAuth?"/Sign":"/Account",
-    title:!isAuth? "Your account":data_auth[0].category=="admin"?`${data_auth[0].name} *`:`${data_auth[0].name}`,
+    title:!isAuth? "Your account":data_auth[0].category==="admin"?`${data_auth[0].name} *`:`${data_auth[0].name}`,
   },
 ];
 
@@ -67,15 +67,15 @@ const linkMiddle = [
       <div className={style.navBar__wrap}>
         <div>
           {linkLeft?.map(({ to, title }, index) => (
-            <Link className={style.navBar__left} to={to}>
-              {index==0 && <img className={style.bbclogo} src="/bbclogo.png" alt=""/>}
+            <Link key={title} className={style.navBar__left} to={to}>
+              {index===0 && <img className={style.bbclogo} src="/bbclogo.png" alt=""/>}
               {title}
             </Link>
           ))}
         </div>
         <div>
           {linkMiddle?.map(({ to, title }, index) => (
-            <Link className={style.navBar__right} to={to}>
+            <Link key={title} className={style.navBar__right} to={to}>
               {title}
             </Link>
           ))}

@@ -10,6 +10,9 @@ p {
 
 .commonCard__div {
     margin: 60px;
+    margin-top: 0px;
+    min-height: 500px;
+    height: fit-content;
 }
 
 .box__div {
@@ -41,6 +44,12 @@ p {
 .news__poster {
     width: 100%;
     height: 260px;
+    cursor: pointer;
+    filter: brightness(0.9);
+}
+
+.news__poster:hover {
+    filter: brightness(1);
 }
 
 .common__box__headline {
@@ -49,6 +58,12 @@ p {
     font-size: 20px;
     margin: 10px 0px;
     color: rgb(37, 37, 37);
+
+}
+
+.common__box__headline:hover {
+    text-decoration: underline;
+    cursor: pointer;
 }
 
 .common__image__tag {
@@ -75,6 +90,12 @@ p {
 .small__news__poster {
     width: 100%;
     height: 180px;
+    filter: brightness(0.9);
+}
+
+.small__news__poster:hover {
+    filter: brightness(1);
+    cursor: pointer;
 }
 
 .smallCardBox__content__div {
@@ -236,6 +257,10 @@ p {
     font-size: 20px;
 }
 
+.latest__News__para:hover {
+    cursor: pointer;
+}
+
 .author__div {
     display: flex;
     background-color: #2f3640;
@@ -266,6 +291,11 @@ p {
 .author__article {
     font-size: 18px;
     color: rgb(201, 201, 201);
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.author__article:hover {
+    cursor: pointer;
 }
 
 .author__div:hover {

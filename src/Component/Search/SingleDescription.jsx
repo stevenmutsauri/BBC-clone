@@ -1,5 +1,5 @@
 import React from "react";
-import { useLocation, useParams } from "react-router";
+import { useParams } from "react-router";
 import { useSelector, useDispatch } from "react-redux";
 import SingleDescLeft from "./SingleDescLeft";
 import style from "../Styles/singleDescription.module.css";
@@ -12,10 +12,7 @@ export default function SingleDescription() {
   const searchList = useSelector((state) => state.search.searchList);
   const isLoading = useSelector((state) => state.search.isLoading);
   const adminAuthData =  useSelector((state) => state.login.adminAuthData);
-  console.log("admin auth data")
-  console.log(adminAuthData)
   const dispatch = useDispatch();
-
   const { singleId } = useParams();
 
   var list = [...searchList];
@@ -34,8 +31,6 @@ export default function SingleDescription() {
       }
     })[0];
     setSingle(_single);
-    // console.log("single")
-    // console.log(_single)
   }, [searchList]);
 
   const desc1 = single && single.description.split(".");
@@ -78,11 +73,6 @@ export default function SingleDescription() {
       (item) =>
         item.article_data && item.article_data[0].sub_description.split(".")
     );
-  // console.log("hello");
-  // console.log(desc4);
-
-  // console.log(desc1);
-  // console.log(single);
 
   const getHrAgo = () => {
     var min = 1;
@@ -93,7 +83,6 @@ export default function SingleDescription() {
   };
 
   const features = [...searchList].reverse().splice(1, 7);
-  // console.log(features);
 
   const mostRead = [...searchList].splice(1, 8);
 
@@ -195,8 +184,4 @@ export default function SingleDescription() {
       )}
     </>
   );
-}
-{
-  /* <img src="https://ichef.bbci.co.uk/news/976/cpsprodpb/920E/production/_114509373_gettyimages-1197872954.jpg" alt=""/>
-<Link className={style.single__topStories}><div>hello</div></Link> */
 }

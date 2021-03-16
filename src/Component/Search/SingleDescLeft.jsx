@@ -4,17 +4,10 @@ import { BiTime } from 'react-icons/bi';
 import style from "../Styles/singleDescription.module.css";
 import SocialShare from './socialShare';
 
-
-
-
-
 export default function SingleDescLeft({single,desc1,desc2,desc3}) {
-  
 
   const location=useLocation()
-  console.log(location)
   let singleId="https://bbc-clone.herokuapp.com"+location.pathname
-  console.log("shareId"+ singleId)
     return (
         <div>
              {single &&  <div>

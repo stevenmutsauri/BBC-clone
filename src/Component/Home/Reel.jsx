@@ -14,7 +14,6 @@ const Reel = ()=>{
     },[])
 
     let items = data
-    console.log(items)
 
     return(
 

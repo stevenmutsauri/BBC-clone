@@ -119,5 +119,6 @@ export { getNewsDataRequest,
         fetchNewsData,
         fetchCoronaNews,
         fetchIndiaNews,
-        fetchTopStories
+        fetchTopStories,
+        shuffle
 }

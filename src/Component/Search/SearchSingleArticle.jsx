@@ -5,11 +5,8 @@ import { Link, useLocation } from "react-router-dom";
 import Skeleton from "react-loading-skeleton";
 export default function SearchSingleArticle({item,isLoading}) {
   const location=useLocation()
-  console.log(location)
   var pathname=location.pathname
-  console.log(pathname)
   var search=location.search
-  console.log(search)
   return (
     <div className={style.single__article}>
       {!isLoading?

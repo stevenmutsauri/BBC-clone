@@ -1,18 +1,16 @@
 import React from "react"
-import styles from "./welcomecard.module.css"
-import {WeatherForecast} from "./WeatherForecast"
+import styles from "../Styles/welcomecard.module.css"
+import { useHistory } from "react-router"
 const WelcomeCard = ({data})=>{
     const date = new Date()
-    const day = date.getDay()
     const month = date.getMonth()
     const mnth = Number(month)+1
      const dd = date.getDate()
     const year = date.getFullYear()
-    console.log(year,month,dd)
-
     
-    const handleClick = (e)=>{
-        console.log(e.key)
+    const history = useHistory()
+    const handleClick = (id) => {
+        return history.push(`/news/${id}`)
     }
     return(
         <>
@@ -20,12 +18,9 @@ const WelcomeCard = ({data})=>{
                 <div style={{textAlign:"left",margin:"35px auto",fontSize:"30px",fontWeight:"bolder",color:"rgb(74,74,74)",display:"flex",justifyContent:"space-between",width:"92%"}}>
                     <p>Welcome to BBC.com</p>
                      <p>{dd +"/"+ mnth+"/"+year}</p>
-                     {/* <WeatherForecast/> */}
                 </div>
                 <div className={styles.outermain}>
-
-
-                    <div  key={data[0].id} onClick ={handleClick} className={styles.innermain}>
+                    <div  key={data[0].id} onClick ={(e) => handleClick(data[0].id)} className={styles.innermain}>
                         <div style={{margin:"320px 10px",textAlign:"left"}}>
                             <p >{data[0].headline}</p>
                             <p style={{fontWeight:"normal"}}>{data[0].img[0].img_tag}</p>
@@ -41,10 +36,10 @@ const WelcomeCard = ({data})=>{
                     <div className={styles.innermainRight}>
 
 
-                        <div key={data[1].id} className={styles.box1}>
+                        <div key={data[1].id} className={styles.box1} onClick ={(e) => handleClick(data[1].id)}>
                             <div  className={styles.innermain1}>
                         
-                                <img src = {data[1].img[0].img_url} style={{width:"100%",height:"210px",zIndex:"0"}}/>
+                                <img src = {data[1].img[0].img_url} style={{width:"100%",height:"210px",zIndex:"0"}} alt="news poster"/>
                                 <div style={{margin:"-90px 10px",textAlign:"left",color:"white",fontSize:"18px"}}>
                                     <p style={{zIndex:"2",fontWeight:"normal",fontSize:"15px"}}>{data[1].headline}</p>
                                     
@@ -52,9 +47,9 @@ const WelcomeCard = ({data})=>{
                                 </div>
                             </div>
 
-                            <div  key={data[2].id}className={styles.innermain1}>
+                            <div  key={data[2].id}className={styles.innermain1} onClick ={(e) => handleClick(data[2].id)}>
                         
-                                <img src = {data[2].img[0].img_url} style={{width:"100%",height:"210px",zIndex:"0"}}/>
+                                <img src = {data[2].img[0].img_url} style={{width:"100%",height:"210px",zIndex:"0"}} alt="news poster"/>
                                 <div style={{margin:"-90px 10px",textAlign:"left",color:"white",fontSize:"18px"}}>
                                     <p style={{zIndex:"2",fontWeight:"normal",fontSize:"15px"}}>{data[2].headline}</p>
                                     
@@ -64,10 +59,10 @@ const WelcomeCard = ({data})=>{
                             </div>
 
 
-                            <div key={data[3].id}className={styles.box2}>
+                            <div key={data[3].id}className={styles.box2} onClick ={(e) => handleClick(data[3].id)}>
                                 <div className={styles.innermain1}>
                             
-                                    <img src = {data[3].img[0].img_url} style={{width:"100%",height:"210px",zIndex:"0"}}/>
+                                    <img src = {data[3].img[0].img_url} style={{width:"100%",height:"210px",zIndex:"0"}} alt="news poster"/>
                                     <div style={{margin:"-90px 10px",textAlign:"left",color:"white",fontSize:"18px"}}>
                                         <p style={{zIndex:"2",fontWeight:"normal",fontSize:"15px"}}>{data[3].headline}</p>
                                         
@@ -76,9 +71,9 @@ const WelcomeCard = ({data})=>{
                                 </div>
 
 
-                                <div key={data[4].id} className={styles.innermain1}>
+                                <div key={data[4].id} className={styles.innermain1} onClick ={(e) => handleClick(data[4].id)}>
                             
-                                    <img src = {data[4].img[0].img_url} style={{width:"100%",height:"210px",zIndex:"0"}}/>
+                                    <img src = {data[4].img[0].img_url} style={{width:"100%",height:"210px",zIndex:"0"}} alt="news poster"/>
                                     <div style={{margin:"-110px 10px",textAlign:"left",color:"white",fontSize:"18px"}}>
                                         <p style={{zIndex:"2",fontWeight:"normal",fontSize:"15px"}}>{data[4].headline}</p>
                                         

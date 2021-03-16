@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import {fetchNewsData} from "../../Redux/app/action";
-import styles from './NewsTost.module.css';
+import styles from '../Styles/NewsTost.module.css';
 
 import 'react-toastify/dist/ReactToastify.minimal.css';
 import 'react-toastify/dist/ReactToastify.css';
@@ -31,12 +31,12 @@ const NewsTost = () => {
 
     useEffect(() => {
         setTimeout(() => {
-            // displayMsg()
-        }, 5000);
+            displayMsg()
+        }, 20000);
     }, []);
     return (
       <div>
-        {/* <ToastContainer  transition={Slide}/> */}
+        <ToastContainer  transition={Slide}/>
       </div>
     );
 }

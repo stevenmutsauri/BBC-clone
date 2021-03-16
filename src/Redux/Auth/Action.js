@@ -69,7 +69,7 @@ const getNewsDataPost = () => dispatch => {
     dispatch(getNewsDataRequest())
     return axios.get("https://fake---api.herokuapp.com/newspost")
     .then(res => {
-        console.log(res.data)
+        // console.log(res.data)
         dispatch(getNewsDataSuccess(res.data))
     })
     .catch(err => {
