@@ -15,7 +15,7 @@ const EditorCard = () => {
     const newsDataSet = newsData.splice(1,6)
     // const mainNews = newsData.splice(6,1)
     // console.log(topStories);
-    console.log();
+    // console.log();
     useEffect(()=> {
         dispatch(fetchNewsData())
         dispatch(fetchTopStories())

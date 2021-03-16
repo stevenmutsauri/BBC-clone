@@ -46,6 +46,7 @@
     list-style: none;
     width: 35%;
     color: rgba(0, 0, 0, 0.575);
+    padding-left: 10px;
     border-left: 1px solid color rgba(0, 0, 0, 0.39);
   }
 
@@ -69,5 +70,6 @@
   }
 
   .sending_dataways_heading{
-    border-left: 1px solid color rgba(0, 0, 0, 0.979);
+    padding-left: 8px;
+    border-left: 1px solid color rgba(0, 0, 0, 0.39);
   }

@@ -12,7 +12,7 @@ import { PopupAd } from "../Advertisement/PopupAd"
 const Work = ()=>{
     const dispatch = useDispatch()
     const data = useSelector((state)=>state.work.data)
-    console.log(data)
+    // console.log(data)
  
     React.useEffect(()=>{
         dispatch(fetchWorkData())

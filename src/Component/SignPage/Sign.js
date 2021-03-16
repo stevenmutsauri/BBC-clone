@@ -16,7 +16,7 @@ function Sign() {
         axios.get("https://fake---api.herokuapp.com/ApiAuth")
         .then(res=>setGet_data(res.data))
     }
-    console.log(get_data)
+    // console.log(get_data)
     const payload={
         email:"",
         password:""
@@ -53,7 +53,7 @@ function Sign() {
             [name]:value
         })
     }
-    console.log(regiterDat)
+    // console.log(regiterDat)
     const handleChange= (e)=>{
         const {name,value}=e.target
         setEmail({
