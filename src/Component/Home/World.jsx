@@ -14,7 +14,7 @@ const World = ()=>{
     },[])
 
     let items = data
-    console.log(items)
+    // console.log(items)
 
     return(
 

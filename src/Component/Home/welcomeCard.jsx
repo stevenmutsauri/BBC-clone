@@ -12,7 +12,7 @@ const WelcomeCard = ({data})=>{
 
     
     const handleClick = (e)=>{
-        console.log(e.key)
+        // console.log(e.key)
     }
     return(
         <>

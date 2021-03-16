@@ -12,9 +12,9 @@ export default function SingleDescLeft({single,desc1,desc2,desc3}) {
   
 
   const location=useLocation()
-  console.log(location)
+  // console.log(location)
   let singleId="https://bbc-clone.herokuapp.com"+location.pathname
-  console.log("shareId"+ singleId)
+  // console.log("shareId"+ singleId)
     return (
         <div>
              {single &&  <div>

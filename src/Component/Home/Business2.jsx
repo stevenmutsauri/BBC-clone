@@ -15,7 +15,7 @@ const Business2 = ()=>{
     },[])
 
     let items = data
-    console.log(items)
+    // console.log(items)
 
     return(
 
