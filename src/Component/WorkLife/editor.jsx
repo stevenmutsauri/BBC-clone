@@ -2,7 +2,7 @@ import React from "react"
 import styles from "./editor.module.css"
 
 const Editor = ({data})=>{
-    console.log(data)
+    // console.log(data)
     return(
         <>
             {data.length!==0 && (

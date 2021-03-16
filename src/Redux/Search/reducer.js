@@ -14,7 +14,6 @@ const initState = {
   vedioList: [],
 };
 const reducer = (state = initState, { type, payload }) => {
-  console.log(state);
   switch (type) {
     case GET_SEARCH_REQUEST: {
       return {

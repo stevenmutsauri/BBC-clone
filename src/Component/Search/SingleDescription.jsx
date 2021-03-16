@@ -12,8 +12,8 @@ export default function SingleDescription() {
   const searchList = useSelector((state) => state.search.searchList);
   const isLoading = useSelector((state) => state.search.isLoading);
   const adminAuthData =  useSelector((state) => state.login.adminAuthData);
-  console.log("admin auth data")
-  console.log(adminAuthData)
+  // console.log("admin auth data")
+  // console.log(adminAuthData)
   const dispatch = useDispatch();
 
   const { singleId } = useParams();

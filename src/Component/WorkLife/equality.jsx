@@ -3,7 +3,7 @@ import Editor from "./editor"
 import styles from "./equality.module.css"
 
 const Equality = ({data})=>{
-    console.log(data)
+    // console.log(data)
     return(
         <>
             {data.length!==0 && (

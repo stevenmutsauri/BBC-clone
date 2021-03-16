@@ -12,7 +12,7 @@ export default function SearchBar({className=style.search}) {
     const history=useHistory()
     const dispatch = useDispatch()
     const [searchQuery,setSeacrchQuery]= React.useState("")
-    console.log(searchQuery)
+    // console.log(searchQuery)
     
 
     const handleSearch=()=>{

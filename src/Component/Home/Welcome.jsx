@@ -19,7 +19,7 @@ const Welcome = ()=>{
     // console.log(data)
     let items = []
     items.push( ...data.splice(0,5))
-    console.log(items)
+    // console.log(items)
 
     return loading?(<img src = "https://cdn.dribbble.com/users/1186261/screenshots/3718681/_______.gif" style={{width:"18%",height:"150px"}}/>):error?(<p>An error occured</p>):(
         <>

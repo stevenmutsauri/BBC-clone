@@ -2,7 +2,7 @@ import React from "react"
 import styles from "./world.module.css"
 
 const WorldCards = ({data})=>{
-    console.log(data)
+    // console.log(data)
     return(
         <>
             {data.length!==0 && (

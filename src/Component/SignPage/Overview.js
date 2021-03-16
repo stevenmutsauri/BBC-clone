@@ -7,8 +7,8 @@ function Overview() {
     const {adminAuthData,data_auth,isAuth}=useSelector(state=>state.login)
     const date=new Date().toLocaleDateString()
     const dispatch = useDispatch()
-    console.log("pranit")
-    console.log(adminAuthData)
+    // console.log("pranit")
+    // console.log(adminAuthData)
     // const {isAuth}=useSelector(state=>state.login)
     const imageRef=React.useRef()
     const post_data={

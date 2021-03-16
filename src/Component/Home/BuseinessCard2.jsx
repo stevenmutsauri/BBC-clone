@@ -9,8 +9,8 @@ const BusinessCard2 = ()=>{
     const data = useSelector(state => state.app.data)
     
     // console.log(data[34])
-    console.log("BusinessCard2")
-    console.log(data)
+    // console.log("BusinessCard2")
+    // console.log(data)
 
     return(
 

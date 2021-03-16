@@ -20,13 +20,7 @@ function NewsSingleArticles({item,isLoading}) {
         else history.replace("/news")
     },[dispatch])
 
-    console.log(singleIdData)
-//   const locategoryion=useLocation()
-//   console.log(location)
-//   var pathname=location.pathname
-//   console.log(pathname)
-//   var search=location.search
-//   console.log(search)
+
   
   return singleIdData.id ? (
     <div className={style.single__article}>
