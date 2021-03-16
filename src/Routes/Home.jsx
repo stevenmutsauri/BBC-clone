@@ -13,7 +13,13 @@ import Welcome from "../Component/Home/Welcome";
 import World from "../Component/Home/World";
 import { BannerAd} from '../Component/Advertisement/BannerAd';
 import { PopupAd } from '../Component/Advertisement/PopupAd';
+import { useDispatch } from "react-redux";
+import { fetchNewsData } from "../Redux/app/action";
 const Home = () => {
+  const dispatch = useDispatch()
+  React.useEffect(() => {
+    dispatch(fetchNewsData())
+  },[dispatch])
   return (
     <div>
       <BannerAd />
