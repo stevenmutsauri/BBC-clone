@@ -4,9 +4,9 @@
 
 .main{
     width:95%;
-    height:600px;
     margin: 20px auto;
     margin-bottom: 0px;
+    padding-bottom: 30px;
 }
 .innermain{
     width:50%;
@@ -29,7 +29,6 @@
 .outermain{
     margin:0px;
     display:flex;
-    height:600px
 }
 
 .innermainRight{
