@@ -13,7 +13,6 @@ import Settings from "../Component/SignPage/Setting";
 import Work from "../Component/WorkLife/Work";
 
 import { News } from "./News";
-import { NewsSingleArticles } from "../Component/News/NewsArticles/NewsSingleArticles";
 
 export default function AllRoutes() {
   return (
@@ -60,9 +59,6 @@ export default function AllRoutes() {
         <Route path="/worklife" exact>
           <Work />
         </Route>
-        {/* <Route path="/news/:id" exact>
-          <NewsSingleArticles />
-        </Route> */}
         <Route>
           <PageNot></PageNot>
         </Route>

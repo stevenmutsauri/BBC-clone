@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import {fetchIndiaNews} from "../../Redux/app/action"
-import styles from './Home.module.css'
+import styles from '../Styles/Home.module.css'
 import { SmallCardBox } from './SmallCardBox';
 
 const IndiaNewsCard = () => {
@@ -10,7 +10,6 @@ const IndiaNewsCard = () => {
     const indiaNews = useSelector(state => state.app.indiaNews)
     const indiaDataSet = indiaNews.splice(1,4)
 
-    // console.log(indiaDataSet)
     useEffect(()=> {
         dispatch(fetchIndiaNews())
     }, [dispatch])

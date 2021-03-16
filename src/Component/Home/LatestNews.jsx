@@ -1,6 +1,6 @@
 import React from 'react';
 import { useHistory } from 'react-router';
-import styles from './Home.module.css'
+import styles from '../Styles/Home.module.css'
 
 const LatestNews = ({data}) => {
     const history = useHistory()
@@ -14,9 +14,9 @@ const LatestNews = ({data}) => {
             <div>
             <p className={styles.latest__num}>{post_num}</p>
             </div>
-            <dib>
+            <div>
             <p className={styles.latest__News__para}>{article}</p>
-            </dib>
+            </div>
         </div>
     )
 }

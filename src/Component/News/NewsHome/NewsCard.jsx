@@ -14,7 +14,7 @@ const NewsCard = ({data}) => {
        }
 
        const history = useHistory()
-       const handleClick = (id,category,) => {
+       const handleClick = (id) => {
         return history.push(`/news/${id}`)
        }
     return (

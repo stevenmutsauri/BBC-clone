@@ -8,13 +8,11 @@ const World = ()=>{
     const data = useSelector((state)=>state.app.data)
     const dispatch = useDispatch()
 
-
     React.useEffect(()=>{
         dispatch(fetchNewsData())
     },[])
 
     let items = data
-    // console.log(items)
 
     return(
 

@@ -1,6 +1,6 @@
 import React from 'react';
 import { useHistory } from 'react-router';
-import styles from './Home.module.css'
+import styles from '../Styles/Home.module.css'
 
 const BigBox = () => {
     const history = useHistory()

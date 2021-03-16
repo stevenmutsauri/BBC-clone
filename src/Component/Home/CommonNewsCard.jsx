@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import {fetchNewsData} from "../../Redux/app/action"
-import styles from './Home.module.css'
+import styles from '../Styles/Home.module.css'
 import { CommonCardBox } from '../Home/CommonCardBox';
 
 const NewsCard = () => {

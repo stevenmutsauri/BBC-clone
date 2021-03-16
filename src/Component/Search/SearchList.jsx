@@ -6,7 +6,6 @@ import PaginationS from "../SearchPagination/PaginationS";
 import SearchBar from "./SearchBar";
 import SearchSingleArticle from "./SearchSingleArticle";
 import style from "../Styles/searchBlue.module.css";
-// import Skeleton from "react-loading-skeleton";
 export default function SearchList() {
   const isLoading = useSelector((state) => state.search.isLoading);
   const isError = useSelector((state) => state.search.isError);
@@ -16,7 +15,6 @@ export default function SearchList() {
   const searchList = useSelector((state) => state.search.searchList);
   let totalPages = Math.ceil(searchList.length / perPage);
   const location = useLocation();
-  // console.log(location);
   const searchQ = location.search;
   const currentPage =
     searchQ.split("page").length > 1
@@ -50,7 +48,7 @@ export default function SearchList() {
           {new Array(8).fill(0).map((item)=><SearchSingleArticle item={item} isLoading={isLoading}></SearchSingleArticle>)}</div>
       )}
 
-      {searchList && searchList.length == 0 && <h1>no results found</h1>}
+      {searchList && searchList.length === 0 && <h1>no results found</h1>}
       <PaginationS
         currentPage={currentPage}
         totalPages={totalPages}

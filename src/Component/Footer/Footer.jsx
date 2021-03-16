@@ -81,7 +81,7 @@ export default function Footer() {
         <div className={style.footer__unit} >
           {links1.map(({ to, title }) => (
              
-            <Link className={style.footer__table__link} to={to}>
+            <Link key={title} className={style.footer__table__link} to={to}>
               {title}
             </Link>
         

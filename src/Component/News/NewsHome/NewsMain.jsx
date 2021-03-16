@@ -7,7 +7,6 @@ import styles from "../../Styles/newsMain.module.css";
 import { HeadingLinks } from "./HeadingLinks";
 import { NewsCard } from "./NewsCard";
 import { Headings } from "./Headings";
-import { TopImageHeading } from "./TopImageHeading";
 import { TopHeadlines } from "./TopHeadlines";
 import AboveFooter from "./AboveFooter";
 
@@ -16,7 +15,6 @@ const NewsMain = () => {
   const {
     newsData,
     sportsData,
-    isError,
     isLoading,
     coronaData,
     mostWatched,

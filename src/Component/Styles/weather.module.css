@@ -5,7 +5,6 @@
     margin-left: 100px;
     text-align: left;
     width: fit-content;
-  
 }
 .weather__topBox__h3{
     margin:-30px 5px;
@@ -33,6 +32,4 @@
     color: #8c8c8c;
     margin-left: 1rem;
     transform: translateY(-50%);
-    
-   
 }
