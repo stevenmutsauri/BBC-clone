@@ -1,16 +1,14 @@
 import React from "react";
 import style from "../../Styles/searchSingleArticle.module.css";
 import { BiTimeFive } from 'react-icons/bi';
-import { Link, useHistory, useLocation, useParams } from "react-router-dom";
+import { Link, useHistory,  useParams } from "react-router-dom";
 import { shallowEqual, useDispatch, useSelector } from "react-redux";
 import { getSingleIdData } from "../../../Redux/news/action";
-// import Skeleton from "react-loading-skeleton";
 
 function NewsSingleArticles({item,isLoading}) {
     const {category,id} = useParams()
-    const {singleIdData,isLoadingId,isErrorId} = useSelector(state => state.news,shallowEqual)
+    const {singleIdData,isLoadingId} = useSelector(state => state.news,shallowEqual)
     const history = useHistory()
-    // console.log(category,id)
     const dispatch = useDispatch()
 
     React.useEffect(() => {

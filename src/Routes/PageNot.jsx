@@ -1,6 +1,5 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import SearchBar from '../Component/Search/SearchBar'
 import style from "../Component/Styles/noPage.module.css"
 
 export default function PageNot() {
