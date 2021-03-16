@@ -63,7 +63,6 @@ const WelcomeCard = ({data})=>{
                             </div>
                             </div>
 
-
                             <div key={data[3].id}className={styles.box2} onClick ={(e) => handleClick(data[3].id)}>
                                 <div className={styles.innermain1}>
                             
