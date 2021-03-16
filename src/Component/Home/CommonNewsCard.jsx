@@ -15,7 +15,7 @@ const NewsCard = () => {
     }, [dispatch])
 
     return (
-        <div className={styles.commonCard__div}>
+        <div className={styles.commonCard__div} >
             <p className={styles.category__name}>News</p>
             <div className={styles.box__div}>
                 {
