@@ -58,7 +58,11 @@ p {
     font-size: 20px;
     margin: 10px 0px;
     color: rgb(37, 37, 37);
-
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
 }
 
 .common__box__headline:hover {
@@ -71,6 +75,11 @@ p {
     margin: 5px 0px;
     text-align: left;
     color: #444a4b;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
 }
 
 .common__category {

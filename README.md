@@ -19,7 +19,7 @@
     * uuid
 
 ## How to use the product
-1. By clicking this [link](http://infinite-caverns-42661.herokuapp.com/) User will be redirected to Home Page.
+1. By clicking this [link](https://bbc-clone.vercel.app) User will be redirected to Home Page.
 ![<HomePage>](https://tgdown.eu-gb.mybluemix.net/7805521439850432/2021-03-15_10:10:21.jpg)
 
 2. From Navbar any person can login as Normal user or as Admin if they already has an account, or they can register.
