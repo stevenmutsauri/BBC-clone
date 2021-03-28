@@ -36,7 +36,7 @@ const getWorkLifeFailure = () =>{
 export const fetchWorkData = () => (dispatch) => {
     dispatch(getWorkLifeRequest())
 
-    return axios.get("https://fake---api.herokuapp.com/work")
+    return axios.get("https://bbc-db.herokuapp.com/work")
     .then((res) => {
         const getData = getWorkLifeSuccess(res.data)
         console.log(res.data)

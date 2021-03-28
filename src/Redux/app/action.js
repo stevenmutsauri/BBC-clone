@@ -56,7 +56,7 @@ const shuffle = (para) => {
 const fetchNewsData = () => (dispatch) => {
     dispatch(getNewsDataRequest())
 
-    return axios.get("https://fake---api.herokuapp.com/news")
+    return axios.get("https://bbc-db.herokuapp.com/news")
     .then((res) => {
         const getData = getNewsDataSuccess(shuffle(res.data))
         dispatch(getData)
@@ -72,7 +72,7 @@ const fetchNewsData = () => (dispatch) => {
 const fetchCoronaNews = () => (dispatch) => {
     dispatch(getNewsDataRequest())
 
-    return axios.get("https://fake---api.herokuapp.com/news?category=Coronavirus")
+    return axios.get("https://bbc-db.herokuapp.com/news?category=Coronavirus")
     .then((res) => {
         const getData = getCoronaNewsSuccess(shuffle(res.data))
         dispatch(getData)
@@ -87,7 +87,7 @@ const fetchCoronaNews = () => (dispatch) => {
 const fetchIndiaNews = () => (dispatch) => {
     dispatch(getNewsDataRequest())
 
-    return axios.get("https://fake---api.herokuapp.com/news?sub_category=India")
+    return axios.get("https://bbc-db.herokuapp.com/news?sub_category=India")
     .then((res) => {
         const getData = getIndiaNewsSuccess(shuffle(res.data))
         dispatch(getData)
@@ -102,7 +102,7 @@ const fetchIndiaNews = () => (dispatch) => {
 const fetchTopStories = () => (dispatch) => {
     dispatch(getNewsDataRequest())
 
-    return axios.get("https://fake---api.herokuapp.com/top_stories")
+    return axios.get("https://bbc-db.herokuapp.com/top_stories")
     .then((res) => {
         const getData = getTopStoriesSuccess(res.data)
         dispatch(getData)

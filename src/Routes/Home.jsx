@@ -20,7 +20,7 @@ const Home = () => {
       <BannerAd />
       <PopupAd />
       <Welcome />
-      <WeatherForecast />
+      {/* <WeatherForecast /> */}
       <NewsCard />
       <CoronaNewsCard />
       <IndiaNewsCard />

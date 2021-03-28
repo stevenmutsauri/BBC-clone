@@ -46,7 +46,7 @@ const getVedioFailure = (payload) => {
 const getSearchFetchData = (payload) => (dispatch) => {
   dispatch(getSearchRequest());
   return axios
-    .get(`https://fake---api.herokuapp.com/news${payload}`)
+    .get(`https://bbc-db.herokuapp.com/news${payload}`)
     .then((res) => {
       dispatch(getSearchSuccess(res.data));
     })
@@ -57,7 +57,7 @@ const getSearchFetchData = (payload) => (dispatch) => {
 const getVedioFetchData = (payload) => (dispatch) => {
     dispatch(getVedioRequest());
     return axios
-      .get(`https://fake---api.herokuapp.com/reels`)
+      .get(`https://bbc-db.herokuapp.com/reels`)
       .then((res) => {
         dispatch(getVedioSuccess(res.data));
       })
