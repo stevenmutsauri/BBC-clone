@@ -3,7 +3,7 @@ import { useHistory } from 'react-router'
 import styles from "../../Styles/headingLinks.module.css"
 const HeadingLinks = ({data}) => {
     const history = useHistory()
-    const handleClick = (id,category,) => {
+    const handleClick = (id) => {
         return history.push(`/news/${id}`)
     }
     return (

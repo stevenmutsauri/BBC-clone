@@ -1,6 +1,7 @@
 import React from 'react';
 import { useHistory } from 'react-router';
-import styles from './Home.module.css'
+import styles from '../Styles/Home.module.css'
+
 const CommonCardBox = ({data}) => {
 
     const { headline, img, sub_category,id} = data;
@@ -10,6 +11,7 @@ const CommonCardBox = ({data}) => {
     const handleClick = (id) => {
         return history.push(`/news/${id}`)
     }
+    
     return (
         <div className={styles.commonCardBox__div} onClick={(e) => handleClick(id)}>
             <div className={styles.commonCardBox__content__div}>

@@ -1,5 +1,5 @@
 import React from 'react';
-import styles from './Advertisement.module.css'
+import styles from '../Styles/Advertisement.module.css'
 
 const BannerAd = () => {
     return (

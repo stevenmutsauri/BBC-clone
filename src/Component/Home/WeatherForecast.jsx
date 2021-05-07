@@ -11,7 +11,6 @@ const WeatherForecast =() => {
     const {isLoading,isError,weather} = useSelector(state => state.weather,shallowEqual)
     const dispatch = useDispatch()
     
-
     React.useEffect(() => {
         dispatch(getWeather(query))
     },[dispatch])
@@ -55,9 +54,7 @@ const WeatherForecast =() => {
                     ) : weather ? (
                     <div style={{display:"flex",width:"100%"}}>
                         <h1 style={{margin:"20px  2px"}}>{weather.temp_c} °C</h1>
-                        {/* <div style={{border:"1px solid black",width:"fit-content",height:"10px"}}>  */}
                         <img src={weather.condition.icon} alt="logo" margin="-15px 45px"  />
-                        {/* </div> */}
                     </div>
                 ): null}
             </div>

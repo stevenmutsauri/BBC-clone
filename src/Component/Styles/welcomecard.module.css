@@ -1,12 +1,12 @@
 .innermain1>img:hover, .innermain:hover {
-    
     z-index: 1;
-  }
+}
+
 .main{
     width:95%;
-    height:600px;
-    /* border:1px solid black; */
-    margin: 20px auto
+    margin: 20px auto;
+    margin-bottom: 0px;
+    padding-bottom: 30px;
 }
 .innermain{
     width:50%;
@@ -27,20 +27,14 @@
     margin:200px 0px
 }
 .outermain{
-    /* border:1px solid black; */
     margin:0px;
     display:flex;
-    height:600px
 }
 
 .innermainRight{
     width:55%;
     height:440px;
-    /* border:1px solid black; */
     margin: -10px  35px;
-    /* display:flex; */
-   
-
 }
 
 .innermain1{
@@ -48,18 +42,14 @@
     height:180px;
     border:1px solid white;
     margin: 5px 15px 35px 15px;
-    /* background-image:url("https://ichef.bbci.co.uk/news/976/cpsprodpb/FD8D/production/_117290946_gettyimages-1231095638.jpg") ; */
     color:white;
-    /* border:1px solid black; */
     font-size: large;
     font-weight: bold;
 }
 .box1{
-    /* border:1px solid black; */
     display:flex
 }
 
 .box2{
-    /* border:1px solid black; */
     display:flex
 }

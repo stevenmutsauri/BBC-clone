@@ -1,6 +1,7 @@
 import React from 'react';
 import { useHistory } from 'react-router';
-import styles from './Home.module.css'
+import styles from '../Styles/Home.module.css'
+
 const EditorBox = ({data}) => {
 
     const { headline, img, sub_category , id} = data;

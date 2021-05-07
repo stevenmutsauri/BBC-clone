@@ -1,6 +1,7 @@
 import React from 'react';
 import { useHistory } from 'react-router';
-import styles from './Home.module.css'
+import styles from '../Styles/Home.module.css'
+
 const SmallCardBox = ({data}) => {
 
     const { headline, img,id, sub_category} = data;
