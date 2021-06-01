@@ -56,7 +56,7 @@ export const getNewsDataFailure=(payload)=>{
 
 const newsDataAdmin = (payload) => dispatch => {
     dispatch(newsDataRequest())
-    return axios.post("https://fake---api.herokuapp.com/newspost",payload)
+    return axios.post("https://bbc-db.herokuapp.com/newspost",payload)
     .then(res => {
         dispatch(newsDataSuccess(res.data))
     })
@@ -67,7 +67,7 @@ const newsDataAdmin = (payload) => dispatch => {
 
 const getNewsDataPost = () => dispatch => {
     dispatch(getNewsDataRequest())
-    return axios.get("https://fake---api.herokuapp.com/newspost")
+    return axios.get("https://bbc-db.herokuapp.com/newspost")
     .then(res => {
         // console.log(res.data)
         dispatch(getNewsDataSuccess(res.data))

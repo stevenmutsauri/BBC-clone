@@ -42,7 +42,7 @@ const getSingleIdFailure = (payload) => {
 
 const getNewsData = (q) => dispatch => {
     dispatch(getNewsDataRequest())
-    return axios.get(`https://fake---api.herokuapp.com/news`)
+    return axios.get(`https://bbc-db.herokuapp.com/news`)
     .then(res => {
         dispatch(getNewsDataSuccess(res.data))
         // return {q,data:res.data.current}
@@ -55,7 +55,7 @@ const getNewsData = (q) => dispatch => {
 const getSingleIdData = (id) => dispatch => {
     dispatch(getSingleIdRequest())
     console.log(id)
-    return axios.get(`https://fake---api.herokuapp.com/news/${id}`)
+    return axios.get(`https://bbc-db.herokuapp.com/news/${id}`)
     .then(res => {
         dispatch(getSingleIdSuccess(res.data))
         // return {q,data:res.data.current}

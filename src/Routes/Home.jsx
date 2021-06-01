@@ -4,7 +4,6 @@ import { CoronaNewsCard } from "../Component/Home/CoronaNewsCard";
 import { EditorCard } from "../Component/Home/EditorCard";
 import { IndiaNewsCard } from "../Component/Home/IndiaNewsCard";
 import { MoreAroundBBC } from "../Component/Home/MoreAroundBBC";
-import { WeatherForecast } from "../Component/Home/WeatherForecast";
 import Welcome from "../Component/Home/Welcome";
 import { BannerAd} from '../Component/Advertisement/BannerAd';
 import { PopupAd } from '../Component/Advertisement/PopupAd';
@@ -16,7 +15,6 @@ const Home = () => {
       <BannerAd />
       <PopupAd />
       <Welcome />
-      <WeatherForecast />
       <NewsCard />
       <CoronaNewsCard />
       <IndiaNewsCard />
