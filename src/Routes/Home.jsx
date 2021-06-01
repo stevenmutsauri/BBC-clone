@@ -9,6 +9,8 @@ import { BannerAd} from '../Component/Advertisement/BannerAd';
 import { PopupAd } from '../Component/Advertisement/PopupAd';
 import { useDispatch } from "react-redux";
 import { fetchNewsData } from "../Redux/app/action";
+import { WeatherForecast } from "../Component/Home/WeatherForecast";
+
 const Home = () => {
   const dispatch = useDispatch()
   React.useEffect(() => {
@@ -19,6 +21,7 @@ const Home = () => {
       <BannerAd />
       <PopupAd />
       <Welcome />
+      <WeatherForecast />
       <NewsCard />
       <CoronaNewsCard />
       <IndiaNewsCard />
