@@ -13,7 +13,7 @@ function Sign() {
     },[])
 
     const getDataFilter=()=>{
-        axios.get("https://fake---api.herokuapp.com/ApiAuth")
+        axios.get("https://bbc-db.herokuapp.com/ApiAuth")
         .then(res=>setGet_data(res.data))
     }
     // console.log(get_data)
@@ -63,7 +63,7 @@ function Sign() {
     }
     const handleSubmitRegister=(e)=>{
         e.preventDefault()
-        axios.post(`https://fake---api.herokuapp.com/ApiAuth`,regiterDat)
+        axios.post(`https://bbc-db.herokuapp.com/ApiAuth`,regiterDat)
         .then(res=>{
             seNext(!next)
         })
@@ -71,7 +71,7 @@ function Sign() {
     const handleSubmit=(e)=>{
         e.preventDefault()
         
-        axios.get(`https://fake---api.herokuapp.com/ApiAuth?email=${email}&password=${password}`)
+        axios.get(`https://bbc-db.herokuapp.com/ApiAuth?email=${email}&password=${password}`)
         .then(res=>{
             const data=res.data
             if(data.length==0){

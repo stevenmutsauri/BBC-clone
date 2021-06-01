@@ -21,7 +21,7 @@ function Setting() {
 
     const handleDeleteAccount=()=>{
         if(password==data_auth[0].password){
-            axios.delete(`https://fake---api.herokuapp.com/ApiAuth/${data_auth[0].id}`)
+            axios.delete(`https://bbc-db.herokuapp.com//ApiAuth/${data_auth[0].id}`)
             .then(res=>{
                 (alert("deleted successfully"))
                 dispatch(loginSuccess(false))
