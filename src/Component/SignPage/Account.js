@@ -1,14 +1,16 @@
 import React from 'react'
 import { useDispatch, useSelector } from 'react-redux'
-import { Link, Redirect } from 'react-router-dom'
+import { Link, Redirect, useHistory } from 'react-router-dom'
 import { loginData, loginSuccess } from '../../Redux/Auth/Action.js'
 import "./Sign.css"
 function Account() {
     const {isAuth}=useSelector(state=>state.login)
     const dispatch=useDispatch()
+    const history = useHistory()
     const handleSignout=()=>{
         dispatch(loginData([]))
         dispatch(loginSuccess(false))
+        return history.replace("/")
     }
     
     return (

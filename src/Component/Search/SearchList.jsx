@@ -25,6 +25,7 @@ export default function SearchList() {
   React.useEffect(() => {
     dispatch(getSearchFetchData(searchQ));
   }, [searchQ]);
+  
   let startIndex = perPage * (currentPage - 1);
   let endIndex = perPage * currentPage;
   return (

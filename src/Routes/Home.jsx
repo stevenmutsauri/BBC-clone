@@ -7,6 +7,7 @@ import { MoreAroundBBC } from "../Component/Home/MoreAroundBBC";
 import Welcome from "../Component/Home/Welcome";
 import { BannerAd} from '../Component/Advertisement/BannerAd';
 import { PopupAd } from '../Component/Advertisement/PopupAd';
+import {WeatherForecast} from "../Component/Home/WeatherForecast"
 
 const Home = () => {
 
@@ -15,6 +16,7 @@ const Home = () => {
       <BannerAd />
       <PopupAd />
       <Welcome />
+      <WeatherForecast/>
       <NewsCard />
       <CoronaNewsCard />
       <IndiaNewsCard />

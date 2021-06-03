@@ -99,8 +99,8 @@ export default function SingleDescription() {
             desc3={desc3}
           ></SingleDescLeft>
 
-          <div className={style.singleDesc__right}>
-            <div className={style.singleDesc__right__sec1}>
+          <div className={style.singleDesc__right} >
+            <div className={style.singleDesc__right__sec1}  >
               <div></div>
               <h2>Latest Stories</h2>
               {adminAuthData?.map((item) => (

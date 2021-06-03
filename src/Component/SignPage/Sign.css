@@ -47,6 +47,7 @@
   background-attachment: fixed;
   background-size: 100%;
   min-height: 100vh;
+  padding-bottom: 120px;
 }
 .verify_data{
   font-size: 10px;

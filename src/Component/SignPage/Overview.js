@@ -1,13 +1,13 @@
 import React from 'react'
 import { useSelector,useDispatch } from 'react-redux'
-import { Redirect } from 'react-router'
+import { Redirect, useHistory } from 'react-router'
 import { getNewsDataPost, newsDataAdmin } from '../../Redux/Auth/Action'
 
 function Overview() {
     const {data_auth,isAuth}=useSelector(state=>state.login)
     const date=new Date().toLocaleDateString()
     const dispatch = useDispatch()
-
+    const history = useHistory()
     const imageRef=React.useRef()
     const post_data={
         headline:"",
@@ -53,8 +53,12 @@ function Overview() {
         e.preventDefault()
        
         console.log(data_post)
+
         dispatch(newsDataAdmin(data_post))
-        
+        .then(res => {alert("Successfully posted the headline!!")
+       
+    })
+    return history.push("/news/200013")
     }  
     
     React.useEffect(()=>{
