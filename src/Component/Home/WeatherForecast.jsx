@@ -40,7 +40,7 @@ const WeatherForecast =() => {
                 {show && (
                     <div style={{display:"flex",alignItems:"center"}}>
                         <input value={query} onChange={e => setQuery(e.target.value)} placeholder="enter city"/>
-                        <button  onClick={handleClick}>EDIT</button>
+                        <button  onClick={handleClick}>Submit</button>
                     </div>
                 )}
                 {isLoading ? <div>...loading</div>  : isError ? (
