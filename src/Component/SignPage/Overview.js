@@ -55,10 +55,8 @@ function Overview() {
         console.log(data_post)
 
         dispatch(newsDataAdmin(data_post))
-        .then(res => {alert("Successfully posted the headline!!")
-       
-    })
-    return history.push("/news/200013")
+        .then(res => alert("Successfully posted the headline!!"))
+    
     }  
     
     React.useEffect(()=>{

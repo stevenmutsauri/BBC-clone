@@ -100,10 +100,10 @@ export default function SingleDescription() {
           ></SingleDescLeft>
 
           <div className={style.singleDesc__right} >
-            <div className={style.singleDesc__right__sec1}  >
+            <div className={style.singleDesc__right__sec1} >
               <div></div>
               <h2>Latest Stories</h2>
-              {adminAuthData?.map((item) => (
+              {adminAuthData?.slice(0,3).map((item) => (
                 <div>
                   <Link
                     to={"/news/" + item.id}
@@ -116,16 +116,16 @@ export default function SingleDescription() {
                   </Link>
                   <div className={style.singleTime}>
                     <span className={style.singleTime__icon}>
-                      <BiTime />
+                      {/* <BiTime /> */}
                     </span>{" "}
-                    {getHrAgo()}
+                    {/* {getHrAgo()} */}
                   </div>
                 </div>
               ))}
 
 
-              {arr?.map((item) => (
-                <div>
+              {arr?.slice(0,5).map((item, i) =>  (
+                <div >
                   <Link
                     to={"/news/" + item.id}
                     className={style.single__topStories}
@@ -137,9 +137,9 @@ export default function SingleDescription() {
                   </Link>
                   <div className={style.singleTime}>
                     <span className={style.singleTime__icon}>
-                      <BiTime />
+                      {/* <BiTime /> */}
                     </span>{" "}
-                    {getHrAgo()}
+                    {/* {getHrAgo()} */}
                   </div>
                 </div>
               ))}
